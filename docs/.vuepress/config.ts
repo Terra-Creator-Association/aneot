@@ -3,8 +3,8 @@ import themeConfig from "./themeConfig";
 
 export default defineHopeConfig({
   lang: "zh-CN",
-  title: "TCA月刊",
-  description: "TCA月刊",
+  title: "回归线",
+  description: "Another End of Terra",
   base: "/",
 
   head: [

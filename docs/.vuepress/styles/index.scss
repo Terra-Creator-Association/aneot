@@ -1,0 +1,29 @@
+// 首行缩进2字符
+.theme-hope-content p {
+    text-indent: 2em;
+}
+
+.textkai {
+    font-family: 'crimson', 'Times New Roman', 'KaiTi', 'KaiTi_GB2312', 'STKaiti', serif;
+}
+
+.textkai p {
+    line-height: 1.3;
+    margin: 0.3em 0;
+}
+
+.excerpt p {
+    margin: 0.3em 0;
+}
+
+.centering {
+    text-align: center;
+}
+
+.centering p {
+    text-indent: 0;
+}
+
+.hero-logo {
+    max-width: 80%;
+}
