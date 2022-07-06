@@ -96,6 +96,8 @@ tag:
   </div>
 </div>
 
+图 ⦾ ionize & 狡童
+
 ## 劳伦缇娜
 
 <div class="textkai flexbox">
@@ -120,7 +122,7 @@ tag:
     &emsp;纤长的手指轻轻地点在镜面，二人指尖相触。<br>
     &emsp;碎裂的幻梦如纤柔的尘，从她的指间滑落。无意义的死物四分五裂，消失无踪。<br>
     &emsp;她不愿归属深溟，她无需他人赋予。<br>
-    &emsp;她是劳伦缇娜，她即自我。
+    &emsp;她是劳伦缇娜，她即自我。<br><br>图 ⦾ LOFTER @ 半只祈鸢
   </div>
 </div>
 
@@ -145,7 +147,8 @@ tag:
     &emsp;我的意识似已升华。我俯瞰静谧的大地。<br>
     &emsp;我是谁？<br>
     &emsp;…<br>
-    &emsp;我是<ruby>伊莎玛拉<rp>(</rp><rt>Ishar-mla</rt><rp>)</rp></ruby>。
+    &emsp;我是<ruby>伊莎玛拉<rp>(</rp><rt>Ishar-mla</rt><rp>)</rp></ruby>。<br><br>
+    图 ⦾ LOFTER @ 半只祈鸢
   </div>
   <div style="margin-bottom:1em;width:38%;min-width:240px">
     <img src="./res/蒂升华.png" >
