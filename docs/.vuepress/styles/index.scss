@@ -1,10 +1,13 @@
+@import url("https://gcore.jsdelivr.net/gh/Nemo1166/OpenFoundertypeKai/FZKTK.css");
+
 // 首行缩进2字符
 .theme-hope-content p {
     text-indent: 2em;
 }
 
 .textkai {
-    font-family: 'crimson', 'Times New Roman', 'KaiTi', 'KaiTi_GB2312', 'STKaiti', serif;
+    font-size: 18px;
+    font-family: 'crimson', 'Times New Roman', 'KaiTi', 'KaiTi_GB2312', 'STKaiti', 'FZKTK', serif;
 }
 
 .textkai p {
@@ -26,4 +29,23 @@
 
 .hero-logo {
     max-width: 80%;
+}
+
+.borderless {
+
+    tr,
+    td,
+    th {
+        border: 0;
+    }
+}
+
+.flexbox {
+    margin-top: 1em;
+    display: -webkit-flex;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    align-content: center;
+    justify-content: space-around;
 }
