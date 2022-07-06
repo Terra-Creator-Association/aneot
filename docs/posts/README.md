@@ -1,6 +1,11 @@
 ---
 icon: repo
 article: false
+title: 期刊列表
 ---
 
-# 期刊
+
+
+|<img src="./2022-05/res/cover.png">|<img src="./2022-06/cover.jpg">|<img src="./2022-06/cover.jpg">|
+|:-:|:-:|:-:|
+|[2022-05: Vol. Special <br>绿华漫霜优秀作品集](2022-05)|[2022-06: Vol.01 <br>2022年06月号](2022-06)|[2022-07: Vol.02 <br>2022年07月号](2022-07)|

@@ -1,17 +1,19 @@
 ---
 icon: repo
-title: 2022年05月号
+title: Vol. SP - 绿华漫霜优秀作品集
 article: false
 ---
 
-[封面图]
+<img src="./res/cover.png">
 
 ## 目录
 
-- [**卷首语**](intro)
-- **栏目A**
-  - [文章1](article1)
-  - [文章2](article2)
-- **栏目B**
-  - [文章3](article3)
-  - [文章4](article4)
+- [躲春天的人](article1)
+- [作吾](article2)
+- [乌萨斯士兵故事三则](article3)
+- [春铃初绽](article4)
+- [她走进森林](article5)
+- [帘外花](article6)
+- [莱娜，香薰，玉米百合](article7)
+- [血先生](article8)
+- [季节尽头与冷酷之梦](article9)

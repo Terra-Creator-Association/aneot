@@ -3,11 +3,16 @@ home: true
 layout: Blog
 icon: home
 title: 主页
-heroImage: /logo.svg
-heroText: TCA月刊
-heroFullScreen: true
-tagline: 你可以在这里放置你的口号与标语
+heroImage: /aneot.png
+heroText: 回归线
+heroFullScreen: false
+tagline: Another End of Terra
 projects:
+  - icon: read
+    name: 卷首
+    desc: 欢迎阅读《回归线》
+    link: posts/2022-06/intro
+
   - icon: book
     name: 期刊一览
     desc: 期刊一览
@@ -15,14 +20,13 @@ projects:
 
   - icon: article
     name: 最新一期
-    desc: 这里写期数
+    desc: Vol.01 2022-06
     link: posts/2022-06
 
-  # - icon: book
-  #   name: 书籍名称
-  #   desc: 书籍详细描述
-  #   link: https://你的书籍链接
-
+  - icon: proposal
+    name: 征稿启事
+    desc: 欢迎投稿！
+    link: call
   # - icon: article
   #   name: 文章名称
   #   desc: 文章详细描述
