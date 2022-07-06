@@ -19,4 +19,4 @@ article: false
 收稿邮箱：<a href="mailto:TCA_doc@163.com">TCA_doc@163.com</a>
 
 期待您的作品，也欢迎您为我们提出宝贵意见！
-![](eod.png)
+![](/eod.png)
