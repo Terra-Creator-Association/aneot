@@ -950,6 +950,19 @@
     vuepress-plugin-reading-time2 "2.0.0-beta.33"
     vuepress-plugin-sass-palette "2.0.0-beta.33"
 
+"@mr-hope/vuepress-shared@2.0.0-beta.24":
+  version "2.0.0-beta.24"
+  resolved "https://repo.huaweicloud.com/repository/npm/@mr-hope/vuepress-shared/-/vuepress-shared-2.0.0-beta.24.tgz#980a32d07bfe734769fbb4aab90bdb43d90eb882"
+  integrity sha512-n3y7ljGCs2piO1oy6bDQnDNje+w9PYzn1euq/HDZYM2Q2ikDRrJA7+FS7dop/Kd+s13V7hDTFN0oQlXerYJMZw==
+  dependencies:
+    "@vuepress/client" "2.0.0-beta.35"
+    "@vuepress/plugin-git" "2.0.0-beta.36"
+    "@vuepress/plugin-theme-data" "2.0.0-beta.36"
+    chalk "^4.1.2"
+    dayjs "^1.11.0"
+    ora "^5.4.1"
+    vue "^3.2.31"
+
 "@mr-hope/vuepress-shared@2.0.0-beta.33":
   version "2.0.0-beta.33"
   resolved "https://registry.npmmirror.com/@mr-hope/vuepress-shared/-/vuepress-shared-2.0.0-beta.33.tgz#6727352793fbe0041c0901f5d99da31854b5ff67"
@@ -1239,6 +1252,11 @@
   resolved "https://registry.npmmirror.com/@vue/devtools-api/-/devtools-api-6.1.4.tgz#b4aec2f4b4599e11ba774a50c67fa378c9824e53"
   integrity sha512-IiA0SvDrJEgXvVxjNkHPFfDx6SXw0b/TUkqMcDZWNg9fnCAHbTpoo59YfJ9QLFkwa3raau5vSlRVzMSLDnfdtQ==
 
+"@vue/devtools-api@^6.0.0-beta.21.1":
+  version "6.2.0"
+  resolved "https://repo.huaweicloud.com/repository/npm/@vue/devtools-api/-/devtools-api-6.2.0.tgz#e3dc98a0cce8e87292745e2d24c9ee8c274a023b"
+  integrity sha512-pF1G4wky+hkifDiZSWn8xfuLOJI1ZXtuambpBEYaf7Xaf6zC/pM29rvAGpd3qaGXnr4BAXU1Pxz/VfvBGwexGA==
+
 "@vue/reactivity-transform@3.2.31":
   version "3.2.31"
   resolved "https://registry.npmmirror.com/@vue/reactivity-transform/-/reactivity-transform-3.2.31.tgz#0f5b25c24e70edab2b613d5305c465b50fc00911"
@@ -1330,7 +1348,7 @@
   resolved "https://registry.npmmirror.com/@vue/shared/-/shared-3.2.31.tgz#c90de7126d833dcd3a4c7534d534be2fb41faa4e"
   integrity sha512-ymN2pj6zEjiKJZbrf98UM2pfDd6F2H7ksKw7NDt/ZZ1fh5Ei39X5tABugtT03ZRlWd9imccoK0hE8hpjpU7irQ==
 
-"@vue/shared@3.2.37", "@vue/shared@^3.2.20":
+"@vue/shared@3.2.37", "@vue/shared@^3.2.20", "@vue/shared@^3.2.28":
   version "3.2.37"
   resolved "https://repo.huaweicloud.com/repository/npm/@vue/shared/-/shared-3.2.37.tgz#8e6adc3f2759af52f0e85863dfb0b711ecc5c702"
   integrity sha512-4rSJemR2NQIo9Klm1vabqWjD8rs/ZaJSzMxkMNeJS6lHiUjjUeYFbooN19NgFjztubEKh3WlZUeOLVdbbUWHsw==
@@ -1377,6 +1395,16 @@
     vue "^3.2.20"
     vue-router "^4.0.12"
 
+"@vuepress/client@2.0.0-beta.35":
+  version "2.0.0-beta.35"
+  resolved "https://repo.huaweicloud.com/repository/npm/@vuepress/client/-/client-2.0.0-beta.35.tgz#943b3b84e882a1b0c5e50b46dc1f12df557e71a2"
+  integrity sha512-oQj+fDvfDDJ+fPpcVVRJLeVX1QmnLCcpLBxPBVhqMD0WAFkj+sCBaeq0sQc5CwDaNysDcN71ACeuEpLDOEtCgQ==
+  dependencies:
+    "@vue/devtools-api" "^6.0.0-beta.21.1"
+    "@vuepress/shared" "2.0.0-beta.35"
+    vue "^3.2.28"
+    vue-router "^4.0.12"
+
 "@vuepress/client@2.0.0-beta.37":
   version "2.0.0-beta.37"
   resolved "https://registry.npmmirror.com/@vuepress/client/-/client-2.0.0-beta.37.tgz#668bb7fdf5e691cd9fa72fc1bd543370948ba632"
@@ -1396,6 +1424,18 @@
     "@vuepress/markdown" "2.0.0-beta.27"
     "@vuepress/shared" "2.0.0-beta.27"
     "@vuepress/utils" "2.0.0-beta.27"
+    gray-matter "^4.0.3"
+    toml "^3.0.0"
+
+"@vuepress/core@2.0.0-beta.36":
+  version "2.0.0-beta.36"
+  resolved "https://repo.huaweicloud.com/repository/npm/@vuepress/core/-/core-2.0.0-beta.36.tgz#934c9b40ed2fbc622d9a652a9bda63cbd48c02d0"
+  integrity sha512-RBj2Tkgt2f7NMCfox1iKgd6V87X5qj8G/cpJm7R65IielaXkNGGKjgidOrLKRCA3X0c/COwmaBrdiFxJtOtIRw==
+  dependencies:
+    "@vuepress/client" "2.0.0-beta.35"
+    "@vuepress/markdown" "2.0.0-beta.36"
+    "@vuepress/shared" "2.0.0-beta.35"
+    "@vuepress/utils" "2.0.0-beta.35"
     gray-matter "^4.0.3"
     toml "^3.0.0"
 
@@ -1420,6 +1460,19 @@
     "@vuepress/shared" "2.0.0-beta.27"
     "@vuepress/utils" "2.0.0-beta.27"
     markdown-it "^12.2.0"
+    markdown-it-anchor "^8.4.1"
+    markdown-it-emoji "^2.0.0"
+    mdurl "^1.0.1"
+
+"@vuepress/markdown@2.0.0-beta.36":
+  version "2.0.0-beta.36"
+  resolved "https://repo.huaweicloud.com/repository/npm/@vuepress/markdown/-/markdown-2.0.0-beta.36.tgz#cb2765c2736c5257dbefc425480d146330bd60c9"
+  integrity sha512-Amvo7YuSbMZIfj24kwXDen81RsjliXTDvhv+R14aH4NbH9rpwKzTTtbmjWH6O/upqikDYIXhlozHjr1nEf1qHw==
+  dependencies:
+    "@types/markdown-it" "^12.2.3"
+    "@vuepress/shared" "2.0.0-beta.35"
+    "@vuepress/utils" "2.0.0-beta.35"
+    markdown-it "^12.3.2"
     markdown-it-anchor "^8.4.1"
     markdown-it-emoji "^2.0.0"
     mdurl "^1.0.1"
@@ -1483,6 +1536,14 @@
     "@vuepress/utils" "2.0.0-beta.37"
     vue "^3.2.31"
 
+"@vuepress/plugin-git@2.0.0-beta.36":
+  version "2.0.0-beta.36"
+  resolved "https://repo.huaweicloud.com/repository/npm/@vuepress/plugin-git/-/plugin-git-2.0.0-beta.36.tgz#ac0d8e00916ed7049ffc47490d3a64213d84a519"
+  integrity sha512-Q2fIaExIZTZHWcJzelRMSf41yvfLUto2vFB9sMmpgRZ+vqFpPwruyR7XGmBxHMiSIjBFPbjAPadgB3hpoDKyiQ==
+  dependencies:
+    "@vuepress/core" "2.0.0-beta.36"
+    execa "^5.1.1"
+
 "@vuepress/plugin-git@2.0.0-beta.37":
   version "2.0.0-beta.37"
   resolved "https://registry.npmmirror.com/@vuepress/plugin-git/-/plugin-git-2.0.0-beta.37.tgz#42fef789b0e0f24ae51cad1d630bd13fd9852309"
@@ -1531,6 +1592,18 @@
     "@vuepress/core" "2.0.0-beta.37"
     prismjs "^1.27.0"
 
+"@vuepress/plugin-theme-data@2.0.0-beta.36":
+  version "2.0.0-beta.36"
+  resolved "https://repo.huaweicloud.com/repository/npm/@vuepress/plugin-theme-data/-/plugin-theme-data-2.0.0-beta.36.tgz#298fd9b160de886d003705615dbeee8ca2712a2b"
+  integrity sha512-1Fxj7F0rIARYa/gQmsUql3f7wPF3ML4Fs6kcPHXYll7ZNDLR1OBw9HIGJ7lW4qx37f6YfYs2RjefAuwkVFUn/A==
+  dependencies:
+    "@vue/devtools-api" "^6.0.0-beta.21.1"
+    "@vuepress/client" "2.0.0-beta.35"
+    "@vuepress/core" "2.0.0-beta.36"
+    "@vuepress/shared" "2.0.0-beta.35"
+    "@vuepress/utils" "2.0.0-beta.35"
+    vue "^3.2.28"
+
 "@vuepress/plugin-theme-data@2.0.0-beta.37":
   version "2.0.0-beta.37"
   resolved "https://registry.npmmirror.com/@vuepress/plugin-theme-data/-/plugin-theme-data-2.0.0-beta.37.tgz#0c47b0da7cd9a03a9db426c377ba3541e6197033"
@@ -1549,6 +1622,13 @@
   integrity sha512-WvP76yNWik9Y3J9o8flY2bWJCPwqifhl4xjYtP73O5+Yze2r/tf0gO0IJ0ccYUNLDu46ZGlnn5Jett4BABlwBg==
   dependencies:
     "@vue/shared" "^3.2.20"
+
+"@vuepress/shared@2.0.0-beta.35":
+  version "2.0.0-beta.35"
+  resolved "https://repo.huaweicloud.com/repository/npm/@vuepress/shared/-/shared-2.0.0-beta.35.tgz#3a717903f18a2c5cbf9e456ac93d904bb8ebd3bf"
+  integrity sha512-sU+ekNDv22YG16B1XmZyMD+A94QbAUgTp5FTs+X2POU9UQCIZCuFhgTM9TfAnSgD/6lnbp2Aljwg5fJAidPQmw==
+  dependencies:
+    "@vue/shared" "^3.2.28"
 
 "@vuepress/shared@2.0.0-beta.37":
   version "2.0.0-beta.37"
@@ -1593,6 +1673,23 @@
     "@vuepress/shared" "2.0.0-beta.27"
     chalk "^4.1.2"
     debug "^4.3.2"
+    fs-extra "^10.0.0"
+    globby "^11.0.4"
+    hash-sum "^2.0.0"
+    ora "^5.4.1"
+    upath "^2.0.1"
+
+"@vuepress/utils@2.0.0-beta.35":
+  version "2.0.0-beta.35"
+  resolved "https://repo.huaweicloud.com/repository/npm/@vuepress/utils/-/utils-2.0.0-beta.35.tgz#439000c65012b014736fd6bb7e787e22da840bd3"
+  integrity sha512-359RVp8T5w+OB/rKy3DYBFqrH98IDWxiB2pf1Z9vgUA54p5xWBbvmh5GwIAfz1PDjpC5BOIk1b1/03VgcJSZFg==
+  dependencies:
+    "@types/debug" "^4.1.7"
+    "@types/fs-extra" "^9.0.13"
+    "@types/hash-sum" "^1.0.0"
+    "@vuepress/shared" "2.0.0-beta.35"
+    chalk "^4.1.2"
+    debug "^4.3.3"
     fs-extra "^10.0.0"
     globby "^11.0.4"
     hash-sum "^2.0.0"
@@ -2527,7 +2624,7 @@ dayjs@^1.11.0:
   resolved "https://registry.npmmirror.com/dayjs/-/dayjs-1.11.0.tgz#009bf7ef2e2ea2d5db2e6583d2d39a4b5061e805"
   integrity sha512-JLC809s6Y948/FuCZPm5IX8rRhQwOiyMb2TfVVQEixG7P8Lm/gt5S7yoQZmC8x1UehI9Pb7sksEt4xx14m+7Ug==
 
-debug@^4.1.0, debug@^4.1.1, debug@^4.3.2, debug@^4.3.4:
+debug@^4.1.0, debug@^4.1.1, debug@^4.3.2, debug@^4.3.3, debug@^4.3.4:
   version "4.3.4"
   resolved "https://registry.npmmirror.com/debug/-/debug-4.3.4.tgz#1319f6579357f2338d3337d2cdd4914bb5dcc865"
   integrity sha512-PRWFHuSU3eDtQJPvnNY7Jcket1j0t5OuOsFzPPzsekD52Zl8qUfFIPEiswXqIvHWGVHOgX+7G/vCNNhehwxfkQ==
@@ -3878,6 +3975,15 @@ sass@^1.49.10:
     immutable "^4.0.0"
     source-map-js ">=0.6.2 <2.0.0"
 
+sass@^1.49.9:
+  version "1.53.0"
+  resolved "https://repo.huaweicloud.com/repository/npm/sass/-/sass-1.53.0.tgz#eab73a7baac045cc57ddc1d1ff501ad2659952eb"
+  integrity sha512-zb/oMirbKhUgRQ0/GFz8TSAwRq2IlR29vOUJZOx0l8sV+CkHUfHa4u5nqrG+1VceZp7Jfj59SVW9ogdhTvJDcQ==
+  dependencies:
+    chokidar ">=3.0.0 <4.0.0"
+    immutable "^4.0.0"
+    source-map-js ">=0.6.2 <2.0.0"
+
 sax@^1.2.4:
   version "1.2.4"
   resolved "https://registry.npmmirror.com/sax/-/sax-1.2.4.tgz#2816234e2378bddc4e5354fab5caa895df7100d9"
@@ -4253,7 +4359,7 @@ vue-router@^4.0.14:
   dependencies:
     "@vue/devtools-api" "^6.0.0"
 
-vue@^3.2.20:
+vue@^3.2.20, vue@^3.2.28:
   version "3.2.37"
   resolved "https://repo.huaweicloud.com/repository/npm/vue/-/vue-3.2.37.tgz#da220ccb618d78579d25b06c7c21498ca4e5452e"
   integrity sha512-bOKEZxrm8Eh+fveCqS1/NkG/n6aMidsI6hahas7pa0w/l7jkbssJVsRhVDs07IdDq7h9KHswZOgItnwJAgtVtQ==
@@ -4384,12 +4490,38 @@ vuepress-plugin-pwa2@2.0.0-beta.33:
     vuepress-plugin-sass-palette "2.0.0-beta.33"
     workbox-build "^6.5.2"
 
+vuepress-plugin-pwa2@^2.0.0-beta.24:
+  version "2.0.0-beta.24"
+  resolved "https://repo.huaweicloud.com/repository/npm/vuepress-plugin-pwa2/-/vuepress-plugin-pwa2-2.0.0-beta.24.tgz#7ae896bfa6cfa5f39904c4f8f160b73bde85e093"
+  integrity sha512-YvhzdRginadr9Jbi9qRQ11DtEGRwdxAnPHH/B2ZfcVYi6DZeKB7G4kglxqd4GGJBACYx2eFwPinkmd6raUHJwQ==
+  dependencies:
+    "@mr-hope/vuepress-shared" "2.0.0-beta.24"
+    "@vuepress/client" "2.0.0-beta.35"
+    "@vuepress/utils" "2.0.0-beta.35"
+    mitt "^3.0.0"
+    register-service-worker "^1.7.2"
+    vue "^3.2.31"
+    vue-router "^4.0.14"
+    vuepress-plugin-sass-palette "2.0.0-beta.24"
+    workbox-build "^6.5.1"
+
 vuepress-plugin-reading-time2@2.0.0-beta.33:
   version "2.0.0-beta.33"
   resolved "https://registry.npmmirror.com/vuepress-plugin-reading-time2/-/vuepress-plugin-reading-time2-2.0.0-beta.33.tgz#c63174727dd0c7a9e5a5b1b9a1ca234b8c13422d"
   integrity sha512-c2T8YYvEkjNkBKZBIce6NZRRpt7HE5sbZrZPIfbsFqLOdlUU2CxKuJc5z7Z31DsxHNC0axOn+nZ+afty3bdp+A==
   dependencies:
     "@mr-hope/vuepress-shared" "2.0.0-beta.33"
+
+vuepress-plugin-sass-palette@2.0.0-beta.24:
+  version "2.0.0-beta.24"
+  resolved "https://repo.huaweicloud.com/repository/npm/vuepress-plugin-sass-palette/-/vuepress-plugin-sass-palette-2.0.0-beta.24.tgz#91eae4f83cf151eda2a446e68c51036f7d455ea6"
+  integrity sha512-1zEx7/ffYHfMIEv02IWEVbS99ZXdxxnFCqwyAw2hWuF+ExHPKwXBLoWBwGXA7Ir8jCFv8DHRW651YD5gHtuqIw==
+  dependencies:
+    "@mr-hope/vuepress-shared" "2.0.0-beta.24"
+    "@vuepress/utils" "2.0.0-beta.35"
+    chokidar "^3.5.3"
+    sass "^1.49.9"
+    sass-loader "^12.6.0"
 
 vuepress-plugin-sass-palette@2.0.0-beta.33:
   version "2.0.0-beta.33"
@@ -4524,12 +4656,70 @@ workbox-background-sync@6.5.2:
     idb "^6.1.4"
     workbox-core "6.5.2"
 
+workbox-background-sync@6.5.3:
+  version "6.5.3"
+  resolved "https://repo.huaweicloud.com/repository/npm/workbox-background-sync/-/workbox-background-sync-6.5.3.tgz#7c66c1836aeca6f3762dc48d17a1852a33b3168c"
+  integrity sha512-0DD/V05FAcek6tWv9XYj2w5T/plxhDSpclIcAGjA/b7t/6PdaRkQ7ZgtAX6Q/L7kV7wZ8uYRJUoH11VjNipMZw==
+  dependencies:
+    idb "^6.1.4"
+    workbox-core "6.5.3"
+
 workbox-broadcast-update@6.5.2:
   version "6.5.2"
   resolved "https://registry.npmmirror.com/workbox-broadcast-update/-/workbox-broadcast-update-6.5.2.tgz#b1f32bb40a9dcb5b05ca27e09fb7c01a0a126182"
   integrity sha512-DjJYraYnprTZE/AQNoeogaxI1dPuYmbw+ZJeeP8uXBSbg9SNv5wLYofQgywXeRepv4yr/vglMo9yaHUmBMc+4Q==
   dependencies:
     workbox-core "6.5.2"
+
+workbox-broadcast-update@6.5.3:
+  version "6.5.3"
+  resolved "https://repo.huaweicloud.com/repository/npm/workbox-broadcast-update/-/workbox-broadcast-update-6.5.3.tgz#fc2ad79cf507e22950cda9baf1e9a0ccc43f31bc"
+  integrity sha512-4AwCIA5DiDrYhlN+Miv/fp5T3/whNmSL+KqhTwRBTZIL6pvTgE4lVuRzAt1JltmqyMcQ3SEfCdfxczuI4kwFQg==
+  dependencies:
+    workbox-core "6.5.3"
+
+workbox-build@^6.5.1:
+  version "6.5.3"
+  resolved "https://repo.huaweicloud.com/repository/npm/workbox-build/-/workbox-build-6.5.3.tgz#38e3f286d63d2745bff4d1478bb3a6ab5c8b1170"
+  integrity sha512-8JNHHS7u13nhwIYCDea9MNXBNPHXCs5KDZPKI/ZNTr3f4sMGoD7hgFGecbyjX1gw4z6e9bMpMsOEJNyH5htA/w==
+  dependencies:
+    "@apideck/better-ajv-errors" "^0.3.1"
+    "@babel/core" "^7.11.1"
+    "@babel/preset-env" "^7.11.0"
+    "@babel/runtime" "^7.11.2"
+    "@rollup/plugin-babel" "^5.2.0"
+    "@rollup/plugin-node-resolve" "^11.2.1"
+    "@rollup/plugin-replace" "^2.4.1"
+    "@surma/rollup-plugin-off-main-thread" "^2.2.3"
+    ajv "^8.6.0"
+    common-tags "^1.8.0"
+    fast-json-stable-stringify "^2.1.0"
+    fs-extra "^9.0.1"
+    glob "^7.1.6"
+    lodash "^4.17.20"
+    pretty-bytes "^5.3.0"
+    rollup "^2.43.1"
+    rollup-plugin-terser "^7.0.0"
+    source-map "^0.8.0-beta.0"
+    stringify-object "^3.3.0"
+    strip-comments "^2.0.1"
+    tempy "^0.6.0"
+    upath "^1.2.0"
+    workbox-background-sync "6.5.3"
+    workbox-broadcast-update "6.5.3"
+    workbox-cacheable-response "6.5.3"
+    workbox-core "6.5.3"
+    workbox-expiration "6.5.3"
+    workbox-google-analytics "6.5.3"
+    workbox-navigation-preload "6.5.3"
+    workbox-precaching "6.5.3"
+    workbox-range-requests "6.5.3"
+    workbox-recipes "6.5.3"
+    workbox-routing "6.5.3"
+    workbox-strategies "6.5.3"
+    workbox-streams "6.5.3"
+    workbox-sw "6.5.3"
+    workbox-window "6.5.3"
 
 workbox-build@^6.5.2:
   version "6.5.2"
@@ -4581,10 +4771,22 @@ workbox-cacheable-response@6.5.2:
   dependencies:
     workbox-core "6.5.2"
 
+workbox-cacheable-response@6.5.3:
+  version "6.5.3"
+  resolved "https://repo.huaweicloud.com/repository/npm/workbox-cacheable-response/-/workbox-cacheable-response-6.5.3.tgz#b1f8c2bc599a7be8f7e3c262535629c558738e47"
+  integrity sha512-6JE/Zm05hNasHzzAGKDkqqgYtZZL2H06ic2GxuRLStA4S/rHUfm2mnLFFXuHAaGR1XuuYyVCEey1M6H3PdZ7SQ==
+  dependencies:
+    workbox-core "6.5.3"
+
 workbox-core@6.5.2:
   version "6.5.2"
   resolved "https://registry.npmmirror.com/workbox-core/-/workbox-core-6.5.2.tgz#f5e06a22c6cb4651d3e13107443d972fdbd47364"
   integrity sha512-IlxLGQf+wJHCR+NM0UWqDh4xe/Gu6sg2i4tfZk6WIij34IVk9BdOQgi6WvqSHd879jbQIUgL2fBdJUJyAP5ypQ==
+
+workbox-core@6.5.3:
+  version "6.5.3"
+  resolved "https://repo.huaweicloud.com/repository/npm/workbox-core/-/workbox-core-6.5.3.tgz#bca038a9ef0d7a634a6db2a60f45313ed22ac249"
+  integrity sha512-Bb9ey5n/M9x+l3fBTlLpHt9ASTzgSGj6vxni7pY72ilB/Pb3XtN+cZ9yueboVhD5+9cNQrC9n/E1fSrqWsUz7Q==
 
 workbox-expiration@6.5.2:
   version "6.5.2"
@@ -4593,6 +4795,14 @@ workbox-expiration@6.5.2:
   dependencies:
     idb "^6.1.4"
     workbox-core "6.5.2"
+
+workbox-expiration@6.5.3:
+  version "6.5.3"
+  resolved "https://repo.huaweicloud.com/repository/npm/workbox-expiration/-/workbox-expiration-6.5.3.tgz#efc0811f371a2ede1052b9de1c4f072b71d50503"
+  integrity sha512-jzYopYR1zD04ZMdlbn/R2Ik6ixiXbi15c9iX5H8CTi6RPDz7uhvMLZPKEndZTpfgmUk8mdmT9Vx/AhbuCl5Sqw==
+  dependencies:
+    idb "^6.1.4"
+    workbox-core "6.5.3"
 
 workbox-google-analytics@6.5.2:
   version "6.5.2"
@@ -4604,12 +4814,29 @@ workbox-google-analytics@6.5.2:
     workbox-routing "6.5.2"
     workbox-strategies "6.5.2"
 
+workbox-google-analytics@6.5.3:
+  version "6.5.3"
+  resolved "https://repo.huaweicloud.com/repository/npm/workbox-google-analytics/-/workbox-google-analytics-6.5.3.tgz#cc8c3a61f449131660a4ed2f5362d9a3599b18fe"
+  integrity sha512-3GLCHotz5umoRSb4aNQeTbILETcrTVEozSfLhHSBaegHs1PnqCmN0zbIy2TjTpph2AGXiNwDrWGF0AN+UgDNTw==
+  dependencies:
+    workbox-background-sync "6.5.3"
+    workbox-core "6.5.3"
+    workbox-routing "6.5.3"
+    workbox-strategies "6.5.3"
+
 workbox-navigation-preload@6.5.2:
   version "6.5.2"
   resolved "https://registry.npmmirror.com/workbox-navigation-preload/-/workbox-navigation-preload-6.5.2.tgz#ffb3d9d5cdb881a3824851707da221dbb0bb3f23"
   integrity sha512-iqDNWWMswjCsZuvGFDpcX1Z8InBVAlVBELJ28xShsWWntALzbtr0PXMnm2WHkXCc56JimmGldZi1N5yDPiTPOg==
   dependencies:
     workbox-core "6.5.2"
+
+workbox-navigation-preload@6.5.3:
+  version "6.5.3"
+  resolved "https://repo.huaweicloud.com/repository/npm/workbox-navigation-preload/-/workbox-navigation-preload-6.5.3.tgz#81b74f598b11aa07e2cf1c21af7a826a4f0f70b3"
+  integrity sha512-bK1gDFTc5iu6lH3UQ07QVo+0ovErhRNGvJJO/1ngknT0UQ702nmOUhoN9qE5mhuQSrnK+cqu7O7xeaJ+Rd9Tmg==
+  dependencies:
+    workbox-core "6.5.3"
 
 workbox-precaching@6.5.2:
   version "6.5.2"
@@ -4620,12 +4847,28 @@ workbox-precaching@6.5.2:
     workbox-routing "6.5.2"
     workbox-strategies "6.5.2"
 
+workbox-precaching@6.5.3:
+  version "6.5.3"
+  resolved "https://repo.huaweicloud.com/repository/npm/workbox-precaching/-/workbox-precaching-6.5.3.tgz#c870312b2ef901d790ab9e48da084e776c62af47"
+  integrity sha512-sjNfgNLSsRX5zcc63H/ar/hCf+T19fRtTqvWh795gdpghWb5xsfEkecXEvZ8biEi1QD7X/ljtHphdaPvXDygMQ==
+  dependencies:
+    workbox-core "6.5.3"
+    workbox-routing "6.5.3"
+    workbox-strategies "6.5.3"
+
 workbox-range-requests@6.5.2:
   version "6.5.2"
   resolved "https://registry.npmmirror.com/workbox-range-requests/-/workbox-range-requests-6.5.2.tgz#b8b7e5b5830fecc22f0a1d8815457921df2e5bf9"
   integrity sha512-zi5VqF1mWqfCyJLTMXn1EuH/E6nisqWDK1VmOJ+TnjxGttaQrseOhMn+BMvULFHeF8AvrQ0ogfQ6bSv0rcfAlg==
   dependencies:
     workbox-core "6.5.2"
+
+workbox-range-requests@6.5.3:
+  version "6.5.3"
+  resolved "https://repo.huaweicloud.com/repository/npm/workbox-range-requests/-/workbox-range-requests-6.5.3.tgz#e624ac82ff266a5e4f236d055797def07949d941"
+  integrity sha512-pGCP80Bpn/0Q0MQsfETSfmtXsQcu3M2QCJwSFuJ6cDp8s2XmbUXkzbuQhCUzKR86ZH2Vex/VUjb2UaZBGamijA==
+  dependencies:
+    workbox-core "6.5.3"
 
 workbox-recipes@6.5.2:
   version "6.5.2"
@@ -4639,6 +4882,18 @@ workbox-recipes@6.5.2:
     workbox-routing "6.5.2"
     workbox-strategies "6.5.2"
 
+workbox-recipes@6.5.3:
+  version "6.5.3"
+  resolved "https://repo.huaweicloud.com/repository/npm/workbox-recipes/-/workbox-recipes-6.5.3.tgz#15beac9d8ae7a3a1c100218094a824b4dd3fd59a"
+  integrity sha512-IcgiKYmbGiDvvf3PMSEtmwqxwfQ5zwI7OZPio3GWu4PfehA8jI8JHI3KZj+PCfRiUPZhjQHJ3v1HbNs+SiSkig==
+  dependencies:
+    workbox-cacheable-response "6.5.3"
+    workbox-core "6.5.3"
+    workbox-expiration "6.5.3"
+    workbox-precaching "6.5.3"
+    workbox-routing "6.5.3"
+    workbox-strategies "6.5.3"
+
 workbox-routing@6.5.2:
   version "6.5.2"
   resolved "https://registry.npmmirror.com/workbox-routing/-/workbox-routing-6.5.2.tgz#e0ad46246ba51224fd57eff0dd46891b3220cb9a"
@@ -4646,12 +4901,26 @@ workbox-routing@6.5.2:
   dependencies:
     workbox-core "6.5.2"
 
+workbox-routing@6.5.3:
+  version "6.5.3"
+  resolved "https://repo.huaweicloud.com/repository/npm/workbox-routing/-/workbox-routing-6.5.3.tgz#a0a699d8cc90b5692bd3df24679acbbda3913777"
+  integrity sha512-DFjxcuRAJjjt4T34RbMm3MCn+xnd36UT/2RfPRfa8VWJGItGJIn7tG+GwVTdHmvE54i/QmVTJepyAGWtoLPTmg==
+  dependencies:
+    workbox-core "6.5.3"
+
 workbox-strategies@6.5.2:
   version "6.5.2"
   resolved "https://registry.npmmirror.com/workbox-strategies/-/workbox-strategies-6.5.2.tgz#56b02e6959c6391351011fc2e5b0829aff1ed859"
   integrity sha512-fgbwaUMxbG39BHjJIs2y2X21C0bmf1Oq3vMQxJ1hr6y5JMJIm8rvKCcf1EIdAr+PjKdSk4ddmgyBQ4oO8be4Uw==
   dependencies:
     workbox-core "6.5.2"
+
+workbox-strategies@6.5.3:
+  version "6.5.3"
+  resolved "https://repo.huaweicloud.com/repository/npm/workbox-strategies/-/workbox-strategies-6.5.3.tgz#4bea9a48fee16cf43766e0d8138296773c8a9783"
+  integrity sha512-MgmGRrDVXs7rtSCcetZgkSZyMpRGw8HqL2aguszOc3nUmzGZsT238z/NN9ZouCxSzDu3PQ3ZSKmovAacaIhu1w==
+  dependencies:
+    workbox-core "6.5.3"
 
 workbox-streams@6.5.2:
   version "6.5.2"
@@ -4661,10 +4930,23 @@ workbox-streams@6.5.2:
     workbox-core "6.5.2"
     workbox-routing "6.5.2"
 
+workbox-streams@6.5.3:
+  version "6.5.3"
+  resolved "https://repo.huaweicloud.com/repository/npm/workbox-streams/-/workbox-streams-6.5.3.tgz#b6860290031caa7d0e46ad7142315c94359c780b"
+  integrity sha512-vN4Qi8o+b7zj1FDVNZ+PlmAcy1sBoV7SC956uhqYvZ9Sg1fViSbOpydULOssVJ4tOyKRifH/eoi6h99d+sJ33w==
+  dependencies:
+    workbox-core "6.5.3"
+    workbox-routing "6.5.3"
+
 workbox-sw@6.5.2:
   version "6.5.2"
   resolved "https://registry.npmmirror.com/workbox-sw/-/workbox-sw-6.5.2.tgz#2f5dca0e96c61a450fccf0405095ddf1b6f43bc7"
   integrity sha512-2KhlYqtkoqlnPdllj2ujXUKRuEFsRDIp6rdE4l1PsxiFHRAFaRTisRQpGvRem5yxgXEr+fcEKiuZUW2r70KZaw==
+
+workbox-sw@6.5.3:
+  version "6.5.3"
+  resolved "https://repo.huaweicloud.com/repository/npm/workbox-sw/-/workbox-sw-6.5.3.tgz#cd2f0c086f4496acd25774ed02c48504189bebdd"
+  integrity sha512-BQBzm092w+NqdIEF2yhl32dERt9j9MDGUTa2Eaa+o3YKL4Qqw55W9yQC6f44FdAHdAJrJvp0t+HVrfh8AiGj8A==
 
 workbox-window@6.5.2:
   version "6.5.2"
@@ -4673,6 +4955,14 @@ workbox-window@6.5.2:
   dependencies:
     "@types/trusted-types" "^2.0.2"
     workbox-core "6.5.2"
+
+workbox-window@6.5.3:
+  version "6.5.3"
+  resolved "https://repo.huaweicloud.com/repository/npm/workbox-window/-/workbox-window-6.5.3.tgz#4ade70056cb73477ef1cd8fea7cfd0ecbd825c7f"
+  integrity sha512-GnJbx1kcKXDtoJBVZs/P7ddP0Yt52NNy4nocjBpYPiRhMqTpJCNrSL+fGHZ/i/oP6p/vhE8II0sA6AZGKGnssw==
+  dependencies:
+    "@types/trusted-types" "^2.0.2"
+    workbox-core "6.5.3"
 
 wrappy@1:
   version "1.0.2"
