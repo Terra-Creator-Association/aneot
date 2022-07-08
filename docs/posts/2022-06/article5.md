@@ -37,11 +37,7 @@ tag:
 
 “一路小心，安洁莉娜干员。”
 
----
-
-<div class="centering"><strong>钟声</strong></div>
-
----
+## 钟声 {.centering}
 
 安洁莉娜脚尖轻点，慢慢落在钟楼上。
 
@@ -77,7 +73,7 @@ tag:
 
 不出一个月，她就把罗德岛大大小小的通道都摸得一清二楚。若说第一熟悉的地方是叙拉古，那么罗德岛已经可以排到第二。至于她的出生地东国，只能排在第三了。
 
-<div class="centering"><img src="./res/Angelina.png" width="75%"></div>
+![](./res/Angelina.png){width="60%"} {.centering}
 
 想到这里，安洁莉娜自嘲的笑着摇头，她对东国实在不如叙拉古和罗德岛熟悉，刚才送信时还走错了路。
 
@@ -101,11 +97,7 @@ tag:
 
 齿轮复位，激活的单元也停止运转，只剩下滴滴答答微不可闻的计时声。站在塔钟旁的女孩也不见踪影，和白鸽一样被金色的晚霞吞没。
 
----
-
-<div class="centering"><strong>City Pop</strong></div>
-
----
+## City Pop {.centering}
 
 东国国立高等学校，知名学府，升学率高，和国际接轨。
 
@@ -245,11 +237,7 @@ Bye Bye 霓虹
 
 明天还有作战训练和学习课程呢。
 
----
-
-<div class="centering"><strong>秋，还会继续</strong></div>
-
----
+## 秋，还会继续 {.centering}
 
 “欢迎回来，一切顺利吗？”
 
@@ -275,11 +263,7 @@ Bye Bye 霓虹
 
 “尝尝新咖啡机泡出的咖啡，博士。”安洁莉娜把冒着热气的咖啡递到博士面前，在他旁边坐下，“然后仔细听我的答案哦。”
 
----
-
-<div class="centering"><strong>终章/信</strong></div>
-
----
+## 终章/信 {.centering}
 
 亲爱的爸爸，妈妈
 

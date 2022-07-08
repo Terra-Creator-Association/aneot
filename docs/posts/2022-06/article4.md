@@ -171,7 +171,7 @@ tag:
 
 船歌，响亮的船歌。
 
-<div class="centering"><img src="./res/other/sailing-ship-g89a29db5d_1920.jpg" width="60%"></div>
+![](./res/other/sailing-ship-g89a29db5d_1920.jpg){width="50%"} {.centering}
 
 或许一个人的单唱只是怪异的嚎叫。但几十人，上百人一起唱，就能让每个人都产生共鸣，甚至整个“愚人号”都在发出低低的震动，像是要加入他们般。
 

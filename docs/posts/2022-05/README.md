@@ -4,7 +4,7 @@ title: Vol. SP - 绿华漫霜优秀作品集
 article: false
 ---
 
-<img src="./res/cover.png">
+![](./res/cover.png) {.centering}
 
 ## 目录
 

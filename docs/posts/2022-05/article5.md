@@ -14,7 +14,7 @@ tag:
 
 <!-- more -->
 
-<img src="./res/dominik-dombrowski-KNUp-YBwBSE-unsplash.jpg">
+![](./res/dominik-dombrowski-KNUp-YBwBSE-unsplash.jpg) {.centering}
 
 她摇摇头，有些晕。这里美好而温暖，好像所有的生命都在迎接诞生以来的第一个春天。这里土地肥沃，她的脚微微陷进大地。在她模糊朦胧的印象中，见到这样好的一片地是难事。有这样的土地，他们就能种上一季红麦，养活一个聚落的人……原本几乎只存在于幻想中的景象来到了她的眼前，心中升起的喜悦让她下意识想喊来同伴。
 

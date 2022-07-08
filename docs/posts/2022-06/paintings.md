@@ -11,7 +11,7 @@ tag:
 
 ## 判决
 
-<img src="./res/艾丽妮.jpg">
+![](./res/艾丽妮.jpg) {.centering}
 
 <div class="centering textkai flexbox">
   <div style="margin-bottom:1em">
@@ -46,7 +46,7 @@ tag:
 
 ## 静谧午夜
 
-<img src="./res/mudrock.jpg">
+![](./res/mudrock.jpg) {.centering}
 
 <div class="centering textkai flexbox">
   <div style="margin-bottom:1em">
@@ -69,7 +69,7 @@ tag:
 
 ## 光
 
-<img src="./res/铃兰.jpg">
+![](./res/铃兰.jpg) {.centering}
 
 <div class="centering textkai flexbox">
   <div style="margin-bottom:1em">

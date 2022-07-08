@@ -4,8 +4,8 @@ title: 征稿启事
 date: 2022-05-15
 tag:
   - 征稿启事
-# isOriginal: true
-article: false
+  - 关于
+star: true
 ---
 
 《回归线》（英文 Another End of Terra）是泰拉创作者联合会与泰拉通讯枢纽论坛，以及合作伙伴杜兰兹移动大学联手制作的《明日方舟》同人电子杂志。
@@ -16,7 +16,7 @@ article: false
 
 您可以直接在泰讯内发帖或将作品发送到收稿邮箱中，我们将会选择优秀作品（不限于同人作品），在征得作者同意后发表在杂志中（请注意，您通过邮件投稿视为您已经同意我们在杂志发表您的作品）。
 
-收稿邮箱：<a href="mailto:TCA_doc@163.com">TCA_doc@163.com</a>
+收稿邮箱：[TCA_doc@163.com](mailto:TCA_doc@163.com)
 
 期待您的作品，也欢迎您为我们提出宝贵意见！
 ![](/eod.png)

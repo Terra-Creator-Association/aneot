@@ -38,7 +38,7 @@ tag:
 
 “人类将稀少的东西称作美德”
 
-<img src="./res/短歌.jpg">
+![](./res/短歌.jpg){width="60%"} {.centering}
 
 生长于此 立命于此
 

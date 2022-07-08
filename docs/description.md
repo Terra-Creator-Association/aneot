@@ -2,16 +2,14 @@
 icon: info
 title: 板块说明
 date: 2022-05-15
-# category:
 
 tag:
   - 关于
-# isOriginal: true
-# article: false
+
 star: true
 ---
 
-<div class="centering">点击相应链接可直接跳转到对应板块目录。</div>
+点击相应链接可直接跳转到对应板块目录。 {.centering}
 
 ## 新闻速览：[泰拉观察](category/泰拉观察)
 

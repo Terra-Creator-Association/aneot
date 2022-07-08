@@ -17,4 +17,4 @@ tag:
 欢迎阅读《回归线》，本杂志的全体编绘人员意在探寻二创的“回归线”，表达作者的“意志”，满足读者的“趣味”——祝愿您能够熏陶“意味”，满足“本能”，收获“志道”。
 ![](/eod.png)
 
-<img src="./res/other/mountain-g799cce72e_1920.jpg">
+![](./res/other/mountain-g799cce72e_1920.jpg) {.centering}

@@ -19,7 +19,7 @@ author: 镀铬的黄金鸟
 
 <!-- more -->
 
-<img src="./res/fog-g8b9f1d734_1920.jpg">
+![](./res/fog-g8b9f1d734_1920.jpg) {.centering}
 
 ---
 

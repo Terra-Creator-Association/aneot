@@ -15,7 +15,7 @@ tag:
 
 <!-- more -->
 
-<div class="centering"><img src="./res/圆舞1.jpg" width="60%"></div>
+![](./res/圆舞1.jpg){width="60%"} {.centering}
 
 “谢谢。”
 
@@ -253,7 +253,7 @@ tag:
 
 ---
 
-<div class="centering"><img src="./res/圆舞2.jpg" width="80%"></div>
+![](./res/圆舞2.jpg){width="80%"} {.centering}
 
 阿玛雅曾经顺从，而劳伦缇娜拒绝了。
 
