@@ -27,10 +27,11 @@ projects:
     name: 征稿启事
     desc: 欢迎投稿！
     link: call
-  # - icon: article
-  #   name: 文章名称
-  #   desc: 文章详细描述
-  #   link: https://你的文章链接
+
+  - icon: rss
+    name: 订阅 Feed
+    desc: 如 404 请刷新
+    link: rss.xml
 
   # - icon: friend
   #   name: 伙伴名称
