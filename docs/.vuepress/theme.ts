@@ -15,6 +15,9 @@ export default hopeTheme({
   logo: "/logo.svg",
 
   // repo: "Nemo1166/aneot",
+  lastUpdated: false,
+  contributors: false,
+  editLink: false,
 
   docsDir: "docs",
 
