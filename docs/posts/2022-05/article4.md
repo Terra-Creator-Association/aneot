@@ -1,6 +1,7 @@
 ---
 icon: article
-title: 春铃初绽
+title: 春铃初绽 First Muguet of Spring
+shortTitle: 春铃初绽
 author: unins000
 date: 2022-05-17
 category:
@@ -9,8 +10,6 @@ tag:
   - unins000
   - 绿华漫霜
 ---
-
-<strong>First Muguet of Spring</strong>
 
 我该承认，我从未恋上庭院间沁人的香氛。
 

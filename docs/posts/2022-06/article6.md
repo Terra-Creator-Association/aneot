@@ -1,6 +1,7 @@
 ---
 icon: article
 title: 海燕与孔雀鱼的短歌：大地之眼
+shortTitle: 海燕与孔雀鱼的短歌
 author: 亲爱的树鹨
 date: 2022-06-27
 category:
