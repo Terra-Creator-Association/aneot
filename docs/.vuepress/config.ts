@@ -1,19 +1,20 @@
-import { defineHopeConfig } from "vuepress-theme-hope";
-import themeConfig from "./themeConfig";
+import { defineUserConfig } from "vuepress";
+import { searchPlugin } from "@vuepress/plugin-search";
+import theme from "./theme";
 
-export default defineHopeConfig({
+export default defineUserConfig({
   lang: "zh-CN",
   title: "回归线",
   description: "Another End of Terra",
   base: "/",
-
+  shouldPrefetch: false,
   head: [
     [
       "link",
       {
         rel: "stylesheet",
-        href: "//at.alicdn.com/t/font_2410206_mfj6e1vbwo.css",
-      },
+        href: "https://gcore.jsdelivr.net/gh/Nemo1166/OpenFoundertypeKai/FZKTK.css",
+      }
     ],
     [
       "script",
@@ -29,5 +30,14 @@ export default defineHopeConfig({
       `
     ],
   ],
-  themeConfig,
+
+  theme,
+  plugins: [
+    searchPlugin({
+      locales:{
+        "/":{placeholder:"搜索..."}
+      },
+      hotKeys: [''],
+    }),
+  ],
 });

@@ -1,26 +1,44 @@
-import { defineThemeConfig } from "vuepress-theme-hope";
+import { hopeTheme } from "vuepress-theme-hope";
 import navbar from "./navbar";
 import sidebar from "./sidebar";
 
-export default defineThemeConfig({
+export default hopeTheme({
   hostname: "https://aneot.vercel.app",
+
   author: {
     name: "Another End of Terra",
+    url: "https://space.bilibili.com/1317574696/",
   },
-  iconPrefix: "iconfont icon-",
+
+  iconAssets: "iconfont",
+
   logo: "/logo.svg",
-  editLink: false,
-  contributors: false,
-  lastUpdated: false,
+
+  // repo: "Nemo1166/aneot",
+
   docsDir: "docs",
+
   // navbar
   navbar: navbar,
+
   // sidebar
   sidebar: sidebar,
+
   footer: "本页作品由作者原创，请勿转载。",
-  displayFooter: true,
+
   copyright: "泰拉创作者联合会保留所有权利 | Copyright © 2022 TCA",
-  pageInfo: ["Author", "Original", "Date", "Category", "Tag", "ReadingTime","Word"],
+
+  displayFooter: true,
+
+  pageInfo: ["Author", "Original", "Date", "Category", "Tag", "ReadingTime"],
+
+  themeColor: {
+    green: "#7b8b6f",
+    grey: "#656565",
+    darkblue: "#8696a7",
+    red: "#965454",
+    purple: "#c9c0d3"
+  },
 
   blog: {
     description: "泰拉创作者联合会<br>泰拉通讯枢纽<br>杜兰兹移动大学<br>《回归线》编辑部",
@@ -31,7 +49,7 @@ export default defineThemeConfig({
       // Dingding: "https://example.com",
       // Discord: "https://example.com",
       // Dribbble: "https://example.com",
-      // Email: "https://example.com",
+      Email: "TCA_doc@163.com",
       // Evernote: "https://example.com",
       // Facebook: "https://example.com",
       // Flipboard: "https://example.com",
@@ -57,16 +75,10 @@ export default defineThemeConfig({
       // Zhihu: "https://example.com",
     },
   },
-  themeColor: {
-    green: "#7b8b6f",
-    grey: "#656565",
-    darkblue: "#8696a7",
-    red: "#965454",
-    purple: "#c9c0d3"
-  },
+
   encrypt: {
     config: {
-
+      // "/guide/encrypt.html": ["1234"],
     },
   },
 
@@ -74,13 +86,29 @@ export default defineThemeConfig({
     blog: {
       autoExcerpt: false,
     },
-    mdEnhance: {
-      enableAll: true,
-      presentation: {
-        plugins: ["highlight", "math", "search", "notes", "zoom"],
-      },
+    comment: {
+      provider: "Waline",
+      serverURL: "https://waline-nemo1166.vercel.app/",
+      requiredMeta: ['nick'],
+      wordLimit: 200,
+      imageUploader: false,
+      walineLocales: { "/": { admin: "砖", } }
     },
-    pwa: true,
-
+    mdEnhance: {
+      // enableAll: true,
+      attrs: true,
+      sub: true,
+      sup: true,
+      // presentation: {
+      //   plugins: ["highlight", "math", "search", "notes", "zoom"],
+      // },
+    },
+    feed: {
+      rss: true,
+    },
+    pwa: {
+      cachePic: true,
+      maxPicSize: 100,
+    },
   },
 });

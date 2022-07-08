@@ -1,6 +1,6 @@
-import { defineSidebarConfig } from "vuepress-theme-hope";
+import { sidebar } from "vuepress-theme-hope";
 
-export default defineSidebarConfig([
+export default sidebar([
   "",
   {
     text: "期刊",
@@ -13,6 +13,7 @@ export default defineSidebarConfig([
         collapsable: true,
         prefix: "2022-05/",
         children: [
+          "",
           "article1",
           "article2",
           "article3",
@@ -28,7 +29,9 @@ export default defineSidebarConfig([
         icon: "repo",
         collapsable: true,
         prefix: "2022-06/",
-        children: ["intro",
+        children: [
+          "",
+          "intro",
           "article1",
           "article2",
           "article3",

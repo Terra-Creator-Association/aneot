@@ -1,5 +1,3 @@
-@import url("https://gcore.jsdelivr.net/gh/Nemo1166/OpenFoundertypeKai/FZKTK.css");
-
 // 首行缩进2字符
 .theme-hope-content p {
     text-indent: 2em;
@@ -20,7 +18,8 @@
 }
 
 .centering {
-    text-align: center;
+    text-align: center !important;
+    text-indent: 0 !important;
 }
 
 .centering p {

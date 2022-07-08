@@ -18,16 +18,15 @@ jobs:
           # 如果你文档需要 Git 子模块，取消注释下一行
           # submodules: true
 
-      - uses: actions/cache@v3
-        id: node-modules
+
+
+      - name: 设置 Node.js
+        uses: actions/setup-node@v3
         with:
-          path: node_modules/
-          key: ${{ runner.os }}-node-modules-${{ hashFiles('yarn.lock') }}
-          restore-keys: |
-            ${{ runner.os }}-node-modules-
+          node-version: 16
+          cache: yarn
 
       - name: 安装依赖
-        if: steps.node-modules.outputs.cache-hit != 'true'
         run: yarn install --frozen-lockfile
 
       - name: 构建文档
