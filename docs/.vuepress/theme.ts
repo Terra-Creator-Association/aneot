@@ -36,11 +36,11 @@ export default hopeTheme({
   pageInfo: ["Author", "Original", "Date", "Category", "Tag", "ReadingTime"],
 
   themeColor: {
-    green: "#7b8b6f",
+    brown: "#a52a2a",
     grey: "#656565",
-    darkblue: "#8696a7",
-    red: "#965454",
-    purple: "#c9c0d3"
+    blue: "#4c88f3",
+    coral: "#ff7f50",
+    purple: "#9400d3"
   },
 
   blog: {
