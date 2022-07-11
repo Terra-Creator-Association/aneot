@@ -13,7 +13,7 @@ export default defineUserConfig({
       "link",
       {
         rel: "stylesheet",
-        href: "https://gcore.jsdelivr.net/gh/Nemo1166/OpenFoundertypeKai/FZKTK.css",
+        href: "https://gcore.jsdelivr.net/npm/lxgw-wenkai-screen-webfont@1.6.0/style.css",
       }
     ],
     [
