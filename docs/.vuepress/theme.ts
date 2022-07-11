@@ -33,7 +33,7 @@ export default hopeTheme({
 
   displayFooter: true,
 
-  pageInfo: ["Author", "Original", "Date", "Category", "Tag", "ReadingTime"],
+  pageInfo: ["Author", "Original", "Date", "Category", "Tag", "Word", "ReadingTime", "PageView"],
 
   themeColor: {
     brown: "#a52a2a",
@@ -95,7 +95,7 @@ export default hopeTheme({
       requiredMeta: ['nick'],
       wordLimit: 200,
       imageUploader: false,
-      walineLocales: { "/": { admin: "砖", } }
+      walineLocales: { "/": { admin: "砖", placeholder: "发一条友善的评论"} }
     },
     mdEnhance: {
       // enableAll: true,
