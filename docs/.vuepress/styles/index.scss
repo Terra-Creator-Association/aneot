@@ -1,3 +1,7 @@
+:root {
+    --waline-theme-color: var(--theme-color);
+}
+
 // 首行缩进2字符
 .theme-hope-content p {
     text-indent: 2em;

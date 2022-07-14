@@ -93,9 +93,10 @@ export default hopeTheme({
       provider: "Waline",
       serverURL: "https://waline-nemo1166.vercel.app/",
       requiredMeta: ['nick'],
-      wordLimit: 200,
+      wordLimit: [5,200],
       imageUploader: false,
-      walineLocales: { "/": { admin: "砖", placeholder: "发一条友善的评论"} }
+      walineLocales: { "/": { admin: "砖", placeholder: "发一条友善的评论"} },
+      emoji: ["https://unpkg.com/@waline/emojis@1.0.1/tw-emoji"]
     },
     mdEnhance: {
       // enableAll: true,
