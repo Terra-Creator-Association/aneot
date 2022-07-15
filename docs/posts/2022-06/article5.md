@@ -163,7 +163,7 @@ tag:
 
 <div class="textkai centering">
 
-\[PRTS广告推荐\]
+\[PRTS 广告推荐\]
 
 酸橙味的保湿唇膏；
 

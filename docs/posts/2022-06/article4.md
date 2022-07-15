@@ -133,7 +133,7 @@ tag:
 
 （我做了个梦，前几天我做了个梦）
 
-“Low—lands! lowlands away my John!”
+“Low—lands! Lowlands away my John!”
 
 （低地，在遥远的低地我的伙计）
 
@@ -141,7 +141,7 @@ tag:
 
 （我做了个梦，前几天我做了个梦）
 
-“Low—lands! lowlands away my John!”
+“Low—lands! Lowlands away my John!”
 
 （低地，在遥远的低地我的伙计）
 
@@ -149,7 +149,7 @@ tag:
 
 （我的爱人向我走来，她穿着一身洁白向我走来）
 
-“Low—lands! lowlands away my John!”
+“Low—lands! Lowlands away my John!”
 
 （低地，在遥远的低地我的伙计）
 
@@ -157,7 +157,7 @@ tag:
 
 （我的爱人向我走来，她穿着一身洁白向我走来）
 
-“Low—lands! lowlands away my John!”
+“Low—lands! Lowlands away my John!”
 
 （低地，在遥远的低地我的伙计）
 
