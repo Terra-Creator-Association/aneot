@@ -29,9 +29,9 @@ projects:
     link: call
 
   - icon: rss
-    name: 订阅 Feed
-    desc: 如 404 请刷新
-    link: rss.xml
+    name: 订阅《回归线》
+    desc:
+    link: subscription
 
   # - icon: friend
   #   name: 伙伴名称
