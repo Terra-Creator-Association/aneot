@@ -11,7 +11,7 @@ tag:
 
 ## 判决
 
-![](./res/艾丽妮.jpg) {.centering}
+![](./res/艾丽妮.webp) {.centering}
 
 <div class="centering textkai flexbox">
   <div style="margin-bottom:1em">
@@ -46,7 +46,7 @@ tag:
 
 ## 静谧午夜
 
-![](./res/mudrock.jpg) {.centering}
+![](./res/mudrock.webp) {.centering}
 
 <div class="centering textkai flexbox">
   <div style="margin-bottom:1em">
@@ -69,7 +69,7 @@ tag:
 
 ## 光
 
-![](./res/铃兰.jpg) {.centering}
+![](./res/铃兰.webp) {.centering}
 
 <div class="centering textkai flexbox">
   <div style="margin-bottom:1em">
@@ -102,7 +102,7 @@ tag:
 
 <div class="textkai flexbox">
   <div style="margin-bottom:1em;width:38%;min-width:240px">
-<img src="./res/鲨.png" >
+<img src="./res/鲨.webp" >
   </div>
   <div style="width:60%;min-width:320px">
     &emsp;身穿长裙的女性立在一面等身镜前，宛如一尊雕塑。<br>
@@ -151,6 +151,6 @@ tag:
     图 ⦾ LOFTER @ 半只祈鸢
   </div>
   <div style="margin-bottom:1em;width:38%;min-width:240px">
-    <img src="./res/蒂升华.png" >
+    <img src="./res/蒂升华.webp" >
   </div>
 </div>

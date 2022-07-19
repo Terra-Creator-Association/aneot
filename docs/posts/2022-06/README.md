@@ -4,7 +4,7 @@ article: false
 title: Vol. 01 - 2022年06月号
 ---
 
-![](./cover.jpg) {.centering}
+![](./res/cover.webp) {.centering}
 
 ## 目录
 

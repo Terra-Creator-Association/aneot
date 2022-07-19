@@ -10,11 +10,11 @@ tag:
   - 条漫
 ---
 
-![](./res/comic/00cover.jpg)
-![](./res/comic/01.jpg)
-![](./res/comic/02.jpg)
-![](./res/comic/03.jpg)
-![](./res/comic/04.jpg)
-![](./res/comic/05.jpg)
-![](./res/comic/06.jpg)
-![](./res/comic/07.jpg) {.centering}
+![](./res/comic/00cover.webp)
+![](./res/comic/01.webp)
+![](./res/comic/02.webp)
+![](./res/comic/03.webp)
+![](./res/comic/04.webp)
+![](./res/comic/05.webp)
+![](./res/comic/06.webp)
+![](./res/comic/07.webp) {.centering}

@@ -3,10 +3,11 @@ home: true
 layout: Blog
 icon: home
 title: 主页
-heroImage: /aneot.png
+heroImage: /aneot.webp
 heroText: 回归线
 heroFullScreen: false
 tagline: Another End of Terra
+bgImage: /hero.webp
 projects:
   - icon: read
     name: 卷首
@@ -30,7 +31,7 @@ projects:
 
   - icon: rss
     name: 订阅《回归线》
-    desc:
+    desc: Feed
     link: subscription
 
   # - icon: friend
