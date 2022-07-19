@@ -21,8 +21,8 @@ projects:
 
   - icon: article
     name: 最新一期
-    desc: Vol.01 2022-06
-    link: posts/2022-06
+    desc: Vol.07 2022-07
+    link: posts/2022-07
 
   - icon: proposal
     name: 征稿启事

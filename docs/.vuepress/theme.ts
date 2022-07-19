@@ -103,6 +103,7 @@ export default hopeTheme({
       attrs: true,
       sub: true,
       sup: true,
+      footnote: true,
       // presentation: {
       //   plugins: ["highlight", "math", "search", "notes", "zoom"],
       // },
