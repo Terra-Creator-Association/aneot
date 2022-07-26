@@ -116,6 +116,7 @@ export default hopeTheme({
     pwa: {
       cachePic: true,
       maxPicSize: 100,
+      showInstall: true,
     },
   },
 });
