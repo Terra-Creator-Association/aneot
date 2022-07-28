@@ -26,6 +26,6 @@ export default navbar([
   {
     text: "泰讯枢纽",
     icon: "link",
-    link: "https://arknightscommunity.drblack-system.com/"
+    link: "https://terrach.net/"
   }
 ]);

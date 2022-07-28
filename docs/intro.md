@@ -21,7 +21,7 @@ star: true
 
 ## 关于泰讯
 
-[泰讯](https://arknightscommunity.drblack-system.com/)
+[泰讯](https://terrach.net/)
 
 ## 关于杜兰兹
 
