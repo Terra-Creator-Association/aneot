@@ -18,5 +18,7 @@ star: true
 
 收稿邮箱：[TCA_doc@163.com](mailto:TCA_doc@163.com)
 
+投稿前，请先阅读[《回归线》投稿指南](https://www.bilibili.com/read/cv18003267)，并按指南中的要求进行投稿。
+
 期待您的作品，也欢迎您为我们提出宝贵意见！
 ![](/eod.png)
