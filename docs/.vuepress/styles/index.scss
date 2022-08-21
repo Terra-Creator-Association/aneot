@@ -30,6 +30,37 @@
     text-indent: 0;
 }
 
+.aright {
+    text-align: right !important;
+    text-indent: 0 !important;
+}
+
+.script p{
+    line-height: 1;
+    text-indent: 0;
+}
+
+.sp-qa {
+    text-indent: 0 !important;
+    font-family: 'crimson', 'LXGW WenKai Screen R', serif;
+    font-size: 15pt;
+    font-weight: bold;
+    margin-bottom: 0.5em;
+    line-height: 1;
+}
+
+.ques {
+    margin-top: 2em;
+}
+
+.answ {
+    margin-top: 0.5em;
+}
+
+.qa-q {
+    font-family: 'crimson', 'LXGW WenKai Screen R', serif;
+}
+
 .hero-image {
     max-width: 80%;
 }
