@@ -56,6 +56,23 @@ export default sidebar([
           "article5",
           "comic1",
           "paintings"],
+      },
+      {
+        text: "2022年08月号",
+        icon: "repo",
+        collapsable: true,
+        prefix: "2022-08/",
+        children: [
+          "",
+          "intro",
+          "article1",
+          "article2",
+          "article3",
+          "article4",
+          "article5",
+          "article6",
+          "comic1",
+          "paintings"],
       }
     ],
   },
