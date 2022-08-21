@@ -13,6 +13,8 @@ tag:
 
 <!-- more -->
 
+![](./res/illustration/冬夜.webp){width="90%"} {.centering}
+
 ## I
 
 当我纵目向前眺望时，只见许多人在一条大河的岸上 {.textkai .aright}

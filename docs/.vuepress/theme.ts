@@ -44,7 +44,7 @@ export default hopeTheme({
   },
 
   blog: {
-    description: "泰拉创作者联合会<br>泰拉通讯枢纽<br>杜兰兹移动大学<br>《回归线》编辑部",
+    description: "泰拉创作者联合会<br>泰拉通讯枢纽<br>《回归线》编辑部",
     intro: "/intro.html",
     medias: {
       // Baidu: "https://example.com",

@@ -71,6 +71,7 @@ export default sidebar([
           "article4",
           "article5",
           "article6",
+          "interview",
           "comic1",
           "paintings"],
       }
