@@ -67,7 +67,7 @@ Artist: LOFTER@进基的少年
 
 ---
 
-![](./res/painting/LOFTERNACHT&weiboSchatten07.webp) {.centering}
+![](./res/painting/LOFTERNACHT-weiboSchatten07.webp) {.centering}
 
 Artist: LOFTER@NACHT / weibo@Schatten07
 
