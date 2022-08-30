@@ -91,11 +91,11 @@ export default hopeTheme({
     },
     comment: {
       provider: "Waline",
-      serverURL: "https://waline-nemo1166.vercel.app/",
+      serverURL: "https://waline4aneot.terrach.net/",
       requiredMeta: ['nick'],
       wordLimit: [5,200],
       imageUploader: false,
-      walineLocales: { "/": { admin: "砖", placeholder: "发一条友善的评论"} },
+      walineLocales: { "/": { admin: "打工人", placeholder: "发一条友善的评论"} },
       emoji: ["https://unpkg.com/@waline/emojis@1.0.1/tw-emoji"]
     },
     mdEnhance: {
