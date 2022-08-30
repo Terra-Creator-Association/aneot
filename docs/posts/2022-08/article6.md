@@ -1,12 +1,12 @@
 ---
 icon: article
 title: 狮
-author: 广英和荣耀
+author: 香江湘调
 date: 2022-08-22
 category:
   - 此地之外
 tag:
-  - 广英和荣耀
+  - 香江湘调
 ---
 
 我相信会有一个世界，人可以想爱上谁就爱上谁……为此，至死方休。 {.textkai}
