@@ -29,6 +29,13 @@ export default defineUserConfig({
       })();
       `
     ],
+    [
+      "script",
+      {},
+      `
+      <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-3488523212284726" crossorigin="anonymous"></script>
+      `
+    ],
   ],
 
   theme,
