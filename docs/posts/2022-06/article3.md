@@ -119,3 +119,5 @@ tag:
 ![](/eod.png)
 
 （责任编辑：广英）
+
+<ArticleAd />

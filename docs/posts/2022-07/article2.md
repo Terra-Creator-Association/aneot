@@ -189,3 +189,5 @@ tag:
 （本文首发于 Mew ，责任编辑：广英，LOFTER@yooooouki 绘图）
 
 ![](./res/illustration/熊.webp) {.centering}
+
+<ArticleAd />

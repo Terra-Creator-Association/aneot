@@ -18,3 +18,5 @@ tag:
 ![](./res/comic/05.webp)
 ![](./res/comic/06.webp)
 ![](./res/comic/07.webp) {.centering}
+
+<ArticleAd />

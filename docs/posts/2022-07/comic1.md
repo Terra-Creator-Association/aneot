@@ -20,3 +20,5 @@ tag:
 ![](./res/comic/08.png)
 ![](./res/comic/09.png)
 ![](./res/comic/10.png) {.centering}
+
+<ArticleAd />
