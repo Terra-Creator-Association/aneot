@@ -1,8 +1,9 @@
 <template>
   <div class="ads-container">
+    <p class="ads-hint">此处可能展示赞助商广告。</p>
     <ins
       class="adsbygoogle"
-      style="display: block; text-align: center"
+      style="display: block; text-align: center; width:100%"
       data-ad-layout="in-article"
       data-ad-format="fluid"
       data-ad-client="ca-pub-3488523212284726"
@@ -31,11 +32,13 @@ export default {
 <style scoped>
 .ads-hint {
   text-align: right;
-  margin-bottom: 10px;
+  margin: 10px;
+  font-size: 9px;
+  font-style: italic;
 }
 .ads-container {
   text-align: center;
-  margin: 10px;
+  margin-top: 50px;
   min-width: 250px;
   min-height: 50px;
 }
