@@ -77,5 +77,7 @@ export default sidebar([
       }
     ],
   },
-  "call"
+  "call",
+  "guidance",
+  "intro"
 ]);
