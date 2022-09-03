@@ -10,9 +10,13 @@
   },
   "devDependencies": {
     "@vuepress/client": "^2.0.0-beta.48",
+    "@vuepress/plugin-register-components": "^2.0.0-beta.51",
     "@vuepress/plugin-search": "^2.0.0-beta.48",
     "vue": "^3.2.36",
     "vuepress": "^2.0.0-beta.48",
     "vuepress-theme-hope": "^2.0.0-beta.84"
+  },
+  "dependencies": {
+    "vue-scriptx": "^0.2.5"
   }
 }
