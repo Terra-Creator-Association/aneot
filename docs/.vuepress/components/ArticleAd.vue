@@ -1,5 +1,5 @@
 <template>
-  <div class="container">
+  <div class="ads-container">
     <ins
       class="adsbygoogle"
       style="display: block; text-align: center"
@@ -27,3 +27,16 @@ export default {
   }
 }
 </script>
+
+<style scoped>
+.ads-hint {
+  text-align: right;
+  margin-bottom: 10px;
+}
+.ads-container {
+  text-align: center;
+  margin: 10px;
+  min-width: 250px;
+  min-height: 50px;
+}
+</style>
