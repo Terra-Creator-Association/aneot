@@ -38,7 +38,7 @@ export default {
 }
 .ads-container {
   text-align: center;
-  margin-top: 50px;
+  margin-top: 75px;
   min-width: 250px;
   min-height: 50px;
 }

@@ -19,3 +19,5 @@ title: Vol. 02 - 2022年07月号：相互的彼方
 - **画中秘境**
   - [同路](comic1)
   - [画中秘境](paintings)
+
+<ArticleAd />
