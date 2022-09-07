@@ -9,7 +9,7 @@ article: false
 
 ## 订阅 Feed 流
 
-目前支持以下三种 Feed ：
+目前支持以下三种 Feed （什么是 [Feed 流](https://www.zhihu.com/question/20690652)）：
 
 - [Atom](atom.xml)
 - [JSON](feed.json)
