@@ -13,6 +13,12 @@ tag:
 
 ---
 
+![](./res/painting/LOFTER叛逆的鹿鹿修-.webp) {.centering}
+
+Artist: LOFTER@叛逆的鹿鹿修
+
+---
+
 ![](./res/painting/LOFTEROdwitch_.webp) {.centering}
 
 Artist: LOFTER@Odwitch_
@@ -22,12 +28,6 @@ Artist: LOFTER@Odwitch_
 ![](./res/painting/bilibiliRockyRoo.webp){width=70%} {.centering}
 
 Artist: bilibili@RockyRoo
-
----
-
-![](./res/painting/LOFTER叛逆的鹿鹿修-.webp) {.centering}
-
-Artist: LOFTER@叛逆的鹿鹿修
 
 ---
 

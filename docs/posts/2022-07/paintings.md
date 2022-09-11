@@ -9,13 +9,13 @@ tag:
   - 插画
 ---
 
-## 天使
-
-![](./res/painting/能莫.webp) {.centering}
-
 ## 双星
 
 ![](./res/painting/双星.webp) {.centering}
+
+## 天使
+
+![](./res/painting/能莫.webp) {.centering}
 
 ## 黑兔子，白兔子
 
