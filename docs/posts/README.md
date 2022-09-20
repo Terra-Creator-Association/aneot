@@ -14,6 +14,4 @@ title: 期刊列表
 |[2022-08: Vol. 03 <br>2022年08月号](2022-08)|[2022-08: Vol. 03 <br>2022年09月号：乡愁和归处](2022-09)| |
 |[下载 PDF](https://wwb.lanzouy.com/b011ya7gf)<br>密码: 42tz|[下载 PDF](https://wwb.lanzouy.com/b0121q8la)<br>密码: 9a3c| |
 
-<!-- todo: 全部完成后替换九月刊资源 -->
-
 <ArticleAd />
