@@ -27,12 +27,6 @@ Artist: LOFTER@Any-a
 
 ---
 
-![](./res/painting/LOFTER田林克姆.webp) {.centering}
-
-Artist: LOFTER@田林克姆
-
----
-
 ![](./res/painting/羽毛笔.webp) {.centering}
 
 Artist: LOFTER@祢尔MERE
