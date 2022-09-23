@@ -27,9 +27,12 @@ export default hopeTheme({
   // sidebar
   sidebar: sidebar,
 
-  footer: "本页作品由作者原创，请勿转载。",
+  footer: `本站内容是游戏爱好者根据《明日方舟》二次创作而成，与鹰角网络官方无关。<br>
+  本站使用的游戏图片、文本原文及相关设定/世界观版权属于上海鹰角网络科技有限公司。<br>
+  除非另有声明，作品其他内容不得以任何形式转载、摘编。
+  `,
 
-  copyright: "泰拉创作者联合会保留所有权利 | Copyright © 2022 TCA",
+  copyright: "泰拉创作者联合会保留所有权利 | Copyright © 2022 TCA. All rights reserved.",
 
   displayFooter: true,
 
@@ -93,9 +96,9 @@ export default hopeTheme({
       provider: "Waline",
       serverURL: "https://waline4aneot.terrach.net/",
       requiredMeta: ['nick'],
-      wordLimit: [5,200],
+      wordLimit: [5, 200],
       imageUploader: false,
-      walineLocales: { "/": { admin: "打工人", placeholder: "发一条友善的评论"} },
+      walineLocales: { "/": { admin: "打工人", placeholder: "发一条友善的评论" } },
       emoji: ["https://unpkg.com/@waline/emojis@1.0.1/tw-emoji"]
     },
     mdEnhance: {
