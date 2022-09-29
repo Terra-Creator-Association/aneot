@@ -94,7 +94,7 @@ export default hopeTheme({
     },
     comment: {
       provider: "Waline",
-      serverURL: "https://waline.terrach.net/",
+      serverURL: "https://waline4aneot.terrach.net/",
       requiredMeta: ['nick'],
       wordLimit: [5, 200],
       imageUploader: false,
