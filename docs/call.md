@@ -6,6 +6,7 @@ tag:
   - 征稿启事
   - 关于
 star: true
+order: -3
 ---
 
 《回归线》（英文 Another End of Terra）是泰拉创作者联合会与泰拉通讯枢纽联手制作的《明日方舟》同人电子杂志。

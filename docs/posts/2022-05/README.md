@@ -2,6 +2,8 @@
 icon: repo
 title: Vol. SP - 绿华漫霜优秀作品集
 article: false
+dir:
+    order: 1
 ---
 
 ![](./res/cover.webp) {.centering}

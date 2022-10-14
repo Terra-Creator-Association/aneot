@@ -8,6 +8,8 @@ category:
   - 卷首
 tag:
   - 黒子
+
+order: 1
 ---
 
 汐斯塔。

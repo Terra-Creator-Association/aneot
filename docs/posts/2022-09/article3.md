@@ -7,6 +7,8 @@ category:
   - 罗德岛日志
 tag:
   - Norah
+
+order: 4
 ---
 
 爸爸妈妈，我还想再吹一次生日歌。 {.textkai}

@@ -7,6 +7,8 @@ category:
   - 画中秘境
 tag:
   - 插画
+
+order: -1
 ---
 
 ![](./res/summer.webp) {.centering}

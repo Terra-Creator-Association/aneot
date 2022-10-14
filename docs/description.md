@@ -7,6 +7,7 @@ tag:
   - 关于
 
 star: true
+index: false
 ---
 
 点击相应链接可直接跳转到对应板块目录。 {.centering}

@@ -7,6 +7,8 @@ category:
   - 罗德岛日志
 tag:
   - TN
+
+order: 2
 ---
 
 两个人对着对方，笑得特别灿烂。 {.textkai}

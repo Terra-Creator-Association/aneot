@@ -8,6 +8,8 @@ category:
 tag:
   - 西江龙王
   - 条漫
+
+order: -2
 ---
 
 ## 独行长路

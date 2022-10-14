@@ -2,6 +2,8 @@
 icon: repo
 article: false
 title: 期刊列表
+dir:
+    order: 1
 ---
 
 

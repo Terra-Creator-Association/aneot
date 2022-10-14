@@ -8,6 +8,8 @@ category:
 tag:
   - 阿哉哉哉
   - 条漫
+
+order: -2
 ---
 
 ![](./res/comic/01.png)

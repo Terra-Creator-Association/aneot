@@ -3,11 +3,10 @@ icon: proposal
 title: 《回归线》投稿指南
 shortTitle: 投稿指南
 date: 2022-09-21
-
 tag:
   - 关于
-
 star: true
+order: -2
 ---
 
 大家好，这里是 TCA。《回归线》上线以来，受到了观众和创作者的热烈欢迎，在此，我们感谢大家的支持。

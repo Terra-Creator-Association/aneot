@@ -7,6 +7,8 @@ category:
   - 此地之外
 tag:
   - 艾柯.ACR
+
+order: 2
 ---
 
 啊老人河啊，啊老人河啊，你日夜不停地流，不停地流…… {.textkai}

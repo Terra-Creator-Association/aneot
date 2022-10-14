@@ -8,6 +8,8 @@ category:
 tag:
   - 深海鱿鱼酱
   - 条漫
+
+order: -2
 ---
 
 ![](./res/comic/01.png)

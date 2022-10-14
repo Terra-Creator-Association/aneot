@@ -8,6 +8,8 @@ category:
 tag:
   - 亲爱的树鹨
   - 条漫
+
+order: -2
 ---
 
 ![](./res/comic/00cover.webp)

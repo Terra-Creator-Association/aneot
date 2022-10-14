@@ -7,6 +7,8 @@ category:
   - 此地之外
 tag:
   - 亚麻
+
+order: 4
 ---
 
 她从北方来，道途阻且长； {.textkai}

@@ -3,7 +3,7 @@ import navbar from "./navbar";
 import sidebar from "./sidebar";
 
 export default hopeTheme({
-  hostname: "https://aneot.vercel.app",
+  hostname: "https://aneot.terrach.net",
 
   author: {
     name: "Another End of Terra",
@@ -25,7 +25,7 @@ export default hopeTheme({
   navbar: navbar,
 
   // sidebar
-  sidebar: sidebar,
+  sidebar: "structure",
 
   footer: `本站内容是游戏爱好者根据《明日方舟》二次创作而成，与鹰角网络官方无关。<br>
   本站使用的游戏图片、文本原文及相关设定/世界观版权属于上海鹰角网络科技有限公司。<br>
