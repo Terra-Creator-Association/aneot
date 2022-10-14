@@ -13,7 +13,7 @@ export default defineUserConfig({
       "link",
       {
         rel: "stylesheet",
-        href: "https://gcore.jsdelivr.net/npm/lxgw-wenkai-screen-webfont@1.6.0/style.css",
+        href: "https://unpkg.com/lxgw-wenkai-screen-webfont@1.6.0/style.css",
       }
     ],
     [
