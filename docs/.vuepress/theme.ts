@@ -120,6 +120,7 @@ export default hopeTheme({
       cachePic: true,
       maxPicSize: 100,
       showInstall: true,
+      update: "hint",
     },
   },
 });
