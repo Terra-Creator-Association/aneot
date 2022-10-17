@@ -119,8 +119,7 @@ order: 6
 
 博士向他伸出手，好似多年前在江边等待师父归家的少年。
 
-“乌有，回家了。”
-![](/eod.png)
+“乌有，回家了。”<eod />
 
 ![](./res/illustration/乌有4.webp){width=60%} {.centering}
 

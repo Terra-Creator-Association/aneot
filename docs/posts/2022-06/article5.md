@@ -299,8 +299,7 @@ Bye Bye 霓虹
 
 Angelina
 
-Rhodes Island
-![](/eod.png)
+Rhodes Island<eod />
 
 （责任编辑：广英）
 
