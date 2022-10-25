@@ -27,8 +27,6 @@ order: 7
 
 </div></div>
 
-<!-- more -->
-
 海蒂·汤姆森女士， {style="text-indent: 0" .textkai}
 
 《乔弗瑞古今童话集》已收到。装订工艺扎实可靠，用纸精良，可频繁翻阅。非常感谢。{.textkai}
