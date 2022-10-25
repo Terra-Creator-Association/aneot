@@ -35,7 +35,7 @@
     text-indent: 0 !important;
 }
 
-.script p{
+.script p {
     line-height: 1;
     text-indent: 0;
 }
@@ -87,4 +87,38 @@
 .footer {
     line-height: 1.4em;
     font-size: 12px !important;
+}
+
+.excerpt {
+    font-family: 'crimson', 'LXGW WenKai Screen R', serif;
+    font-size: 18px !important;
+}
+
+// 文章头图
+.heroimage-edge-blur {
+    max-height: 200px;
+    position: relative;
+    opacity: 0.5;
+    &::after {
+        position: absolute;
+        content: '';
+        width: 100%;
+        height: 100%;
+        top: 0;
+        left: 0;
+        box-shadow:0 0 30px 30px var(--bg-color) inset;
+    }
+}
+
+.heroimageph {
+    text-align: center;
+    text-indent: 0;
+    height: 200px;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: white;
+    opacity: 1;
+    text-shadow: 0 0 3px black;
 }

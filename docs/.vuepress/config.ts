@@ -35,8 +35,8 @@ export default defineUserConfig({
       "script",
       {
         src: "https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-3488523212284726",
-        crossorigin:"anonymous",
-        async:"async"
+        crossorigin: "anonymous",
+        async: "async"
       },
       ''
     ],
@@ -46,8 +46,8 @@ export default defineUserConfig({
 
   plugins: [
     searchPlugin({
-      locales:{
-        "/":{placeholder:"搜索..."}
+      locales: {
+        "/": { placeholder: "搜索..." }
       },
       hotKeys: [''],
     }),

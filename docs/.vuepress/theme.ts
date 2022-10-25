@@ -1,6 +1,5 @@
 import { hopeTheme } from "vuepress-theme-hope";
 import navbar from "./navbar";
-import sidebar from "./sidebar";
 
 export default hopeTheme({
   hostname: "https://aneot.terrach.net",
@@ -118,9 +117,8 @@ export default hopeTheme({
     },
     pwa: {
       cachePic: true,
-      maxPicSize: 100,
+      maxPicSize: 512,
       showInstall: true,
-      update: "hint",
     },
   },
 });
