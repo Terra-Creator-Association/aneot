@@ -122,5 +122,3 @@ Artist: weibo@云尾疏狂
 Artist: bilibili@RockyRoo
 
 ---
-
-<ArticleAd />
