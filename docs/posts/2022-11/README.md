@@ -20,7 +20,7 @@ title: Vol. 06 - 2022 年 11 月号
   - [博士——作为人类物种的孤独](article5.html)
 - **画中秘境**
   - [金色的天马](comic1.html)
-  - [画中秘境](comic2.html)
+  - [画中秘境](paintings.html)
 - **特别企划**
   - [干员密录](interview.html)
 
