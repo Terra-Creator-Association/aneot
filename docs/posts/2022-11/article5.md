@@ -249,6 +249,8 @@ I'll be so lonely, I could die我如此孤独生不如死
 
 他把衣服脱光，躺在地板上，这时，他终于成为这片大地唯一一个人类。<eod />
 
+![](./res/illustration/愚人.jpg)
+
 （绘图：LOFTER@Eisen先生；本文来自作者投稿）
 
 <ArticleAd />
