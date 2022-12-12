@@ -2,7 +2,7 @@
 icon: palette
 title: 漫画二则
 author: 
-date: 2022-11-9
+date: 2022-11-09
 category:
   - 画中秘境
 tag:

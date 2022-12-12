@@ -2,7 +2,7 @@
 icon: article
 title: 日月迟
 author: 剪秋罗
-date: 22-12-9
+date: 2022-12-09
 category:
   - 此地之外
 tag:

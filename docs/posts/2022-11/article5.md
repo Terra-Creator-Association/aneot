@@ -2,7 +2,7 @@
 icon: article
 title: 博士——作为人类物种的孤独
 author: 鲍伊岚
-date: 22-12-9
+date: 2022-12-09
 category:
   - 午间逸话
 tag:

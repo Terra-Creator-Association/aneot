@@ -2,7 +2,7 @@
 icon: article
 title: 回身，空无一物
 author: 微萤
-date: 22-12-9
+date: 2022-12-09
 category:
   - 罗德岛日志
 tag:

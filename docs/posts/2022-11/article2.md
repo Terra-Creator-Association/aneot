@@ -2,7 +2,7 @@
 icon: article
 title: 海，以及彼处的海
 author: f(x)
-date: 22-12-9
+date: 2022-12-09
 category:
   - 此地之外
 tag:

@@ -2,7 +2,7 @@
 icon: article
 title: 长夜梦光
 author: 覆冰NES
-date: 2022-12-9
+date: 2022-12-09
 category:
   - 此地之外
 tag:
