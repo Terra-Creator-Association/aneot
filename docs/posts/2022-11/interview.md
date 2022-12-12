@@ -116,7 +116,7 @@ D.黏性超人
 
 
 
-![](./res/Ope_Sec/answer.png)
+![](./res/Ope_Sec/Answer.png)
 
 扫一扫二维码查看本期答案
 
