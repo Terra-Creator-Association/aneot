@@ -12,12 +12,12 @@ tag:
 order: -2
 ---
 
-![](./res/comic/comic1.jpg) {.centering}
+![](./res/comic/comic1.webp) {.centering}
 
-![](./res/comic/comic2.jpg) {.centering}
+![](./res/comic/comic2.webp) {.centering}
 
-![](./res/comic/comic3.jpg) {.centering}
+![](./res/comic/comic3.webp) {.centering}
 
-![](./res/comic/comic4.jpg) {.centering}
+![](./res/comic/comic4.webp) {.centering}
 
 <ArticleAd />
