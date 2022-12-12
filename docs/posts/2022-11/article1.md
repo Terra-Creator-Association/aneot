@@ -2,7 +2,7 @@
 icon: article
 title: 长夜梦光
 author: 覆冰NES
-date: 2022-12-9
+date: 2022-12-09
 category:
   - 此地之外
 tag:
@@ -11,7 +11,7 @@ tag:
 order: 2
 ---
 
-这件不能发光的防具变得熠熠生辉，仿佛那是它自有的光芒。{.textkai}
+这件不能发光的防具变得熠熠生辉，仿佛那是它自有的光芒。 {.textkai}
 
 <!-- more -->
 

@@ -2,7 +2,7 @@
 icon: article
 title: 海，以及彼处的海
 author: f(x)
-date: 22-12-9
+date: 2022-12-09
 category:
   - 此地之外
 tag:
@@ -11,7 +11,7 @@ tag:
 order: 3
 ---
 
-“我曾经到过那儿。”所有人都说，“我曾经到过那儿。”——《紫与黑》{.textkai}
+“我曾经到过那儿。”所有人都说，“我曾经到过那儿。”——《紫与黑》 {.textkai}
 
 <!-- more -->
 
@@ -61,7 +61,7 @@ order: 3
 
 我想再次击走，去证实我的第一次出走，去看看远处的海是否仍与我的讲述相符。我邀请所有人来，但没有人来，他们都说我疯了。<eod />
 
-![](./res/illustration/海骑士.jpg)
+![](./res/illustration/海骑士.webp)
 
 （绘图：LOFTER@鸽十一；本文来自作者投稿）
 

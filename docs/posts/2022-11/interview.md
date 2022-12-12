@@ -1,5 +1,5 @@
 ---
-icon: 
+icon: note
 title: 干员秘闻
 shortTitle: 和干员有关的这些细节，或许你不曾注意过？
 date: 2022-12-10
@@ -10,21 +10,6 @@ tag:
 
 order: -3
 ---
-
-<style>
-table th:first-of-type {
-    width: 25%;    
-}
-table th:nth-of-type(2) {
-    width: 25%;
-}
-table th:nth-of-type(3) {
-    width: 25%;
-}
-table th:nth-of-type(4) {
-    width: 25%;
-}
-</style>
 
 ![](./res/Ope_Sec/topic.png)
 
@@ -131,11 +116,11 @@ D.黏性超人
 
 
 
-![](./res/Ope_Sec/answer.png)
+![](./res/Ope_Sec/Answer.png)
 
 扫一扫二维码查看本期答案
 
-<a href="https://www.wjx.cn/vm/QrZD8mh.aspx" target="_blank"> 点我也可以哟ヾ(≧▽≦*)o </a>
+[点我也可以哟ヾ(≧▽≦*)o](https://www.wjx.cn/vm/QrZD8mh.aspx)
 <eod />
 
 <ArticleAd />

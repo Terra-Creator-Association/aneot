@@ -2,7 +2,7 @@
 icon: article
 title: 博士——作为人类物种的孤独
 author: 鲍伊岚
-date: 22-12-9
+date: 2022-12-09
 category:
   - 午间逸话
 tag:
@@ -10,18 +10,16 @@ tag:
 
 order: 6
 ---
-<center>
 
-But the film is a saddening bore 可是电影逐渐陷入沉闷
+*But the film is a saddening bore 可是电影逐渐陷入沉闷*
 
-'Cause I wrote it ten times or more 因为我自己都写过数十遍了
+*'Cause I wrote it ten times or more 因为我自己都写过数十遍了*
 
-It's about to be writ again 现在又要开始重来
+*It's about to be writ again 现在又要开始重来*
 
-As I ask you to focus on 当我要你快去注意
-</center>
-<right>
-<p align="right">————大卫鲍伊《Life On Mars》</p>{.textkai}
+*As I ask you to focus on 当我要你快去注意*
+
+————大卫鲍伊《Life On Mars》 {.textkai}
 
 <!-- more -->
 
@@ -218,20 +216,17 @@ As I ask you to focus on 当我要你快去注意
 
 他激动地头发竖立——《伤心旅馆》。
 
-<center>
+*Well, since my baby left me 自从我的恋人离我而去*
 
-Well, since my baby left me 自从我的恋人离我而去
+*Well, I found a new place to dwell 我总得找个新地方去留*
 
-Well, I found a new place to dwell 我总得找个新地方去留
+*Well, it's down at the end of Lonely Street 噢 它就在那条寂寞之街的尽头*
 
-Well, it's down at the end of Lonely Street 噢 它就在那条寂寞之街的尽头
+*At Heartbreak Hotel 在那伤心旅馆里*
 
-At Heartbreak Hotel 在那伤心旅馆里
+*I'll be so lonely baby Well, I'm so lonely我是如此孤独，我是如此孤独*
 
-I'll be so lonely baby Well, I'm so lonely我是如此孤独，我是如此孤独
-
-I'll be so lonely, I could die我如此孤独生不如死
-</center>
+*I'll be so lonely, I could die我如此孤独生不如死*
 
 他泪眼朦胧，终于完整的把这首歌唱了出来，所有的歌词都从他的嘴唇间信口流出，就连猫王的样子他都回忆了起来。尽管唱片音质还是不可分辨，但那隐约的还是滋润了他的孤独之心，他感到围墙崩塌，外面的空气一股涌入焕发新生。接触到人类时代的造物，博士终于如深海生物第一次见识光明一样知晓了它是如此美丽，纯洁，不可污蔑。他把头埋在腿间无声的哭泣。音乐在他的记忆中，如春回大地的温暖阳光融化了冰川世纪的坚冰，赋予了万物新生的希望。
 
@@ -247,9 +242,11 @@ I'll be so lonely, I could die我如此孤独生不如死
 
 直到他在消愁的醉酒后被一个好心的饮料商萨科塔送回了家，他才想到好办法把这张支票丢出自己身外，至于后来自己的财富又翻了倍还是怎么着，都与自己无关了。
 
-他把衣服脱光，躺在地板上，这时，他终于成为这片大地唯一一个人类。<eod />
+![](./res/illustration/愚人.webp)
 
-![](./res/illustration/愚人.jpg)
+他把衣服脱光，躺在地板上，这时，他终于成为这片大地唯一一个人类。
+
+<eod />
 
 （绘图：LOFTER@Eisen先生；本文来自作者投稿）
 

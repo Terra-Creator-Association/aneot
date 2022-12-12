@@ -15,31 +15,31 @@ order: -1
 
 ---
 
-![](./res/illustration/迷迭香.png) {.centering}
+![](./res/illustration/迷迭香.webp) {.centering}
 
 Artist: 海克斯科技火箭腰带
 
 ---
 
-![](./res/illustration/斥罪.jpg) {.centering}
+![](./res/illustration/斥罪.webp) {.centering}
 
 Artist: LOFTER@秋某
 
 ---
 
-![](./res/illustration/双狼.jpg) {.centering}
+![](./res/illustration/双狼.webp) {.centering}
 
 Artist: 盐分过高
 
 ---
 
-![](./res/illustration/斩破.png) {.centering}
+![](./res/illustration/斩破.webp) {.centering}
 
 Artist: LOFTER@森灵
 
 ---
 
-![](./res/illustration/子月.jpg) {.centering}
+![](./res/illustration/子月.webp) {.centering}
 
 Artist: LOFTER@怪人吴a
 
