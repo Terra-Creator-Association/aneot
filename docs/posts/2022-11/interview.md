@@ -11,21 +11,6 @@ tag:
 order: -3
 ---
 
-<style>
-table th:first-of-type {
-    width: 25%;    
-}
-table th:nth-of-type(2) {
-    width: 25%;
-}
-table th:nth-of-type(3) {
-    width: 25%;
-}
-table th:nth-of-type(4) {
-    width: 25%;
-}
-</style>
-
 ![](./res/Ope_Sec/topic.png)
 
 各位刀客塔们大家好，这里是方舟命题组！这是博士水平测试与大家的第一次见面，以后也将成为常驻栏目，希望大家喜欢。本栏目主要通过单项选择题的方式来考察博士们对《明日方舟》中各种知识的理解和熟悉程度。如你所见，本期题目的主题是“干员秘闻”。祝各位玩得愉快！
@@ -135,7 +120,7 @@ D.黏性超人
 
 扫一扫二维码查看本期答案
 
-<a href="https://www.wjx.cn/vm/QrZD8mh.aspx" target="_blank"> 点我也可以哟ヾ(≧▽≦*)o </a>
+[点我也可以哟ヾ(≧▽≦*)o](https://www.wjx.cn/vm/QrZD8mh.aspx)
 <eod />
 
 <ArticleAd />
