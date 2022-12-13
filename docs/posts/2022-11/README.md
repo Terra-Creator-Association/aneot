@@ -1,7 +1,7 @@
 ---
 icon: repo
 article: false
-title: Vol. 06 - 2022 年 11 月号
+title: Vol. 06 - 2022 年 11 月号：彼处水如酒
 ---
 
 ![](./res/cover.jpg) {.centering}
