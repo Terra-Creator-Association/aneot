@@ -4,7 +4,7 @@ article: false
 title: Vol. 06 - 2022 年 11 月号
 ---
 
-![](./res/cover.webp) {.centering}
+![](./res/cover.jpg) {.centering}
 
 ## 目录
 
