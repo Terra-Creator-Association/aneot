@@ -1,6 +1,6 @@
 ---
 icon: palette
-title: 漫画二则
+title: 漫画一则
 author: 
 date: 2022-11-09
 category:
