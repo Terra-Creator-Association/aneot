@@ -16,12 +16,12 @@ title: Vol. 06 - 2022 年 11 月号：彼处水如酒
   - [大湖巫女](article6.html)
 - **见字如面 · 罗德岛日志**
   - [回身，空无一物](article3.html)
-- **见字如面·午间逸话**
+- **见字如面 · 午间逸话**
   - [博士——作为人类物种的孤独](article5.html)
 - **画中秘境**
   - [金色的天马](comic1.html)
   - [画中秘境](paintings.html)
 - **特别企划**
-  - [干员密录](interview.html)
+  - [干员秘闻：第一期](ope_sec.html)
 
 <ArticleAd />
