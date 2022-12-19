@@ -16,12 +16,12 @@ title: Vol. 05 - 2022 年 10 月号
   - [节日快乐，博士](article6.html)
 - **见字如面 · 罗德岛日志**
   - [沙滩、海、我和 TA 的梦](article3.html)
-- **见字如面·午间逸话**
+- **见字如面 · 午间逸话**
   - [晚餐时间：萨尔贡风味瘤肉丸子烩饭](article5.html)
 - **画中秘境**
   - [乌尔比安和花](comic1.html)
   - [画中秘境](paintings.html)
 - **特别企划**
-  - [特别专访：B站UP主 一只大哈鱼](interview.html)
+  - [特别专访：B站UP主 一只大哈鱼](ope_sec.html)
 
 <ArticleAd />
