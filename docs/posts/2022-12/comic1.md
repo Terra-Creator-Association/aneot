@@ -1,15 +1,15 @@
 ---
 icon: palette
-title: 漫画一则
-author: 
-date: 2022-11-09
+title: 漫画三则
+author: 15catsup
+date: 2022-11-13
 category:
   - 画中秘境
 tag:
-  - 亲爱的树鹨
+  - 15catsup
   - 条漫
 
-order: -2
+order: -3
 ---
 
 ![](./res/comic/comic1.webp) {.centering}
