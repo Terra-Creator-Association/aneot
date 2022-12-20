@@ -22,6 +22,6 @@ title: Vol. 05 - 2022 年 10 月号
   - [乌尔比安和花](comic1.html)
   - [画中秘境](paintings.html)
 - **特别企划**
-  - [特别专访：B站UP主 一只大哈鱼](ope_sec.html)
+  - [特别专访：B站UP主 一只大哈鱼](interview.html)
 
 <ArticleAd />
