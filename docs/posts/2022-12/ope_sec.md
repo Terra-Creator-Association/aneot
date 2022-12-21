@@ -11,7 +11,7 @@ order: -2
 ---
 <!-- more -->
 
-![](./res/ope_sec/topic.png)
+![](./res/ope_sec/topic.png) {.centering}
 
 鬼魂从帝国庞大的阴影中爬出
 
