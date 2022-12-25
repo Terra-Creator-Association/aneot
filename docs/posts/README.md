@@ -16,7 +16,7 @@ dir:
 
 [**在线阅读**](./2022-12/README.md)
 
-***下载 PDF*** （暂未更新）
+[**下载 PDF**](https://wwwe.lanzoue.com/b041kqqmf)
 
 ## 往期回顾
 |![](./2022-05/res/cover.webp)|![](./2022-06//res/cover.webp)|![](./2022-07/res/cover.webp)|
@@ -28,6 +28,6 @@ dir:
 |[下载 PDF](https://wwb.lanzouy.com/b011ya7gf)<br>密码: 42tz|[下载 PDF](https://wwb.lanzoue.com/b0121q8la)<br>密码: 9a3c|[下载 PDF](https://cloud.189.cn/web/share?code=JJFrM3fqqyMj)<br>访问码: wt5z|
 |![](./2022-11/res/cover.jpg)| ![](./2022-12/res/cover.jpg)| |
 |[2022-11: Vol. 06 <br>2022 年 11 月号：彼处水如酒](2022-11/)|[2022-12: Vol. 07 <br>2022 年 12 月号](2022-12/) | |
-|[下载 PDF](https://aneot.lanzoue.com/b012bjyib)<br>密码: 5jy8|***下载 PDF*** <br>（暂未更新）| |
+|[下载 PDF](https://aneot.lanzoue.com/b012bjyib)<br>密码: 5jy8|[下载 PDF](https://wwwe.lanzoue.com/b041kqqmf) <br>密码：202212| |
 
 <ArticleAd />
