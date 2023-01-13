@@ -2,10 +2,9 @@
 @rem 
 @If not exist node_modules goto ins
 
-@start http://localhost:8080
-@echo 已自动拉起浏览器，如未成功拉起请在浏览器地址栏输入“http://localhost:8080”
+@echo 将在预览文件准备完成后自动拉起浏览器，如未成功拉起请在浏览器地址栏输入“http://localhost:8080”
 @echo 请等待出现vite vX.X.X devserver running at: 出现后等待几秒刷新页面即可
-pnpm run docs:dev
+pnpm run docs:dev --open
 exit
 
 @:ins
