@@ -1,7 +1,7 @@
 ---
 icon: palette
 title: 漫画一则
-author: 15catsup
+author: lilililium
 date: 2023-01-11
 category:
   - 画中秘境
@@ -22,6 +22,8 @@ table th:nth-of-type(2) {
     width: 20%;
 }
 </style>
+
+[手机端兼容页面](./comic1_m.html)
 
 |  |  |
 | ----------- | ----------- |
