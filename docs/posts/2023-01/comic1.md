@@ -15,15 +15,10 @@ order: -3
 tr, td, th {
    border: none!important;
 }
-table th:first-of-type {
-    width: 80%;
-}
 table th:nth-of-type(2) {
-    width: 20%;
+    width: 123px;
 }
 </style>
-
-[手机端兼容页面](./comic1_m.html)
 
 |  |  |
 | ----------- | ----------- |
