@@ -18,18 +18,6 @@ dir:
 
 [**下载 PDF**](https://unknown.com)
 
-<style>
-table th:first-of-type {
-    width: 33%;
-}
-table th:nth-of-type(2) {
-    width: 33%;
-}
-table th:nth-of-type(3) {
-    width: 33%;
-}
-</style>
-
 ## 往期回顾
 |![](./2022-05/res/cover.webp)|![](./2022-06//res/cover.webp)|![](./2022-07/res/cover.webp)|
 |:-:|:-:|:-:|
