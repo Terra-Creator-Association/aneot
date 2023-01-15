@@ -17,7 +17,7 @@ title: Vol. 08 - 2023 年 01 月号
   - [去龙门](article5.html)
 - **画中秘境**
   - [漫画一则](comic1.html)
-  - [画中秘境](painting.html)
+  - [画中秘境](paintings.html)
 - **干员秘闻**
   - [干员秘闻：第三期](ope_sec.html)
 
