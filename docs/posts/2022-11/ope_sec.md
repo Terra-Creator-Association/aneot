@@ -11,6 +11,14 @@ tag:
 order: -3
 ---
 
+<style>
+tr, td, th {
+   border: none!important;
+}
+</style>
+
+<!-- more -->
+
 ![](./res/Ope_Sec/topic.png) {.centering}
 
 各位刀客塔们大家好，这里是方舟命题组！这是博士水平测试与大家的第一次见面，以后也将成为常驻栏目，希望大家喜欢。本栏目主要通过单项选择题的方式来考察博士们对《明日方舟》中各种知识的理解和熟悉程度。如你所见，本期题目的主题是“干员秘闻”。祝各位玩得愉快！
@@ -113,8 +121,6 @@ D.黏性超人
 | ![](./res/Ope_Sec/Q13_1.png) | ![](./res/Ope_Sec/Q13_2.png) | ![](./res/Ope_Sec/Q13_3.png) | ![](./res/Ope_Sec/Q13_4.png) |
 | :---: | :---: | :---: | :---: |
 | A.燧石 | B.野鬃 | C.早露 | D.小莫 |
-
-
 
 ![](./res/Ope_Sec/Answer.png)
 

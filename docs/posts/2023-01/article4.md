@@ -1,6 +1,6 @@
 ---
 icon: article
-title: 提灯
+title: 提灯与信号旗
 author: 瑶濯
 date: 2023-01-13
 category:
@@ -151,6 +151,7 @@ order: 5
 “什么任务？”
 
 “探查海滩。”
+
 “你一个人？在这么危险的地方？”
 
 “原本是有一只先遣小队的......”
@@ -380,5 +381,9 @@ order: 5
 ——并亲自去创造一个传奇。
 
 灰色的小鸟张开翅膀，迎着海风，向着潮水上涨的方向飞去。<eod />
+
+![](./res/illustration/提灯与信号旗（栖鹤，lof）.webp) {.centering}
+
+(绘图：LOFTER@栖鹤；本文来自作者投稿）
 
 <ArticleAd />

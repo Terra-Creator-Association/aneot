@@ -160,8 +160,6 @@ XXXX年X月X日 天气大雾 目前位置：维多利亚境内
 
 ![](./res/illustration/留言板（狂暴摸鱼小狗）.webp) {.centering}
 
-LOFTER@狂暴摸鱼小狗
-
-本文首发于LOFTER
+（责任编辑：黑子；网页排版：武乙凌薇；绘图：LOFTER@狂暴摸鱼小狗；本文首发于LOFTER）
 
 <ArticleAd />
