@@ -8,15 +8,29 @@ dir:
 
 <!-- more -->
 
+<style>
+table th:first-of-type {
+    width: 30%;
+}
+table th:nth-of-type(2) {
+    width: 30%;
+}
+table th:nth-of-type(3) {
+    width: 30%;
+}
+</style>
+
 ## 最新一期
 
-**2023-01: Vol. 07 2023 年 01 月号**
+**2023-01: Vol. 08 2023 年 01 月号**
 
 ![](./2023-01/res/cover.jpg){style="max-width:60%}
 
 [**在线阅读**](./2023-01/README.md)
 
 [**下载 PDF**](https://unknown.com)
+
+
 
 ## 往期回顾
 |![](./2022-05/res/cover.webp)|![](./2022-06//res/cover.webp)|![](./2022-07/res/cover.webp)|
