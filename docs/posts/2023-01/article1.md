@@ -162,4 +162,6 @@ XXXX年X月X日 天气大雾 目前位置：维多利亚境内
 
 （责任编辑：黑子；网页排版：武乙凌薇；绘图：LOFTER@狂暴摸鱼小狗；本文首发于LOFTER）
 
-<ArticleAd />
+此处可能展示泰拉广告。<a href="/about-ads">了解详情</a>{style="text-align: right"}
+
+[![](./res/ads/ym1.webp) ](https://www.bilibili.com/video/BV1uT4y1P7CX/){.centering}

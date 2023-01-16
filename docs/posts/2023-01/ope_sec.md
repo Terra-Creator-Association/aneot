@@ -143,4 +143,6 @@ D. 在战斗结算时，罗德岛将霜星归入了阿米娅小队的荣誉队�
 [点我也可以哟ヾ(≧▽≦*)o](https://www.wjx.cn/vm/OhX0W4x.aspx)
 <eod />
 
-<ArticleAd />
+此处可能展示泰拉广告。<a href="/about-ads">了解详情</a>{style="text-align: right"}
+
+[![](./res/ads/ld1.webp) ](https://www.bilibili.com/video/BV1uT4y1P7CX/){.centering}

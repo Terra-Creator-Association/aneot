@@ -386,4 +386,6 @@ order: 5
 
 (绘图：LOFTER@栖鹤；本文来自作者投稿）
 
-<ArticleAd />
+此处可能展示泰拉广告。<a href="/about-ads">了解详情</a>{style="text-align: right"}
+
+[![](./res/ads/ym2.webp) ](https://www.bilibili.com/video/BV1uT4y1P7CX/){.centering}

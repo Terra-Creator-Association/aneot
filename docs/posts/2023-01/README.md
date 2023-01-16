@@ -21,4 +21,6 @@ title: Vol. 08 - 2023 年 01 月号
 - **干员秘闻**
   - [干员秘闻：第三期](ope_sec.html)
 
-<ArticleAd />
+此处可能展示泰拉广告。<a href="/about-ads">了解详情</a>{style="text-align: right"}
+
+[![](./res/ads/ld2.webp) ](https://www.bilibili.com/video/BV1uT4y1P7CX/){.centering}

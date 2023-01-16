@@ -27,4 +27,6 @@ table th:nth-of-type(2) {
 |![](./res/comic/comic3.webp) {.centering}|乔迪这才注意到，这是一位年轻的审判官学徒，—位出身阿戈尔的审判官学徒。乔迪曾经认识过这样一位年轻的审判官。<br><br>她的声音里竟然多了一丝笑意，“像你这样的阿戈尔人，我曾经也认识一个，说不定你们真能活到最后。”|
 |![](./res/comic/comic4.webp) {.centering}|“再见，乔迪 •方塔纳罗萨。”“再见。”|
 
-<ArticleAd />
+此处可能展示泰拉广告。<a href="/about-ads">了解详情</a>{style="text-align: right"}
+
+[![](./res/ads/ld1.webp) ](https://www.bilibili.com/video/BV1uT4y1P7CX/){.centering}

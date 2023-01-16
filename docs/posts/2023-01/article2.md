@@ -205,4 +205,6 @@ order: 3
 
 （责任编辑：瑶濯；网页排版：武乙凌薇；绘图：LOFTER@F14；本文首发于泰拉通讯枢纽）
 
-<ArticleAd />
+此处可能展示泰拉广告。<a href="/about-ads">了解详情</a>{style="text-align: right"}
+
+[![](./res/ads/ym2.webp) ](https://www.bilibili.com/video/BV1uT4y1P7CX/){.centering}
