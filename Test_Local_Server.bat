@@ -1,16 +1,16 @@
-@title VuePress本地测试服务
+@title VuePress Local Testing Services
 @rem 
 @If not exist node_modules goto ins
 
-@echo 将在预览文件准备完成后自动拉起浏览器，如未成功拉起请在浏览器地址栏输入“http://localhost:8080”
-@echo 请等待出现vite vX.X.X devserver running at: 出现后等待几秒刷新页面即可
+@echo The browser will be automatically pulled up when the preview file is ready, if it is not pulled up successfully, please type in the browser address bar ^"http://localhost:8080^"
+@echo Please wait for the command line to appear ^"vite vX.X.X devserver running at:^" Just wait a few seconds to refresh the page after it appears
 pnpm run docs:dev --open
 exit
 
 @:ins
-@echo 未检测到VuePress依赖，正在尝试安装，请在安装完成后再次启动本脚本
+@echo No VuePress dependency detected, trying to install, please start this script again after installation is complete
 @timeout /t 3 >nul
 pnpm install
-If not %errorlevel%==0 echo 本服务依赖于pnpm指令，请确认已全局安装
+If not %errorlevel%==0 echo This service relies on the pnpm command, please make sure it is installed globally
 @timeout /t 10 >nul
 exit
