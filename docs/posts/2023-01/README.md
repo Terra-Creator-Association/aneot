@@ -4,7 +4,7 @@ article: false
 title: Vol. 08 - 2023 年 01 月号
 ---
 
-![](./res/cover.jpg) {.centering}
+![](./res/cover.webp) {.centering}
 
 ## 目录
 
