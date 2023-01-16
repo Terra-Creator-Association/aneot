@@ -1,12 +1,12 @@
 ---
 icon: article
 title: 去龙门
-author: 玛嘉烈·临光
+author: M1887
 date: 2023-01-14
 category:
   - 此地之外
 tag:
-  - 玛嘉烈·临光
+  - M1887
 
 order: 6
 ---

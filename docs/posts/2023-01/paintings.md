@@ -47,12 +47,6 @@ Artist: 霓秋nikiyo
 
 Artist: 淹城挖出的那只小舟
 
----
-
-![](./res/illustration/帕拉斯（黑泥型芙芙）.webp) {.centering}
-
-Artist: 黑泥型芙芙
-
 此处可能展示泰拉广告。<a href="/about-ads">了解详情</a>{style="text-align: right"}
 
 [![](./res/ads/ym1.webp) ](https://www.bilibili.com/video/BV1uT4y1P7CX/){.centering}

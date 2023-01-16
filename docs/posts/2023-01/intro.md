@@ -2,12 +2,12 @@
 icon: community
 article: false
 title: 卷首语
-author: 玛嘉烈.临光
+author: M1887
 date: 2023-01-11
 category:
   - 卷首
 tag:
-  - 玛嘉烈.临光
+  - M1887
 
 order: 1
 ---
