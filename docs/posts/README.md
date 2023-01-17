@@ -31,6 +31,6 @@ dir:
 |[2022-11: Vol. 06 <br>2022 年 11 月号：彼处水如酒](2022-11/)|[2022-12: Vol. 07 <br>2022 年 12 月号](2022-12/) | [2023-01: Vol. 08 <br>2023 年 01 月号](2023-01/)|
 |[下载 PDF](https://aneot.lanzoue.com/b012bjyib)<br>密码: 5jy8|[下载 PDF](https://wwwe.lanzoue.com/b041kqqmf) <br>密码：202212| |
 
-此处可能展示泰拉广告。<a href="/about-ads">了解详情</a>{style="text-align: right"}
+此处可能展示泰拉广告。<a href="/about-fake-ads">了解详情</a>{style="text-align: right"}
 
-[![](./2023-01/res/ads/ld2.webp) ](https://www.bilibili.com/video/BV1uT4y1P7CX/){.centering}
+[![](./2023-01/res/ads/ld2.webp) ](https://www.bilibili.com/video/BV1GJ411x7h7/){.centering}
