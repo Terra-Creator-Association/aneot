@@ -126,7 +126,6 @@ D.黏性超人
 
 扫一扫二维码查看本期答案
 
-[点我也可以哟ヾ(≧▽≦*)o](https://www.wjx.cn/vm/QrZD8mh.aspx)
-<eod />
+[点我也可以哟ヾ(≧▽≦*)o](https://www.wjx.cn/vm/QrZD8mh.aspx)<eod />
 
 <ArticleAd />

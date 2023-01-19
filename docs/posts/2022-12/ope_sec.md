@@ -134,7 +134,6 @@ D.苇草虽然并不喜欢战斗，但如果是为了同伴们的共同愿望而
 
 扫一扫二维码查看本期答案
 
-[点我也可以哟ヾ(≧▽≦*)o](https://www.wjx.cn/vm/h4kWHd3.aspx)
-<eod />
+[点我也可以哟ヾ(≧▽≦*)o](https://www.wjx.cn/vm/h4kWHd3.aspx)<eod />
 
 <ArticleAd />
