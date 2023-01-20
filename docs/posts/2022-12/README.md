@@ -4,7 +4,7 @@ article: false
 title: Vol. 07 - 2022 年 12 月号
 ---
 
-![](./res/cover.jpg) {.centering}
+![](./res/cover.webp) {.centering}
 
 ## 目录
 

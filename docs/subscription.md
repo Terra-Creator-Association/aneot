@@ -16,6 +16,12 @@ index: false
 - [JSON](feed.json)
 - [RSS (推荐)](rss.xml)
 
+## 社交平台关注
+
+- [哔哩哔哩](https://space.bilibili.com/1317574696)
+- [泰拉通讯枢纽](https://terrach.net/author/14519)
+- [微博](https://weibo.com/u/7414874331)
+
 ## 其他订阅
 
 - 正在施工...
