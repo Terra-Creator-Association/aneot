@@ -2,7 +2,7 @@
 icon: proposal
 title: 《回归线》投稿指南
 shortTitle: 投稿指南
-date: 2023-1-20
+date: 2023-01-20
 
 tag:
   - 关于
