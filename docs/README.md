@@ -12,7 +12,7 @@ projects:
   - icon: read
     name: 卷首
     desc: 欢迎阅读《回归线》
-    link: posts/2022-06/intro
+    link: posts/readme.html
 
   - icon: book
     name: 期刊一览
@@ -21,8 +21,8 @@ projects:
 
   - icon: article
     name: 最新一期
-    desc: Vol.08 2023-01
-    link: posts/2023-01
+    desc: Vol.08 2023-02
+    link: posts/2023-02
 
   - icon: proposal
     name: 征稿启事
