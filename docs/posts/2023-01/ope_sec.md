@@ -136,9 +136,9 @@ C. 霜星本名叶莲娜，其衣服由养父爱国者的旧斗篷改造而成�
 
 D. 在战斗结算时，罗德岛将霜星归入了阿米娅小队的荣誉队员，之后还用她的名字命名了一款防冻药物
 
-![](./res/ope_sec/answer.jpg)
+![](./res/ope_sec/answer.jpg){style="float:left;max-width:20%;margin-right:1em"}
 
-扫一扫二维码查看本期答案
+*扫一扫二维码查看本期答案*
 
 [点我也可以哟ヾ(≧▽≦*)o](https://www.wjx.cn/vm/OhX0W4x.aspx)<eod />
 
