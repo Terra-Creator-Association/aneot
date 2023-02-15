@@ -24,4 +24,10 @@ Artist: 空印.EmptyPalace
 
 Artist: あめお嬢様
 
+---
+
+![](./res/illustration/肉鸽（维他命）.webp) {.centering}
+
+Artist: 维他命
+
 <ArticleAd />

@@ -324,6 +324,8 @@ order: 6
 
 <eod />
 
-（责任编辑：广英与荣耀；网页排版：武乙凌薇）
+![](./res/illustration/猫猫雨（黑翅膀DW-X）.webp) {.centering}
+
+（责任编辑：广英与荣耀；网页排版：武乙凌薇；绘图：黑翅膀DW-X）
 
 <ArticleAd />
