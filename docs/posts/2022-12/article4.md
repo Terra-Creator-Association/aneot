@@ -15,12 +15,6 @@ order: 5
 
 <!-- more -->
 
-<style>
-hr {
-   border: none!important;
-}
-</style>
-
 “冷……好冷啊……”
 
 一个小女孩瘫倒在地上，嘴里不停地重复这句话，四周是无穷无尽的火焰。

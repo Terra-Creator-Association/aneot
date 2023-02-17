@@ -15,12 +15,6 @@ order: 2
 
 <!-- more -->
 
-<style>
-hr {
-   border: none!important;
-}
-</style>
-
 *Take a picture and dont forget her* {style="text-align: center"}
 
 多萝西感觉到了温暖。那是一种浸泡在液体中的感觉，身体随着水流缓慢浮动，丝丝缕缕的暖意贴着皮肤游走。

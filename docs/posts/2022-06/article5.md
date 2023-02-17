@@ -15,12 +15,6 @@ order: 6
 
 <!-- more -->
 
-<style>
-hr {
-   border: none!important;
-}
-</style>
-
 ---
 
 【AM 5:14/罗德岛舰桥】

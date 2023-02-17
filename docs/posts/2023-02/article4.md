@@ -15,12 +15,6 @@ order: 5
 
 <!-- more -->
 
-<style>
-hr {
-   border: none!important;
-}
-</style>
-
 博士这几天有个心事。
 
 “嗯？博士，怎么啦？”看见博士直勾勾地盯着自己，博士的小助理也没多想就发出了疑问。

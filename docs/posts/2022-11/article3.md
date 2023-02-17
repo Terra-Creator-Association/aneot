@@ -15,12 +15,6 @@ order: 4
 
 <!-- more -->
 
-<style>
-hr {
-   border: none!important;
-}
-</style>
-
 阿丽娜：
 
 祝好梦！
