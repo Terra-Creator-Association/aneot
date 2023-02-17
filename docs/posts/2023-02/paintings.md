@@ -30,4 +30,10 @@ Artist: あめお嬢様
 
 Artist: 维他命
 
+---
+
+![](./res/illustration/帕拉斯（陆地边缘）.webp) {.centering}
+
+Artist: 陆地边缘
+
 <ArticleAd />
