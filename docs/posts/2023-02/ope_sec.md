@@ -11,29 +11,21 @@ order: -2
 ---
 <!-- more -->
 
-<style>
-tr, td, th {
-   border: none!important;
-}
-</style>
-
 ![](./res/ope_sec/topic.webp) {.centering}
 
-<center>
-即便是那位耀骑士
+即便是那位耀骑士{.centering}
 
-她那如同灯塔般璀璨的心灵之火
+她那如同灯塔般璀璨的心灵之火{.centering}
 
-也不足以驱散笼罩整片大地的阴云
+也不足以驱散笼罩整片大地的阴云{.centering}
 
-不过，在这个充满苦难与仇恨的世界上
+不过，在这个充满苦难与仇恨的世界上{.centering}
 
-依然有一批人在奋斗，在抗争
+依然有一批人在奋斗，在抗争{.centering}
 
-在黑暗阴云的尽头
+在黑暗阴云的尽头{.centering}
 
-依然有火花在闪耀
-</center>
+依然有火花在闪耀{.centering}
 
 ——坎诺特·古德·英纳夫{style="text-align: right"}
 

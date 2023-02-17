@@ -10,12 +10,6 @@ tag:
 order: -2
 ---
 
-<style>
-tr, td, th {
-   border: none!important;
-}
-</style>
-
 <!-- more -->
 
 ![](./res/ope_sec/topic.png) {.centering}

@@ -10,12 +10,6 @@ tag:
 order: -2
 ---
 
-<style>
-tr, td, th {
-   border: none!important;
-}
-</style>
-
 ![](./res/ope_sec/topic.png) {.centering}
 
 罗德岛全体卡特斯干员{.textkai .centering}

@@ -11,12 +11,6 @@ tag:
 order: -3
 ---
 
-<style>
-tr, td, th {
-   border: none!important;
-}
-</style>
-
 <!-- more -->
 
 ![](./res/Ope_Sec/topic.png) {.centering}

@@ -15,15 +15,13 @@ order: 6
 
 <!-- more -->
 
-<center>
-我亲爱的，你是否记得那个美好的夏日清晨
+我亲爱的，你是否记得那个美好的夏日清晨{.centering}
 
-我们一起看见的东西
+我们一起看见的东西{.centering}
 
-在小径拐弯处，一具溃烂尸体
+在小径拐弯处，一具溃烂尸体{.centering}
 
-横卧碎尸满布的路上
-</center>
+横卧碎尸满布的路上{.centering}
 
 法 波德莱尔《恶之花》改{style="text-align: right"}
 

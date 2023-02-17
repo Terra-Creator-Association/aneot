@@ -1,6 +1,11 @@
 :root {
     --waline-theme-color: var(--theme-color);
+    // 表格；横线元素隐藏
+    hr, tr, td, th {
+        border: none!important;
+        }
 }
+
 
 // 首行缩进2字符
 .theme-hope-content p {
