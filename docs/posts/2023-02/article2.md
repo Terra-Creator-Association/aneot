@@ -383,7 +383,7 @@ hr {
 
 舰船外的雪又下着。她恍惚间想着，自己真的成长了。<eod />
 
-![](./res/illustration/文章小羊（澄闪圣诞快乐（霓秋nikiyo）.webp) {.centering}
+![](./res/illustration/澄闪圣诞快乐（霓秋nikiyo）.webp) {.centering}
 
 （责任编辑：瑶濯；网页排版：武乙凌薇；绘图：霓秋nikiyo）
 
