@@ -6,7 +6,7 @@ An fanmade literary journal based on mobile game *Arknights*.
 
 Clone the repository locally
 
-Make sure the pnpm command is available on your computer
+Make sure the ***pnpm*** command is available on your computer
 
 Run **LTS.bat** (Local Test Server)
 
