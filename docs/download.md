@@ -5,13 +5,13 @@ title: 文件下载
 date: 2023-02-18
 tag:
   - 下载
-article: false
-index: false
+star: true
+order: -4
 
 ---
 <!-- more -->
 
-| 文件列表 | 下载地址1(推荐) | 下载地址2(备用) | 网盘下载 |
+| 文件名称 | 下载地址1(推荐) | 下载地址2(备用) | 网盘下载 |
 |:-:|:-:|:-:|:-:|
 | Vol.Special 绿华漫霜优秀作品集 | [点击下载](https://raw.fastgit.org/dscmarkw/aneot-pdf/main/回归线Vol.Special_22-05.pdf) | [点击下载](https://raw.githubusercontent.com/dscmarkw/aneot-pdf/main/回归线Vol.Special_22-05.pdf) | [密码:hyfn](https://wwb.lanzouf.com/b011miqxc) |
 | Vol.01 2022年06月号 | [点击下载](https://raw.fastgit.org/dscmarkw/aneot-pdf/main/回归线Vol.01_22-06.pdf) | [点击下载](https://raw.githubusercontent.com/dscmarkw/aneot-pdf/main/回归线Vol.01_22-06.pdf) | [密码:hyfn](https://wwb.lanzouf.com/b011miqxc) |
