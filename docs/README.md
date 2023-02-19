@@ -24,6 +24,11 @@ projects:
     desc: Vol.09 2023-02
     link: posts/2023-02
 
+  - icon: cache
+    name: 下载 PDF
+    desc: Download
+    link: download
+
   - icon: proposal
     name: 征稿启事
     desc: 欢迎投稿！
