@@ -24,5 +24,6 @@ index: false
 | Vol.08 2023年01月号 | [点击下载](https://raw.fastgit.org/dscmarkw/aneot-pdf/main/回归线Vol.08_23-01.pdf) | [点击下载](https://raw.githubusercontent.com/dscmarkw/aneot-pdf/main/回归线Vol.08_23-01.pdf) | [密码:202301](https://wwwe.lanzoum.com/b041o7uuh) |
 | Vol.09 2023年02月号 | [点击下载](https://raw.fastgit.org/dscmarkw/aneot-pdf/main/回归线Vol.09_23-02.pdf) | [点击下载](https://raw.githubusercontent.com/dscmarkw/aneot-pdf/main/回归线Vol.09_23-02.pdf) | **No Info** |
 
-|[下载 PDF](https://wwb.lanzouf.com/b011miqxc)<br>密码: hyfn|[下载 PDF](https://wwb.lanzouf.com/b011miqxc)<br>密码: hyfn|[下载 PDF](https://wwb.lanzouf.com/b011u6cne)<br>密码: bj05|
+**直链仅提供完整版PDF下载，如需差分版本请前往网盘**
+
 <ArticleAd />
