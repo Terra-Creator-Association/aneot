@@ -89,7 +89,7 @@ export default hopeTheme({
 
   plugins: {
     blog: {
-      autoExcerpt: false,
+      excerptLength: 0,
     },
     comment: {
       provider: "Waline",
@@ -106,6 +106,7 @@ export default hopeTheme({
       sub: true,
       sup: true,
       footnote: true,
+      align: true,
       // presentation: {
       //   plugins: ["highlight", "math", "search", "notes", "zoom"],
       // },
