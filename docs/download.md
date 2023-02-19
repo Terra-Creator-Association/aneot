@@ -15,7 +15,7 @@ index: false
 |:-:|:-:|:-:|:-:|
 | Vol.Special 绿华漫霜优秀作品集 | [点击下载](https://raw.fastgit.org/dscmarkw/aneot-pdf/main/回归线Vol.Special_22-05.pdf) | [点击下载](https://raw.githubusercontent.com/dscmarkw/aneot-pdf/main/回归线Vol.Special_22-05.pdf) | [密码:hyfn](https://wwb.lanzouf.com/b011miqxc) |
 | Vol.01 2022年06月号 | [点击下载](https://raw.fastgit.org/dscmarkw/aneot-pdf/main/回归线Vol.01_22-06.pdf) | [点击下载](https://raw.githubusercontent.com/dscmarkw/aneot-pdf/main/回归线Vol.01_22-06.pdf) | [密码:hyfn](https://wwb.lanzouf.com/b011miqxc) |
-| Vol.02 2022年07月号 | [点击下载](https://raw.fastgit.org/dscmarkw/aneot-pdf/main/回归线Vol.02_22-07.pdf) | [点击下载](https://raw.githubusercontent.com/dscmarkw/aneot-pdf/main/回归线Vol.02_22-07.pdf) | [密码:bj05](hhttps://wwb.lanzouf.com/b011u6cne) |
+| Vol.02 2022年07月号 | [点击下载](https://raw.fastgit.org/dscmarkw/aneot-pdf/main/回归线Vol.02_22-07.pdf) | [点击下载](https://raw.githubusercontent.com/dscmarkw/aneot-pdf/main/回归线Vol.02_22-07.pdf) | [密码:bj05](https://wwb.lanzouf.com/b011u6cne) |
 | Vol.03 2022年08月号 | [点击下载](https://raw.fastgit.org/dscmarkw/aneot-pdf/main/回归线Vol.03_22-08.pdf) | [点击下载](https://raw.githubusercontent.com/dscmarkw/aneot-pdf/main/回归线Vol.03_22-08.pdf) | [密码:42tz](https://wwb.lanzouy.com/b011ya7gf) |
 | Vol.04 2022年09月号 | [点击下载](https://raw.fastgit.org/dscmarkw/aneot-pdf/main/回归线Vol.04_22-09.pdf) | [点击下载](https://raw.githubusercontent.com/dscmarkw/aneot-pdf/main/回归线Vol.04_22-09.pdf) | [密码:9a3c](https://wwb.lanzoue.com/b0121q8la) |
 | Vol.05 2022年10月号 | [点击下载](https://raw.fastgit.org/dscmarkw/aneot-pdf/main/回归线Vol.05_22-10.pdf) | [点击下载](https://raw.githubusercontent.com/dscmarkw/aneot-pdf/main/回归线Vol.05_22-10.pdf) | [密码:wt5z](https://cloud.189.cn/web/share?code=JJFrM3fqqyMj) |
