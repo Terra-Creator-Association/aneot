@@ -32,7 +32,7 @@ dir:
 |[下载 PDF](https://aneot.lanzoue.com/b012bjyib)<br>密码: 5jy8|[下载 PDF](https://wwwe.lanzoue.com/b041kqqmf) <br>密码：202212|[下载 PDF](https://wwwe.lanzoum.com/b041o7uuh) <br>密码：202301|
 |![](./2023-02/res/cover.webp)| **No Info** | **No Info** |
 |[2023-11: Vol. 06 <br>2023 年 02 月号](2023-02/)| ***敬请期待*** | ***敬请期待*** |
-|[下载 PDF](www.别忘了这.com)<br>密码: **No Info**| **No Info** | **No Info** |
+|[下载](2023-02/download)| **No Info** | **No Info** |
 
 此处可能展示泰拉广告。<a href="/about-fake-ads">了解详情</a>{style="text-align: right"}
 
