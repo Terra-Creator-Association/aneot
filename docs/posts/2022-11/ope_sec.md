@@ -4,18 +4,12 @@ title: 干员秘闻
 shortTitle: 和干员有关的这些细节，或许你不曾注意过？
 date: 2022-12-10
 category:
-  - 特别企划
+  - 干员秘闻
 tag:
-- 干员秘闻
+  - 干员秘闻
 
 order: -3
 ---
-
-<style>
-tr, td, th {
-   border: none!important;
-}
-</style>
 
 <!-- more -->
 
@@ -122,9 +116,9 @@ D.黏性超人
 | :---: | :---: | :---: | :---: |
 | A.燧石 | B.野鬃 | C.早露 | D.小莫 |
 
-![](./res/Ope_Sec/Answer.png)
+![](./res/Ope_Sec/Answer.png){style="float:left;max-width:20%;margin-right:1em"}
 
-扫一扫二维码查看本期答案
+*扫一扫二维码查看本期答案*
 
 [点我也可以哟ヾ(≧▽≦*)o](https://www.wjx.cn/vm/QrZD8mh.aspx)<eod />
 

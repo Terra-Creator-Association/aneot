@@ -21,8 +21,13 @@ projects:
 
   - icon: article
     name: 最新一期
-    desc: Vol.08 2023-01
-    link: posts/2023-01
+    desc: Vol.09 2023-02
+    link: posts/2023-02
+
+  - icon: cache
+    name: 下载 PDF
+    desc: Download
+    link: download
 
   - icon: proposal
     name: 征稿启事
