@@ -3,10 +3,10 @@ home: true
 layout: BlogHome
 icon: home
 title: 主页
-heroImage: /aneot.webp
+heroImage: /aneot.svg
 heroText: 回归线
 heroFullScreen: false
-tagline: Another End of Terra
+# tagline: Another End of Terra
 bgImage: /hero.webp
 projects:
   - icon: read
