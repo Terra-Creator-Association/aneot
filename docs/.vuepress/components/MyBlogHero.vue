@@ -27,14 +27,14 @@ const flipHero = () => {
     if (flipped.value) {
         heroHeight.value = 'calc(100vh - var(--navbar-height))'
     } else {
-        heroHeight.value = width > 768 ? '350px' : '400px'
+        heroHeight.value = width > 768 ? '350px' : '240px'
     }
 
     flipped.value = !flipped.value
 
     setTimeout(() => {
         if (flipped.value) {
-            heroHeight.value = width > 768 ? '350px' : '400px'
+            heroHeight.value = width > 768 ? '350px' : '240px'
         } else {
             heroHeight.value = 'calc(100vh - var(--navbar-height))'
         }
