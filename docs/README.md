@@ -3,11 +3,12 @@ home: true
 layout: BlogHome
 icon: home
 title: 主页
-heroImage: /aneot.svg
 heroText: 回归线
 heroFullScreen: false
-# tagline: Another End of Terra
-bgImage: /hero.webp
+# 在这里修改抬头画师
+tagline: © 红海岸 2023
+# 在这里修改版头主题色
+heroAlt: '#68ba62'
 projects:
   - icon: read
     name: 卷首
