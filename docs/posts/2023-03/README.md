@@ -1,7 +1,7 @@
 ---
 icon: repo
 article: false
-title: Vol. 10 - 2023 年 03 月号
+title: Vol. 10 - 2023 年 03 月号：往昔是个漫长的夜
 ---
 
 ![](./res/cover.webp) {.centering}
