@@ -22,8 +22,8 @@ projects:
 
   - icon: article
     name: 最新一期
-    desc: Vol.09 2023-02
-    link: posts/2023-02
+    desc: Vol.10 2023-03
+    link: posts/2023-03
 
   - icon: cache
     name: 下载 PDF
