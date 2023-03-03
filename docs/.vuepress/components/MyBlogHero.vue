@@ -8,8 +8,8 @@ const frontmatter = usePageFrontmatter<ThemeBlogHomePageFrontmatter>();
 const artist = computed(() => frontmatter.value.tagline)
 const themeColor = computed(() => frontmatter.value.heroAlt)
 
-
-const heroHeight = ref(`calc(100vh - var(--navbar-height))`)
+const initHeight = `calc(100vh - var(--navbar-height))`
+const heroHeight = ref(initHeight)
 const flipped = ref(false)
 
 const windowSize = ref<{ width: number, height: number }>({
@@ -17,38 +17,68 @@ const windowSize = ref<{ width: number, height: number }>({
     height: 0
 })
 
+const endHeight = windowSize.value.width > 768 ? '350px' : '240px'
+
 const handleResize = (): void => {
     windowSize.value.width = window.innerWidth
     windowSize.value.height = window.innerHeight
 }
 
-const flipHero = () => {
-    const width = windowSize.value.width
-    if (flipped.value) {
-        heroHeight.value = 'calc(100vh - var(--navbar-height))'
-    } else {
-        heroHeight.value = width > 768 ? '350px' : '240px'
+const handleScroll = (): void => {
+    const scrollTop = window.scrollY || document.documentElement.scrollTop
+    if (scrollTop < windowSize.value.height * 0.1) {
+        expandHero()
+    }else if (scrollTop > windowSize.value.height * 0.1 && scrollTop < windowSize.value.height * 0.3) {
+        collapseHero()
     }
+}
 
+const setHero = () => {
+    if (flipped.value) {
+        expandHero()
+        backToTop()
+    } else {
+        collapseHero()
+    }
+}
+
+const flipBtn = () => {
     flipped.value = !flipped.value
+}
 
-    setTimeout(() => {
-        if (flipped.value) {
-            heroHeight.value = width > 768 ? '350px' : '240px'
-        } else {
-            heroHeight.value = 'calc(100vh - var(--navbar-height))'
-        }
-    }, 1000)
+const backToTop = () => {
+    window.scrollTo({ top: 0, behavior: 'smooth' })
+}
 
+const expandHero = () => {
+    heroHeight.value = initHeight
+
+    // setTimeout(() => {
+    //     heroHeight.value = initHeight
+    // }, 500)
+
+    flipped.value = false
+}
+
+const collapseHero = () => {
+    heroHeight.value = endHeight
+
+    // setTimeout(() => {
+    //     heroHeight.value = endHeight
+    // }, 500)
+
+    flipped.value = true
 }
 
 onMounted(() => {
     window.addEventListener('resize', handleResize)
+    window.addEventListener('scroll', handleScroll)
     handleResize()
 })
 
 onBeforeUnmount(() => {
     window.removeEventListener('resize', handleResize)
+    window.removeEventListener('scroll', handleScroll)
 })
 </script>
 
@@ -60,7 +90,7 @@ onBeforeUnmount(() => {
         <img class="hero-image hero-image-mobile" src="/aneot-short.svg" alt="hero image" style="">
         <p class="artist" :style="`text-shadow: ` + themeColor + ` 0 0 2px;`">{{ artist }}</p>
         <div class="button-wrapper">
-            <button class="btn collapse-button" :class="{ flipped: flipped }" @click="flipHero">
+            <button class="btn collapse-button" :class="{ flipped: flipped }" @click="setHero">
                 <svg xmlns="http://www.w3.org/2000/svg" class="icon slide-down-icon" viewBox="0 0 1024 1024"
                     fill="currentColor" aria-label="slide-down icon">
                     <path
