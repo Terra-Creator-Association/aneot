@@ -126,6 +126,6 @@ D. 狮蝎-面纱之下：考虑到客户特殊性，在未经量体裁剪情况�
 
 *扫一扫二维码查看本期答案*
 
-[点我也可以哟ヾ(≧▽≦*)o](https:\\empty.com)<eod />
+[点我也可以哟ヾ(≧▽≦*)o](https://www.wjx.cn/vm/Ots5Yrk.aspx)<eod />
 
 <ArticleAd />
