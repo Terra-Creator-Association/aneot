@@ -16,7 +16,7 @@ dir:
 
 [**在线阅读**](./2023-02/README.md)
 
-[**前往下载页面**](aneot.terrach.net/download.md)
+[**前往下载页面**](/download.md)
 
 ## 往期回顾
 
