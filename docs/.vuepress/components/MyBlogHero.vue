@@ -87,7 +87,8 @@ onBeforeUnmount(() => {
         <div class="mask"></div>
         <img class="hero-image hero-image-pc" src="/aneot.svg" alt="hero image"
             :style="`filter: drop-shadow(` + themeColor + ` 0 0 6px);`">
-        <img class="hero-image hero-image-mobile" src="/aneot-short.svg" alt="hero image" style="">
+        <img class="hero-image hero-image-mobile" src="/aneot-short.svg" alt="hero image"
+            :style="`filter: drop-shadow(` + themeColor + ` 0 0 6px);`">
         <p class="artist" :style="`text-shadow: ` + themeColor + ` 0 0 2px;`">{{ artist }}</p>
         <div class="button-wrapper">
             <button class="btn collapse-button" :class="{ flipped: flipped }" @click="setHero">
