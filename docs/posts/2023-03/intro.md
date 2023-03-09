@@ -80,11 +80,11 @@ Rage, rage against the dying of the light {.textkai .centering}
 
 *泰拉啊，我的塑造者们，让我站在此时此地的过往* {.textkai .centering}
 
-*请用您的热泪诅咒我，祝福我吧* {.textkai .centering}
+*请用您的热泪诅咒我，祝福我* {.textkai .centering}
 
 *往昔是个漫长的夜* {.textkai .centering}
 
-*并不温驯的走入，怒斥，然后燃烧消逝吧* {.textkai .centering}
+*并不温驯的走入，怒斥，然后燃烧消逝* {.textkai .centering}
 
 *像全世界黎明前的曙光* {.textkai .centering}
 
