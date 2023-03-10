@@ -32,7 +32,7 @@ export default hopeTheme({
   本刊所有内容不得用于人工智能生成模型训练，包括但不限于个人、科研、教学和商业化应用。
   `,
 
-  copyright: "泰拉创作者联合会保留所有权利 | Copyright © 2023 TCA. All rights reserved.",
+  copyright: "泰拉创作者联合会保留所有权利 | Copyright © 2022-2023 TCA. All rights reserved.",
 
   displayFooter: true,
 
