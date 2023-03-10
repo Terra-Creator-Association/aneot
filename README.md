@@ -34,4 +34,6 @@ We only grant you the right to save and share as is. At the same time you must c
 
 **Refuse to train the model** — It shall not be used for artificial intelligence generation model training, including but not limited to personal, scientific research, teaching and commercial applications.
 
+We reserve all rights not granted to you, and if you violate the above requirements, we will withdraw all rights granted to you.
+
 **Copyright © 2023 All Rights Reserved**
