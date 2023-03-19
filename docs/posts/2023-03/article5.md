@@ -931,8 +931,9 @@ Mon3tr挺直身体，嘶嘶叫着，把双爪打磨得锐利。
 
 亘古不变的恐惧{.centering}
 
-愿你在此{.centering}<eod />
+愿你在此{.centering} 
+<eod />
 
-（网页排版：武乙凌薇；绘图：MAaaaaaackia）
+（网页排版：武乙凌薇；绘图1：MAaaaaaackia；绘图2：佚名）
 
 <ArticleAd />
