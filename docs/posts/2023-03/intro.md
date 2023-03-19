@@ -90,4 +90,4 @@ Rage, rage against the dying of the light {.textkai .centering}
 
 *像引领小船的北极星* {.textkai .centering}<eod />
 
-（责任编辑：黒子；网页排版：武乙凌薇）
+（网页排版：武乙凌薇）
