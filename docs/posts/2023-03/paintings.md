@@ -14,7 +14,48 @@ order: -1
 
 ---
 
-![](./res/illustration/cover.webp) {.centering}
+![](./res/illustration/摆渡人（问涛_独立插，配文）.webp) {.centering}
 
-Artist: 
+离断惘知处，孑水画白株。{.centering}
+
+彼岸魂幽生，往来成千古。{.centering}
+
+Artist: 问涛
+
+---
+
+![](./res/illustration/水墨女仆装夕宝（miiiriy）.webp) {.centering}
+
+Artist: miiiriy
+
+---
+
+![](./res/illustration/鸿雪（WAI：D）.webp) {.centering}
+
+Artist: WAI：D
+
+---
+
+![](./res/illustration/陈（没有一半）.webp) {.centering}
+
+Artist: 没有一半
+
+---
+
+![](./res/illustration/红松（夹子hasami_独立插）.webp) {.centering}
+
+Artist: 夹子hasami
+
+---
+
+![](./res/illustration/执棋者之骨（短线减仓_独立插）.webp) {.centering}
+
+Artist: 短线减仓
+
+---
+
+![](./res/illustration/剑兔（煌祺OniBi）.webp) {.centering}
+
+Artist: 煌祺OniBi
+
 <ArticleAd />
