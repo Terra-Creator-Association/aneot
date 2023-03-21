@@ -6,9 +6,9 @@ title: 主页
 heroText: 回归线
 heroFullScreen: false
 # 在这里修改抬头画师
-tagline: © 红海岸 2023
+tagline: © 九木江 2023
 # 在这里修改版头主题色
-heroAlt: '#68ba62'
+heroAlt: '#007bc1'
 projects:
   - icon: read
     name: 卷首
@@ -22,8 +22,8 @@ projects:
 
   - icon: article
     name: 最新一期
-    desc: Vol.09 2023-02
-    link: posts/2023-02
+    desc: Vol.10 2023-03
+    link: posts/2023-03
 
   - icon: cache
     name: 下载 PDF
