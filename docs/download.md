@@ -75,7 +75,7 @@ order: -4
 
 | 文件名称 | 下载地址1<br>(推荐) | 下载地址2<br>（备用） | 下载地址3<br>(直连) | 网盘下载 |
 |:-:|:-:|:-:|:-:|:-:|
-| Vol.10 2023年03月号 | [点击下载](https://raw.fastgit.org/dscmarkw/aneot-pdf/main/回归线Vol.10_23-03.pdf) | [点击下载](https://github.nite07.com/dscmarkw/aneot-pdf/raw/main/回归线Vol.10_23-03.pdf) | [点击下载](https://raw.githubusercontent.com/dscmarkw/aneot-pdf/main/回归线Vol.10_23-03.pdf) | [密码:202303](https://待定.com) |
+| Vol.10 2023年03月号 | [点击下载](https://raw.fastgit.org/dscmarkw/aneot-pdf/main/回归线Vol.10_23-03.pdf) | [点击下载](https://github.nite07.com/dscmarkw/aneot-pdf/raw/main/回归线Vol.10_23-03.pdf) | [点击下载](https://raw.githubusercontent.com/dscmarkw/aneot-pdf/main/回归线Vol.10_23-03.pdf) | [密码:202303](https://wwwe.lanzoum.com/b041wtjri) |
 
 ## OneDrive（备用）
 
