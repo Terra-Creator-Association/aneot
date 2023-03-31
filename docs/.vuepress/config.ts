@@ -3,6 +3,7 @@ import { searchPlugin } from "@vuepress/plugin-search";
 import theme from "./theme";
 import { registerComponentsPlugin } from '@vuepress/plugin-register-components'
 import { path } from '@vuepress/utils'
+import watermarkPlugin from './watermark-plugin'
 
 export default defineUserConfig({
   lang: "zh-CN",
@@ -54,6 +55,7 @@ export default defineUserConfig({
     registerComponentsPlugin({
       componentsDir: path.resolve(__dirname, "./components")
     }),
+    watermarkPlugin,
   ],
   alias: {
     // 你可以在这里将别名定向到自己的组件
