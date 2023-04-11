@@ -10,11 +10,11 @@ dir:
 
 ## 最新一期
 
-**2023-03: Vol. 10 2023 年 03 月号：往昔是个漫长的夜**
+**2023-04: Vol. 11 2023 年 04 月号**
 
-![](./2023-03/res/cover.webp){style="max-width:60% .centering}
+![](./2023-04/res/cover.webp){style="max-width:60% .centering}
 
-[**在线阅读**](./2023-03/README.md)
+[**在线阅读**](./2023-04/README.md)
 
 [**前往下载页面**](/download.md)
 

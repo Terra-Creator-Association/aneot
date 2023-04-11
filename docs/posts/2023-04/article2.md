@@ -8,10 +8,10 @@ category:
 tag:
   - 测试文章作者1
 
-order: 2
+order: 3
 ---
 
-{.textkai}
+钱塘江，听潮声，何日方知~我是我~{.textkai}
 
 <!-- more -->
 

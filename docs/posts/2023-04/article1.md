@@ -8,8 +8,10 @@ category:
 tag:
   - 弦惊
 
-order: 3
+order: 2
 ---
+
+城市是荒野摆脱不掉的顽疾，荒野是城市厌恶不已的囚笼。{.textkai}
 
 <!-- more -->
 
