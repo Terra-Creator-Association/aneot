@@ -1,7 +1,7 @@
 ---
 icon: article
-title: 测试文章1
-author: 测试文章作者1
+title: 杯中酒
+author: 葛上庭
 date: 2023-04-11
 category:
   - 测试分区
