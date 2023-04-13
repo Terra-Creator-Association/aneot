@@ -17,7 +17,7 @@ title: Vol. 11 - 2023 年 4 月号
   - [漫画一则](comic1.html)
   - [画中秘境](paintings.html)
 - **干员秘闻**
-  - [干员秘闻：第X期](ope_sec.html)
+  - [干员秘闻：第六期](ope_sec.html)
 - **特别企划**
   - [测试占位文本#1](interview.html)
 
