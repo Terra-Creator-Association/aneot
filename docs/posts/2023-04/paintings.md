@@ -15,15 +15,13 @@ order: -1
 ---
 
 <div class="print-warning" style="display: none;">
-  警告：受限于画师授权限制，打印时已删除限制内容。
+  警告：受限于画师授权限制，部分内容无法被打印。
 </div>
 
-<div class="no-print">
-
-![](./res/illustration/cover.webp) {.centering .no-download}
+![](./res/illustration/cover.webp) {.centering .no-print .no-interact}
 
 Artist: 
 
-</div>
+
 
 <ArticleAd />
