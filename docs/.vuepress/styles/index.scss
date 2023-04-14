@@ -127,3 +127,32 @@
     opacity: 1;
     text-shadow: 0 0 3px black;
 }
+
+// 禁止打印元素
+@media print {
+    .no-print {
+      display: none !important;
+    }
+  
+    .print-warning {
+      display: block !important;
+      position: fixed;
+      top: 0;
+      left: 0;
+      width: 100%;
+      padding: 15px;
+      text-align: center;
+      background-color: #ffff00;
+      color: #ff0000;
+      font-weight: bold;
+      font-size: 24px;
+      z-index: 9999;
+    }
+  }  
+
+// 禁止右键元素
+.no-download {
+    pointer-events: none;
+    user-select: none;
+}
+   

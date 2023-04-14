@@ -14,7 +14,16 @@ order: -1
 
 ---
 
-![](./res/illustration/cover.webp) {.centering}
+<div class="print-warning" style="display: none;">
+  警告：受限于画师授权限制，打印时已删除限制内容。
+</div>
+
+<div class="no-print">
+
+![](./res/illustration/cover.webp) {.centering .no-download}
 
 Artist: 
+
+</div>
+
 <ArticleAd />
