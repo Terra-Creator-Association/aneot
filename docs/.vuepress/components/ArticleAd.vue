@@ -1,5 +1,5 @@
 <template>
-  <div class="ads-container">
+  <div class="ads-container no-print">
     <p class="ads-hint">此处可能展示赞助商广告。<a href="/about-ads">了解详情</a></p>
     <ins
       class="adsbygoogle"
