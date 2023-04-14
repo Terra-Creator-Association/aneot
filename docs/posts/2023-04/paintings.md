@@ -14,14 +14,10 @@ order: -1
 
 ---
 
-<div class="print-warning" style="display: none;">
-  警告：受限于画师授权限制，部分内容无法被打印。
-</div>
+<printlimit />
 
 ![](./res/illustration/cover.webp) {.centering .no-print .no-interact}
 
 Artist: 
-
-
 
 <ArticleAd />
