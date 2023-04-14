@@ -128,7 +128,7 @@
     text-shadow: 0 0 3px black;
 }
 
-// 禁止打印元素
+// 禁止打印指定元素
 @media print {
     .no-print {
       display: none !important;
@@ -150,7 +150,7 @@
     }
   }  
 
-// 禁止右键元素
+// 禁止交互
 .no-interact {
     user-drag: none;
     -webkit-user-drag: none;

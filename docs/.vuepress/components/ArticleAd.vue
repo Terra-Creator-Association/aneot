@@ -42,4 +42,10 @@ export default {
   min-width: 250px;
   min-height: 50px;
 }
+
+@media print {
+  .no-print {
+    display: none !important;
+  }
+}
 </style>
