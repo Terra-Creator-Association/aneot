@@ -21,6 +21,4 @@ order: -3
 
 <eod />
 
-此处可能展示泰拉广告。<a href="/about-fake-ads">了解详情</a>{style="text-align: right"}
-
-[![](./res/ads/ld1.webp) ](https://www.bilibili.com/video/BV1GJ411x7h7/){.centering}
+<FakeAds />

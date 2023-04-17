@@ -30,6 +30,4 @@ dir:
 |![](./2023-02/res/cover.webp)|![](./2023-03/res/cover.webp)|![](./2023-04/res/cover.webp)|
 |[2023-02: Vol. 09 <br>2023 年 02 月号](2023-02/)|[2023-03: Vol. 10 <br>2023 年 03 月号：往昔是个漫长的夜](2023-03/)|[2023-03: Vol. 11 <br>2023 年 04 月号](2023-04/)|
 
-此处可能展示泰拉广告。<a href="/about-fake-ads">了解详情</a>{style="text-align: right"}
-
-[![](./2023-01/res/ads/ld2.webp) ](https://www.bilibili.com/video/BV1GJ411x7h7/){.centering}
+<FakeAds />

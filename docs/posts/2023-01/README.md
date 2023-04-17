@@ -21,6 +21,4 @@ title: Vol. 08 - 2023 年 01 月号：一个期许，或是一个承诺
 - **干员秘闻**
   - [干员秘闻：第三期](ope_sec.html)
 
-此处可能展示泰拉广告。<a href="/about-fake-ads">了解详情</a>{style="text-align: right"}
-
-[![](./res/ads/ld2.webp) ](https://www.bilibili.com/video/BV1GJ411x7h7/){.centering}
+<FakeAds />
