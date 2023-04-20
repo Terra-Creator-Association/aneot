@@ -1,4 +1,4 @@
-import { defineApp } from "@vuepress/core";
+import { defineApp } from "@vuepress/cli";
 import { searchPlugin } from "@vuepress/plugin-search";
 import theme from "./theme";
 import { registerComponentsPlugin } from "@vuepress/plugin-register-components";
@@ -67,10 +67,10 @@ export default defineApp({
   // 在构建前生成广告 JSON
   chainWebpack: (config, isServer) => {
     if (!isServer) {
-      config.plugin('before-build').use(
+      config.plugin("before-build").use(
         new (class BeforeBuildPlugin {
           apply(compiler) {
-            compiler.hooks.beforeCompile.tapAsync('BeforeBuildPlugin', (params, callback) => {
+            compiler.hooks.beforeCompile.tapAsync("BeforeBuildPlugin", (params, callback) => {
               generateAdsJson();
               callback();
             });
