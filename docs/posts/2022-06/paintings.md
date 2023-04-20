@@ -157,4 +157,4 @@ order: -1
   </div>
 </div>
 
-<ArticleAd />
+<Ads />

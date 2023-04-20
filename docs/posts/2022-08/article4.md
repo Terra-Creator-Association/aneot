@@ -129,4 +129,4 @@ order: 5
 
 </div>
 
-<ArticleAd />
+<Ads />

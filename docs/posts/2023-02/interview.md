@@ -116,4 +116,4 @@ order: -4
 
 <eod />
 
-<ArticleAd />
+<Ads />

@@ -169,4 +169,4 @@ order: 5
 
 <eod />
 
-<ArticleAd />
+<Ads />

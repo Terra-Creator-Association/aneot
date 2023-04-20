@@ -413,4 +413,4 @@ L勋爵 {style="text-align: right" .textkai}
 
 （责任编辑：广英；本文首发于Mew）
 
-<ArticleAd />
+<Ads />

@@ -91,4 +91,4 @@ order: 2
 
 <eod />
 
-<ArticleAd />
+<Ads />

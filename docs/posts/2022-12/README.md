@@ -24,4 +24,4 @@ title: Vol. 07 - 2022 年 12 月号
 - **特别企划**
   - [特别专访：东方](interview.html)
 
-<ArticleAd />
+<Ads />

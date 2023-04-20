@@ -348,4 +348,4 @@ order: 7
 
 <eod />
 
-<ArticleAd />
+<Ads />

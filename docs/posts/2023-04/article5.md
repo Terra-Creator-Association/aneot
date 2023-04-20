@@ -119,4 +119,4 @@ order: 6
 
 <eod />
 
-<ArticleAd />
+<Ads />

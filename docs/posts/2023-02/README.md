@@ -25,4 +25,4 @@ title: Vol. 09 - 2023 年 2 月号
 - **特别企划**
   - [特别专访：陆夫人](interview.html)
 
-<ArticleAd />
+<Ads />

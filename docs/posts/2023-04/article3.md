@@ -343,4 +343,4 @@ fin.
 
 <eod />
 
-<ArticleAd />
+<Ads />

@@ -17,4 +17,4 @@ order: 3
 
 <eod />
 
-<ArticleAd />
+<Ads />

@@ -17,4 +17,4 @@ tag:
 
 <eod />
 
-<FakeAds />
+<Ads />

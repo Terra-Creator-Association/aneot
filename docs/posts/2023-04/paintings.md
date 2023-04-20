@@ -20,4 +20,4 @@ order: -1
 
 Artist: 
 
-<ArticleAd />
+<Ads />

@@ -21,9 +21,4 @@ title: Vol. 11 - 2023 年 4 月号
 - **特别企划**
   - [测试占位文本#1](interview.html)
 
-## 预载目录
-
-- **TEST**
-  - [测试工程菜单](T_MENU.html)
-
-<ArticleAd />
+<Ads />
