@@ -1,16 +1,20 @@
 ---
-icon: community
+icon: article
 article: false
-title: 卷首语
-author: 测试卷首语作者
-date: 2023-04-11
+title: 我们放弃了做泰拉最大的杂志社
+author: 回归线编辑部
+date: 2023-04-01
 category:
   - 卷首
 tag:
-  - 测试卷首语作者
+  - 回归线编辑部
 
-order: 1
 ---
+
 <!-- more -->
 
+![](./res/230401.webp) {.centering}
+
 <eod />
+
+<FakeAds />
