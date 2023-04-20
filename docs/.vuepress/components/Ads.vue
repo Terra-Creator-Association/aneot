@@ -17,7 +17,7 @@
     props: {
       probability: {
         type: Number,
-        default: 0.6
+        default: 0.5
       }
     },
     data() {

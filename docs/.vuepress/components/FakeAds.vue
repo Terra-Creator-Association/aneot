@@ -12,18 +12,14 @@
 <script>
 export default {
   name: "FakeAds",
-  props: {/*
-      <fake-ads :ads="['filename1', 'filename2']"></fake-ads> 使用此方法限定广告图片内容
-      每个图片应该有其对应的txt描述文件，第一行为要显示的提示字样，第二行是详情的详细链接，第三行为图片所指的链接
-      */
-  },
+  props: {},
   data() {
     return {
       randomAd: "",
       adLink: "",
       adText: "",
       aboutLink: "",
-      ads: []
+      ads: {},
     };
   },
   async mounted() {
@@ -35,25 +31,36 @@ export default {
       try {
         const response = await fetch('/fake-ads/ads.json');
         const adsData = await response.json();
-        this.ads = adsData.files;
+        this.ads = adsData;
       } catch (error) {
         console.error('Error fetching ads list:', error);
       }
     },
     loadRandomAdAndLink() {
-      const randomNumber = this.ads[Math.floor(Math.random() * this.ads.length)];
-      this.randomAd = `/fake-ads/${randomNumber}.webp`;
-      this.loadAdLink(randomNumber);
+      // Select a group based on probabilities
+      let cumulativeProbability = 0;
+      const groups = Object.keys(this.ads);
+      for (let i = 0; i < groups.length; i++) {
+        const group = this.ads[groups[i]];
+        cumulativeProbability += group.probability || 0;
+        if (Math.random() < cumulativeProbability) {
+          const selectedGroup = group;
+          const randomAd = selectedGroup.files[Math.floor(Math.random() * selectedGroup.files.length)];
+          this.randomAd = `/fake-ads/${randomAd}.webp`;
+          this.loadAdLink(randomAd);
+          return;
+        }
+      }
     },
-    async loadAdLink(randomNumber) {
-      const response = await fetch(`/fake-ads/${randomNumber}.txt`);
+    async loadAdLink(randomAd) {
+      const response = await fetch(`/fake-ads/${randomAd}.txt`);
       const fileContent = await response.text();
       const lines = fileContent.split('\n');
       this.adText = lines[0] || "";
       this.aboutLink = lines[1] || "";
       this.adLink = lines[2] || "";
-    }
-  }
+    },
+  },
 };
 </script>
 
