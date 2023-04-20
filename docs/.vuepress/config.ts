@@ -1,4 +1,4 @@
-import { defineApp } from "@vuepress/cli";
+import { defineUserConfig } from "@vuepress/core";
 import { searchPlugin } from "@vuepress/plugin-search";
 import theme from "./theme";
 import { registerComponentsPlugin } from "@vuepress/plugin-register-components";
@@ -7,7 +7,7 @@ import { path } from "@vuepress/utils";
 // 导入生成广告 JSON 的脚本
 const generateAdsJson = require('./generateAdsJson.js');
 
-export default defineApp({
+export default defineUserConfig({
   lang: "zh-CN",
   title: "回归线",
   description: "Another End of Terra",
