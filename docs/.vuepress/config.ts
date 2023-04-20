@@ -1,10 +1,13 @@
-import { defineUserConfig } from "vuepress";
+import { defineApp } from "@vuepress/core";
 import { searchPlugin } from "@vuepress/plugin-search";
 import theme from "./theme";
-import { registerComponentsPlugin } from '@vuepress/plugin-register-components'
-import { path } from '@vuepress/utils'
+import { registerComponentsPlugin } from "@vuepress/plugin-register-components";
+import { path } from "@vuepress/utils";
 
-export default defineUserConfig({
+// 导入生成广告 JSON 的脚本
+const generateAdsJson = require('./generateAdsJson.js');
+
+export default defineApp({
   lang: "zh-CN",
   title: "回归线",
   description: "Another End of Terra",
@@ -16,7 +19,7 @@ export default defineUserConfig({
       {
         rel: "stylesheet",
         href: "https://unpkg.com/lxgw-wenkai-screen-webfont@1.6.0/style.css",
-      }
+      },
     ],
     [
       "script",
@@ -29,16 +32,16 @@ export default defineUserConfig({
         var s = document.getElementsByTagName("script")[0];
         s.parentNode.insertBefore(hm, s);
       })();
-      `
+      `,
     ],
     [
       "script",
       {
         src: "https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-3488523212284726",
         crossorigin: "anonymous",
-        async: "async"
+        async: "async",
       },
-      ''
+      "",
     ],
   ],
 
@@ -47,20 +50,33 @@ export default defineUserConfig({
   plugins: [
     searchPlugin({
       locales: {
-        "/": { placeholder: "搜索..." }
+        "/": { placeholder: "搜索..." },
       },
-      hotKeys: [''],
+      hotKeys: [""],
     }),
     registerComponentsPlugin({
-      componentsDir: path.resolve(__dirname, "./components")
+      componentsDir: path.resolve(__dirname, "./components"),
     }),
   ],
   alias: {
-    // 你可以在这里将别名定向到自己的组件
-    // 比如这里我们将主题的主页组件改为用户 .vuepress/components 下的 HomePage.vue
-    '@theme-hope/modules/blog/components/BlogHero': path.resolve(
+    "@theme-hope/modules/blog/components/BlogHero": path.resolve(
       __dirname,
-      './components/MyBlogHero.vue'
+      "./components/MyBlogHero.vue"
     ),
+  },
+  // 在构建前生成广告 JSON
+  chainWebpack: (config, isServer) => {
+    if (!isServer) {
+      config.plugin('before-build').use(
+        new (class BeforeBuildPlugin {
+          apply(compiler) {
+            compiler.hooks.beforeCompile.tapAsync('BeforeBuildPlugin', (params, callback) => {
+              generateAdsJson();
+              callback();
+            });
+          }
+        })()
+      );
+    }
   },
 });
