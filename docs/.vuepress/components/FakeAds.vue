@@ -1,6 +1,6 @@
 <template>
   <div class="ads-container no-print">
-    <p class="ads-hint">{{ adText }}<a :href="aboutLink">了解详情</a></p>
+    <p class="ads-hint">{{ adText }}<a :href="aboutLink">{{ adAbout }}</a></p>
     <div class="image-container">
       <a :href="adLink" target="_blank" rel="noopener noreferrer">
         <img :src="randomAd" alt="Advertisement" />
@@ -18,6 +18,7 @@ export default {
       randomAd: "",
       adLink: "",
       adText: "",
+      adAbout: "",
       aboutLink: "",
       ads: {},
     };
@@ -37,7 +38,7 @@ export default {
       }
     },
     loadRandomAdAndLink() {
-      // Select a group based on probabilities
+      // 基于ads里的group标记选择广告组，在组内随机选择一个广告
       let cumulativeProbability = 0;
       const groups = Object.keys(this.ads);
       for (let i = 0; i < groups.length; i++) {
@@ -53,12 +54,14 @@ export default {
       }
     },
     async loadAdLink(randomAd) {
+      // 动态设定配置文件，配置文件应当有四行，分别为描述文本，链接描述文本，链接描述地址，广告大图链接
       const response = await fetch(`/fake-ads/${randomAd}.txt`);
       const fileContent = await response.text();
       const lines = fileContent.split('\n');
       this.adText = lines[0] || "";
-      this.aboutLink = lines[1] || "";
-      this.adLink = lines[2] || "";
+      this.adAbout = lines[1] || "";
+      this.aboutLink = lines[2] || "";
+      this.adLink = lines[3] || "";
     },
   },
 };

@@ -4,7 +4,7 @@ title: 特别专访：B站UP主 一只大哈鱼
 shortTitle: 特别专访：一只大哈鱼
 date: 2022-10-22
 category:
-  - 特别企划
+  - 创作者访谈
 tag:
   - 一只大哈鱼
 

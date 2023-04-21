@@ -22,7 +22,7 @@ title: Vol. 09 - 2023 年 2 月号
   - [画中秘境](paintings.html)
 - **干员秘闻**
   - [干员秘闻：第四期](ope_sec.html)
-- **特别企划**
+- **创作者访谈**
   - [特别专访：陆夫人](interview.html)
 
 <Ads />

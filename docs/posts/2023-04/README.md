@@ -18,7 +18,7 @@ title: Vol. 11 - 2023 年 4 月号
   - [画中秘境](paintings.html)
 - **干员秘闻**
   - [干员秘闻：第六期](ope_sec.html)
-- **特别企划**
+- **创作者访谈**
   - [测试占位文本#1](interview.html)
 
 <Ads />

@@ -13,7 +13,7 @@ tag:
 
 <!-- more -->
 
-![](./res/230401.webp) {.centering}
+![](./res/illustration/230401.webp) {.centering}
 
 <eod />
 

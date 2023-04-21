@@ -17,7 +17,8 @@
     props: {
       probability: {
         type: Number,
-        default: 0.5
+        // 此处标记Google广告概率
+        default: 0.50
       }
     },
     data() {

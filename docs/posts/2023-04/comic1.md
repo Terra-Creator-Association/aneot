@@ -1,6 +1,6 @@
 ---
 icon: palette
-title: 漫画X则
+title: 漫画一则
 author: 测试漫画作者
 date: 2023-04-11
 category:

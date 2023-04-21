@@ -4,7 +4,7 @@ title: 特别专访：B站UP主 杨颜同学
 shortTitle: 特别专访：杨颜同学
 date: 2022-08-22
 category:
-  - 特别企划
+  - 创作者访谈
 tag:
   - 杨颜同学
 

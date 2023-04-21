@@ -3,7 +3,7 @@ icon: note
 title: 特别专访：东方
 date: 2022-12-13
 category:
-  - 特别企划
+  - 创作者访谈
 tag:
   - 东方
   - 伊洛
