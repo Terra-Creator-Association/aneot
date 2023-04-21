@@ -10,6 +10,7 @@ tag:
 
 order: -1
 ---
+<printlimit />
 <!-- more -->
 
 ---
@@ -25,11 +26,12 @@ Artist: 夏朵拉
 
 ---
 
-![](./res/illustration/异客.webp) {.centering}
 
-Artist: 夏朵拉
+![](./res/illustration/异客.webp) {.centering .no-print .no-interact}
 
----
+Artist: weibo@阿凯路过了{.no-print}
+
+---{.no-print}
 
 ![](./res/illustration/杜宾（虫离_shabi）.webp) {.centering}
 
