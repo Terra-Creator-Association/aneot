@@ -13,11 +13,30 @@ order: -1
 <!-- more -->
 
 ---
+![](./res/illustration/夕（lena_）.webp) {.centering}
 
-<printlimit />
+Artist: lena
 
-![](./res/illustration/cover.webp) {.centering .no-print .no-interact}
+---
 
-Artist: 
+![](./res/illustration/铃兰（夏朵拉）.webp) {.centering}
 
-<Ads />
+Artist: 夏朵拉
+
+---
+
+![](./res/illustration/异客.webp) {.centering}
+
+Artist: 夏朵拉
+
+---
+
+![](./res/illustration/杜宾（虫离_shabi）.webp) {.centering}
+
+Artist: 虫离 shabi
+
+---
+
+![](./res/illustration/暗锁（九度）.webp) {.centering}
+
+Artist: 九度<Ads />

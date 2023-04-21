@@ -1,13 +1,13 @@
 ---
 icon: palette
 title: 漫画一则
-author: 测试漫画作者
+author: 舟承，苏卿辰
 date: 2023-04-11
 category:
   - 画中秘境
 tag:
-  - 测试漫画作者
-  - 条漫
+  - 苏卿辰
+  - 舟承
 
 order: -3
 ---
