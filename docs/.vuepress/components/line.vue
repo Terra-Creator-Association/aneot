@@ -1,10 +1,10 @@
 <template>
-    <div class="nline"></div>
+    <div class="line"></div>
 </template>
 
 <script>
 export default {
-    name: "nline",
+    name: "line",
     props: {
         height: {
             type: Number,
@@ -13,14 +13,14 @@ export default {
     },
 }
 /* 一些调用时按需要调整高度的示例，不指定则默认为1px
-<div class="nline" :style="{ height: height + 'px' }"></div>
+<div class="line" :style="{ height: height + 'px' }"></div>
 或
-<nline height="3"></nline>
+<line height="3"></line>
 */
 </script>
 
 <style>
-.nline {
+.line {
     /* put styles here. */
     width: 100%;
     background-color: black;

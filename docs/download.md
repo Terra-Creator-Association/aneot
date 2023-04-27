@@ -89,9 +89,11 @@ order: -5
 
 ---
 
-**下载地址1为ghproxy加速（推荐），下载地址2为jsdelivrcdn加速（备用），下载地址3为rawgit下载（直连），OneDrive使用企业版网盘**
+<line />
 
-在此感谢github提供的免费储存与下载服务和众多的开发者为爱发电的免费github加速服务。
+**下载地址1为ghproxy加速（推荐），下载地址2为jsdelivrcdn加速（备用），下载地址3为github下载（直连），OneDrive使用企业版网盘**
+
+***在此感谢github提供的免费储存与下载服务和众多的开发者为爱发电提供的免费加速服务。***
 
 ---
 
