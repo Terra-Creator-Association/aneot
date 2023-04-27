@@ -20,5 +20,5 @@ title: Vol. 03 - 2022 年 08 月号
 - **画中秘境**
   - [漫画二则](comic1.html)
   - [画中秘境](paintings.html)
-- **特别企划**
+- **创作者访谈**
   - [特别专访：B站UP主 杨颜同学](interview.html)

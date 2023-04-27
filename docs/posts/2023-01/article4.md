@@ -385,6 +385,4 @@ order: 5
 
 (责任编辑：瑶濯；网页排版：武乙凌薇；绘图：LOFTER@栖鹤；本文来自作者投稿）
 
-此处可能展示泰拉广告。<a href="/about-fake-ads">了解详情</a>{style="text-align: right"}
-
-[![](./res/ads/ym2.webp) ](https://www.bilibili.com/video/BV1GJ411x7h7/){.centering}
+<Ads />

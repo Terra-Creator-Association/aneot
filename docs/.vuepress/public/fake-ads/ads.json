@@ -1,0 +1,14 @@
+{
+  "sixing": {
+    "probability": 0.8,
+    "files": ["ld1", "ld2"]
+  },
+  "wuxing": {
+    "probability": 0.16,
+    "files": ["ym1", "ym2"]
+  },
+  "liuxing": {
+    "probability": 0.04,
+    "files": ["fl1", "rn1"]
+  }
+}

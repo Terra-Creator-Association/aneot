@@ -127,3 +127,21 @@
     opacity: 1;
     text-shadow: 0 0 3px black;
 }
+
+// 禁止打印指定元素
+@media print {
+    .no-print {
+      display: none !important;
+    }
+  }  
+
+// 禁止交互
+.no-interact {
+    user-drag: none;
+    -webkit-user-drag: none;
+    -khtml-user-drag: none;
+    -moz-user-drag: none;
+    pointer-events: none;
+    user-select: none;
+}
+
