@@ -1,6 +1,6 @@
 ---
 icon: cache
-title: 文件下载（Beta）
+title: 文件下载
 # author: 
 date: 2023-02-18
 tag:
@@ -77,7 +77,7 @@ order: -5
 |:-:|:-:|:-:|:-:|:-:|
 | Vol.10 2023年03月号 | [点击下载](https://ghproxy.com/https://raw.githubusercontent.com/dscmarkw/aneot-pdf/main/回归线Vol.10_23-03.pdf) | [点击下载](https://cdn.jsdelivr.net/gh/dscmarkw/aneot-pdf@main/回归线Vol.10_23-03.pdf) | [点击下载](https://raw.githubusercontent.com/dscmarkw/aneot-pdf/main/回归线Vol.10_23-03.pdf) | [密码:202303](https://wwwe.lanzoum.com/b041wtjri) |
 
-## Vol.11 2023年04月号 ***本期因版权原因禁止打印***
+## Vol.11 2023年04月号 ***本期因版权原因禁止打印，敬请谅解***
 
 | 文件名称 | 下载地址1 | 下载地址2 | 下载地址3 | 网盘下载 |
 |:-:|:-:|:-:|:-:|:-:|
@@ -89,9 +89,9 @@ order: -5
 
 ---
 
-**下载地址1为ghproxy加速（推荐），下载地址2为jsdelivrcdn加速（备用），下载地址3为rawgit下载（直连），OneDrive使用企业版网盘**
+**下载地址1为ghproxy加速（推荐），下载地址2为jsdelivrcdn加速（备用），下载地址3为github下载（直连），网盘储存由蓝奏云提供，OneDrive使用企业版网盘**
 
-在此感谢github提供的免费储存与下载服务和众多的开发者为爱发电的免费github加速服务。
+***在此感谢github提供的免费储存与下载服务和众多的开发者为爱发电提供的免费加速服务。***
 
 ---
 
@@ -105,6 +105,6 @@ order: -5
 
 **本刊所有内容不得用于人工智能生成模型训练，包括但不限于个人，科研、教学和商业化应用。**
 
-***直链下载功能仍处于测试阶段，无法保证稳定性，如链接均不可用，请使用网盘。***
+***直链下载功能无法保证稳定性，如链接均不可用，请使用网盘。***
 
 <Ads />
