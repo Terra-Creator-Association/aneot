@@ -81,7 +81,7 @@ order: -5
 
 | 文件名称 | 下载地址1 | 下载地址2 | 下载地址3 | 网盘下载 |
 |:-:|:-:|:-:|:-:|:-:|
-| Vol.11 2023年04月号 | [点击下载](https://ghproxy.com/https://raw.githubusercontent.com/dscmarkw/aneot-pdf/main/回归线Vol.11_23-04.pdf) | [点击下载](https://cdn.jsdelivr.net/gh/dscmarkw/aneot-pdf@main/回归线Vol.10_23-03.pdf) | [点击下载](https://raw.githubusercontent.com/dscmarkw/aneot-pdf/main/回归线Vol.11_23-04.pdf) | 尚未上传<br> [密码:202304](等待.网盘.com) |
+| Vol.11 2023年04月号 | [点击下载](https://ghproxy.com/https://raw.githubusercontent.com/dscmarkw/aneot-pdf/main/回归线Vol.11_23-04.pdf) | [点击下载](https://cdn.jsdelivr.net/gh/dscmarkw/aneot-pdf@main/回归线Vol.10_23-03.pdf) | [点击下载](https://raw.githubusercontent.com/dscmarkw/aneot-pdf/main/回归线Vol.11_23-04.pdf) | [密码:202304](https://wwwe.lanzoum.com/b04225s7e)|
 
 ## OneDrive（备用）
 
