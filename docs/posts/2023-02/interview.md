@@ -3,7 +3,7 @@ icon: note
 title: 特别专访：陆夫人
 date: 2023-02-11
 category:
-  - 特别企划
+  - 创作者访谈
 tag:
   - 陆夫人
 
@@ -116,4 +116,4 @@ order: -4
 
 <eod />
 
-<ArticleAd />
+<Ads />

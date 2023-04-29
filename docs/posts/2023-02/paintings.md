@@ -36,4 +36,4 @@ Artist: 维他命
 
 Artist: 陆地边缘
 
-<ArticleAd />
+<Ads />

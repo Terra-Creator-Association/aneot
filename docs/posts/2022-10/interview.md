@@ -4,7 +4,7 @@ title: 特别专访：B站UP主 一只大哈鱼
 shortTitle: 特别专访：一只大哈鱼
 date: 2022-10-22
 category:
-  - 特别企划
+  - 创作者访谈
 tag:
   - 一只大哈鱼
 
@@ -127,4 +127,4 @@ A {.sp-qa .answ}
 
 给“回归线”的各位：愿你们所期待的，明天都将予以回应。<eod />
 
-<ArticleAd />
+<Ads />
