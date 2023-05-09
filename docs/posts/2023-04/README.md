@@ -8,7 +8,7 @@ title: Vol. 11 - 2023 年 4 月号
 
 ## 目录
 
-- [**卷首语**](intro.html)- [**卷首语**](intro.html)
+- [**卷首语**](intro.html)
 - **见字如面 · 此地之外**
   - [杯中酒](article2.html)
   - [卡车司机](article3.html)

@@ -2,12 +2,12 @@
 icon: community
 article: false
 title: 卷首语
-author: 广英与荣耀
+author: 广英和荣耀
 date: 2023-03-02
 category:
   - 卷首
 tag:
-  - 广英与荣耀
+  - 广英和荣耀
 
 order: 1
 ---
