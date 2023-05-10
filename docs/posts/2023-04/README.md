@@ -1,7 +1,7 @@
 ---
 icon: repo
 article: false
-title: Vol. 11 - 2023 年 4 月号
+title: Vol. 11 - 2023 年 04 月号
 ---
 
 ![](./res/cover.webp) {.centering}
