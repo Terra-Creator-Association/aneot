@@ -59,7 +59,7 @@ order: 6
 
 ---
 
-**游僧**{.centering}
+**游僧** {.centering}
 
 ---
 
@@ -137,7 +137,7 @@ order: 6
 
 ---
 
-**虾子**{.centering}
+**虾子** {.centering}
 
 ---
 
@@ -203,7 +203,7 @@ order: 6
 
 ---
 
-**野狗**{.centering}
+**野狗** {.centering}
 
 ---
 
@@ -287,7 +287,7 @@ order: 6
 
 ---
 
-**生肉丸**{.centering}
+**生肉丸** {.centering}
 
 ---
 
@@ -369,7 +369,7 @@ order: 6
 
 ---
 
-**旅行**{.centering}
+**旅行** {.centering}
 
 ---
 
@@ -451,7 +451,7 @@ order: 6
 
 ---
 
-**如炬佛影**{.centering}
+**如炬佛影** {.centering}
 
 ---
 
@@ -519,7 +519,7 @@ order: 6
 
 ---
 
-**菩提**{.centering}
+**菩提** {.centering}
 
 ---
 
@@ -577,7 +577,7 @@ order: 6
 
 ---
 
-**商人**{.centering}
+**商人** {.centering}
 
 ---
 
@@ -597,4 +597,4 @@ order: 6
 
 “一个僧人找我讨了碗水喝，”死诞猎人从商人手里接过卢恩，“她说无以为报，就把这个铃铛送给我了。”<eod />
 
-<ArticleAd />
+<Ads />
