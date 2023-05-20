@@ -14,6 +14,21 @@ order: -1
 
 ---
 
+![](./res/illustration/独立插_凯尔希_Achire.webp) {.centering}
 
-Artist: 
+Artist: Achire
+
+---
+
+![](./res/illustration/独立插_缪缪_低溫燒傷.webp) {.centering}
+
+Artist: 低溫燒傷
+
+---
+
+![](./res/illustration/独立插_小鸟_向青而行.webp) {.centering}
+
+Artist: 向青而行
+
+---
 <Ads />

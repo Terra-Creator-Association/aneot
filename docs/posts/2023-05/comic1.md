@@ -6,8 +6,8 @@ date: 2023-05-09
 category:
   - 画中秘境
 tag:
-  - 测试漫画作者
   - Mimical_
+  - 条漫
 
 order: -3
 ---
