@@ -1,7 +1,7 @@
 ---
 icon: repo
 article: false
-title: Vol. 12 - 2023 年 05 月号
+title: Vol. 12 - 2023 年 05 月号：IF
 ---
 
 ![](./res/cover.webp) {.centering}
