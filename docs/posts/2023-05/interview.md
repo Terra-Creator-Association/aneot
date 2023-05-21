@@ -14,6 +14,8 @@ order: -4
 
 ## Staff感言
 
+![](./res/interview/topic1.webp)
+
 ### **马克**
 
 转眼间《回归线》就已经一周年了。想起2022年4月时我在TCA里提出了做杂志这个设想，而一年后的今天，《回归线》得到了十几万的点击量，得到了顽子姐的转发推荐，还登上了某都市传说（指CP29）……这些成绩是当时的我们根本无法想象的。
@@ -113,7 +115,7 @@ If啊，if，本月的主题是if——如果，假若，无论何时，是否�
 
 ## CP29赠言祝福
 
-![](./res/interview/topic.webp)
+![](./res/interview/topic2.webp)
 
 ![](./res/interview/1.webp)
 
