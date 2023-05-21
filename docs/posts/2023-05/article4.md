@@ -305,7 +305,7 @@ But you can never leave
 
 </div>
 
-![](./res/illustration/文章插画_夜刀-加州旅馆_黑泥型芙芙.webp){.centering}
+![](./res/illustration/文章插画_夜刀-加州旅馆_黑泥型芙芙.webp) {.centering}
 
 ---
 

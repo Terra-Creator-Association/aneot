@@ -383,6 +383,6 @@ order: 5
 
 ![](./res/illustration/提灯与信号旗（栖鹤，lof）.webp) {.centering}
 
-(责任编辑：瑶濯；网页排版：武乙凌薇；绘图：LOFTER@栖鹤；本文来自作者投稿）
+（责任编辑：瑶濯；网页排版：武乙凌薇；绘图：LOFTER@栖鹤；本文来自作者投稿）
 
 <Ads />

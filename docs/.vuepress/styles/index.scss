@@ -145,3 +145,9 @@
     user-select: none;
 }
 
+// 隐藏文本
+.texthide {
+    color: transparent;
+    font-size: 0;
+    line-height: 0;
+}

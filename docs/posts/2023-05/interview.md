@@ -12,9 +12,9 @@ order: -4
 ---
 <!-- more -->
 
-## Staff感言
+## staff感言{.texthide}
 
-![](./res/interview/topic1.webp)
+![](./res/interview/topic1.webp) {.centering}
 
 ### **马克**
 
@@ -28,9 +28,9 @@ order: -4
 
 祝愿《回归线》在这片大地，或者说这片天空之下能像红酒报一样知名，像赫默研究员一样不忘初心，像凯尔希一样长寿(?)。总之，甭管主编的萨尔贡舅舅怎么样(?)，希望我有生之年能见证新的泰拉最大杂志社的诞生。
 
-Per Aspera Ad Astra{.centering .textkai}
+Per Aspera Ad Astra {.centering .textkai}
 
-循此苦旅，直抵群星{.centering .textkai}
+循此苦旅，直抵群星 {.centering .textkai}
 
 ### **巡检长安**
 
@@ -111,17 +111,17 @@ If啊，if，本月的主题是if——如果，假若，无论何时，是否�
 
 “ 罗德岛制药公司贺 《 回归线 》 杂志创刊 1 周年 ”
 
-![](./res/interview/粥鋪.webp)
+![](./res/interview/粥鋪.webp) {.centering}
 
-## CP29赠言祝福
+## CP29赠言祝福{.texthide}
 
-![](./res/interview/topic2.webp)
+![](./res/interview/topic2.webp) {.centering}
 
-![](./res/interview/1.webp)
+![](./res/interview/1.webp) {.centering}
 
-![](./res/interview/2.webp)
+![](./res/interview/2.webp) {.centering}
 
-![](./res/interview/3.webp)
+![](./res/interview/3.webp) {.centering}
 
-![](./res/interview/4.webp)
+![](./res/interview/4.webp) {.centering}
 <eod />
