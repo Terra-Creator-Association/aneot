@@ -6,9 +6,9 @@ title: 主页
 heroText: 回归线
 heroFullScreen: false
 # 在这里修改抬头画师
-tagline: © 粥铺 2023
+tagline: © 灰烬木蛇 2023
 # 在这里修改版头主题色
-heroAlt: '#007bc1'
+heroAlt: '#d9b295'
 projects:
   - icon: read
     name: 卷首
@@ -22,8 +22,8 @@ projects:
 
   - icon: article
     name: 最新一期
-    desc: Vol.11 2023-04
-    link: posts/2023-04
+    desc: Vol.12 2023-05
+    link: posts/2023-05
 
   - icon: cache
     name: 下载 PDF

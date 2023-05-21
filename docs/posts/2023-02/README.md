@@ -1,7 +1,7 @@
 ---
 icon: repo
 article: false
-title: Vol. 09 - 2023 年 2 月号
+title: Vol. 09 - 2023 年 02 月号
 ---
 
 ![](./res/cover.webp) {.centering}
