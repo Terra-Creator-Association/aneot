@@ -6,7 +6,7 @@ title: 主页
 heroText: 回归线
 heroFullScreen: false
 # 在这里修改抬头画师
-tagline: © 灰烬木蛇 2023
+tagline: © 灰烬木蛇 2023 · 05
 # 在这里修改版头主题色
 heroAlt: '#d9b295'
 projects:

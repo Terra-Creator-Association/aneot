@@ -12,7 +12,7 @@ dir:
 
 **2023-05: Vol. 12 2023 年 05 月号**
 
-![](./2023-05/res/cover.webp){style="max-width:60% .centering}
+![](./2023-05/res/cover.webp){style="max-width: 60%; margin: 0 auto; text-align: center; text-indent: 0;">}
 
 [**在线阅读**](./2023-05/README.md)
 
@@ -32,4 +32,5 @@ dir:
 |![](./2023-05/res/cover.webp)| No Info | No Info |
 |[2023-05: Vol. 12 <br>2023 年 05 月号：IF](2023-05/)| 敬请期待 | 敬请期待 |
 
+没有看见更新？[点击这里以刷新网页缓存](/forceflash) <eod />
 <FakeAds />
