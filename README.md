@@ -1,6 +1,6 @@
-# Another End of Terra （AnEot)
+# Another End of Terra (AnEot)
 
-An fanmade literary journal based on mobile game *Arknights*.
+A fanmade literary journal based on mobile game *Arknights*.
 
 ## Instructions for use
 
