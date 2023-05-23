@@ -1,6 +1,7 @@
 :root {
     --waline-theme-color: var(--theme-color);
     // 表格；横线元素隐藏
+    // 表格用作隐藏的排版工具
     hr, tr, td, th {
         border: none!important;
         }
