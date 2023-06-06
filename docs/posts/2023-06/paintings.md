@@ -17,4 +17,4 @@ order: -1
 ![](./res/illustration/cover.webp) {.centering}
 
 Artist: 
-<ArticleAd />
+<Ads />

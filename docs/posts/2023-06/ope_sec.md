@@ -21,4 +21,4 @@ order: -2
 
 [点我也可以哟ヾ(≧▽≦*)o](https:\\empty.com)<eod />
 
-<ArticleAd />
+<Ads />

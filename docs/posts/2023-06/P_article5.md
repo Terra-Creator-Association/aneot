@@ -1,20 +1,20 @@
 ---
 icon: article
-title: 测试文章5
-author: 测试文章作者5
+title: 四卫不倾
+author: 潮雾
 date: 2023-06-06
 category:
   - 测试分区
 tag:
-  - 测试文章作者5
+  - 潮雾
 
 order: 6
 ---
 
-{.textkai}
+悲长梦，醉挑灯。他年长风今犹在，旧时铁甲踏新声{.textkai}
 
 <!-- more -->
 
 <eod />
 
-<ArticleAd />
+<Ads />

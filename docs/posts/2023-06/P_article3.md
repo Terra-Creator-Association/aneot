@@ -1,20 +1,22 @@
 ---
 icon: article
-title: 测试文章3
-author: 测试文章作者3
+title: 潮石镇的流浪猫
+author: 爱默生家的恶客
 date: 2023-06-06
 category:
   - 测试分区
 tag:
-  - 测试文章作者3
+  - 爱默生家的恶客
 
 order: 4
 ---
 
-{.textkai}
+拉特兰是个怎样的国度？{.textkai}
+
+是没有离群巨鳞飞翔的国。{.textkai}
 
 <!-- more -->
 
 <eod />
 
-<ArticleAd />
+<Ads />

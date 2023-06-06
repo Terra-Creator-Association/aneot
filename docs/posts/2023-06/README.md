@@ -26,4 +26,4 @@ title: Vol. 13 - 2023 年 6 月号
 - **TEST**
   - [测试工程菜单](T_MENU.html)
 
-<ArticleAd />
+<Ads />
