@@ -8,10 +8,7 @@ title: 预载测试菜单
 
 预载注意事项：
 
-- 更新本页面刊号
-- 更新navbar.ts的期刊目录
 - 更新总Readme
-- 文章顺序排序
 - 修改位于docs\.vuepress\public的主界面
 
 ## 目录
@@ -23,6 +20,7 @@ title: 预载测试菜单
   - [文章3](P_article3.html)
   - [文章4](P_article4.html)
   - [文章5](P_article5.html)
+  - [文章6](P_article6.html)
 - **画中秘境**
   - [漫画一则](comic1.html)
   - [画中秘境](paintings.html)
