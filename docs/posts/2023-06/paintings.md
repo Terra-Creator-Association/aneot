@@ -14,7 +14,7 @@ order: -1
 
 ---
 
-![](./res/illustration/独立插_诞生（FF江）) {.centering}
+![](./res/illustration/独立插_诞生（FF江）.webp) {.centering}
 
 Artist: FF江
 
