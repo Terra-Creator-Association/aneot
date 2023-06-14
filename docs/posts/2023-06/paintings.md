@@ -14,7 +14,30 @@ order: -1
 
 ---
 
-![](./res/illustration/cover.webp) {.centering}
+![](./res/illustration/独立插_诞生（FF江）) {.centering}
 
-Artist: 
+Artist: FF江
+
+---
+
+![](./res/illustration/独立插_嵯峨（瓜皮羊二）.webp) {.centering}
+
+Artist: 瓜皮羊二
+
+---
+
+![](./res/illustration/独立插_园丁（香港的痛苦王八）.webp) {.centering}
+
+Artist: 香港的痛苦王八
+
+---
+
+![](./res/illustration/日暮(湫楸鳅秋池).webp) {.centering}
+
+Artist: 湫楸鳅秋池
+
+---
+![](./res/illustration/独立插_园丁（香港的痛苦王八）.webp) {.centering}
+
+Artist: 香港的痛苦王八
 <Ads />
