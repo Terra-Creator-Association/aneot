@@ -26,12 +26,6 @@ Artist: 瓜皮羊二
 
 ---
 
-![](./res/illustration/独立插_园丁（香港的痛苦王八）.webp) {.centering}
-
-Artist: 香港的痛苦王八
-
----
-
 ![](./res/illustration/日暮(湫楸鳅秋池).webp) {.centering}
 
 Artist: 湫楸鳅秋池
