@@ -12,8 +12,6 @@ order: -2
 
 ![](./res/ope_sec/topic.webp) {.centering}
 
-<!-- more -->
-
 别考虑太多，换身新衣服好不好？{.centering}
 
 这可是真正的限量版装扮，{.centering}
@@ -21,6 +19,8 @@ order: -2
 就算不给干员穿也可以买来保值！{.centering}
 
 ——某不愿透露姓名的罗德岛奸商{style="text-align: right"}
+
+<!-- more -->
 
 **【1】虽然游戏中的干员时装已经有很多了，但截止至目前还是有一部分干员还没有时装。以下干员中，实装时间最长且还没有时装的是**
 
