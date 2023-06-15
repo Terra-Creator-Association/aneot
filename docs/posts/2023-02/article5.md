@@ -21,7 +21,7 @@ order: 6
 
 在小径拐弯处，一具溃烂尸体{.centering}
 
-横卧碎尸满布的路上{.centering}
+横卧碎**尸**满布的路上{.centering}
 
 法 波德莱尔《恶之花》改{style="text-align: right"}
 
