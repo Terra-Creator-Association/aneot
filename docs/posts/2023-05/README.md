@@ -23,6 +23,6 @@ title: Vol. 12 - 2023 年 05 月号：IF
 - **干员秘闻**
   - [干员秘闻：第七期](ope_sec.html)
 - **特别企划**
-  - [回归线1周年特别企划](interview.html)
+  - [回归线1周年特别企划](specialproj.html)
 
 <Ads />
