@@ -4,7 +4,7 @@ title: lost in 1083
 author: 早睡早起睡眠好
 date: 2023-06-06
 category:
-  - 测试分区
+  - 此地之外
 tag:
   - 早睡早起睡眠好
 
@@ -102,6 +102,8 @@ Redemption’s grace,we find truth…”/\* bbscode i too long \*/
 她将金色卷曲的长发拢到脑后：“不。”
 
 随后，她迈步，将手搭在了塞雷娅伸出的那只手上，庄严地宣告着：“我要跳两支舞。”
+
+![](./res/illustration/1083文章配图三个人的舞（北棠）.webp){style="float:right;max-width:40%;margin-left:1em"}
 
 “with you。”
 
