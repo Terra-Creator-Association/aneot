@@ -40,10 +40,15 @@ projects:
     desc: Feed
     link: subscription
 
-  # - icon: friend
-  #   name: 伙伴名称
-  #   desc: 伙伴详细介绍
-  #   link: https://你的伙伴链接
+  - icon: api
+    name: 获取更新
+    desc: 清除本地缓存
+    link: forceflash
+
+  - icon: write
+    name: 联系我们
+    desc: Content Us
+    link: mailto:TCA_doc@163.com
 
   # - icon: /logo.svg
   #   name: 自定义项目
