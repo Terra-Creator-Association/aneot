@@ -145,4 +145,6 @@ Redemption’s grace,we find truth…”/\* bbscode i too long \*/
 
 “确实如此。”<eod />
 
+（责任编辑：瑶濯；网页排版：武乙凌薇；绘图：北棠）
+
 <Ads />

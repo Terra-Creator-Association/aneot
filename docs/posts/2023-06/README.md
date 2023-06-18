@@ -9,9 +9,6 @@ title: Vol. 13 - 2023 年 6 月号
 ## 目录
 
 - [**卷首语**](intro.html)
-## 目录
-
-- [**卷首语**](intro.html)
 - **见字如面 · 此地之外**
   - [潮石镇的流浪猫](article3.html)
   - [早睡早起睡眠好](article4.html)
