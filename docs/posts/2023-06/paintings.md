@@ -33,5 +33,5 @@ Artist: 湫楸鳅秋池
 ---
 ![](./res/illustration/独立插_园丁（香港的痛苦王八）.webp) {.centering}
 
-Artist: 香港的痛苦王八
+Artist: 小猫的手像大蒜
 <Ads />
