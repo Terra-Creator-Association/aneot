@@ -13,7 +13,7 @@ title: Vol. 13 - 2023 年 6 月号
   - [潮石镇的流浪猫](article3.html)
   - [早睡早起睡眠好](article4.html)
   - [四卫不倾，三风不度](article5.html)
-  - [酗酒仙子一方通行](article6.html)
+  - [你需知晓我抵不过你](article6.html)
 - **见字如面 · 罗德岛日志**
   - [忆剪残发](article2.html)
 - **见字如面 · 午间逸话**

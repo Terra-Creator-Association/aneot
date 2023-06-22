@@ -1,12 +1,12 @@
 ---
 icon: article
 title: 增福增寿
-author: 万能的小黑
+author: 万能De小黑
 date: 2022-12-13
 category:
   - 此地之外
 tag:
-  - 万能的小黑
+  - 万能De小黑
 
 order: 6
 ---

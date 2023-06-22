@@ -1,12 +1,12 @@
 ---
 icon: article
 title: 哑姬
-author: 镀铬的黄金鸟，1639
+author: 镀铬的黄金鸟；1639
 date: 2022-12-13
 category:
   - 此地之外
 tag:
-  - 镀铬的黄金鸟，1639
+  - 镀铬的黄金鸟&1639
 
 order: 4
 ---
