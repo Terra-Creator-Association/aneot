@@ -9,7 +9,6 @@ tag:
 
 order: -2
 ---
-<!-- more -->
 
 ![](./res/ope_sec/topic.webp) {.centering}
 
@@ -20,6 +19,8 @@ order: -2
 只有焚毁的土地{.centering}
 
 才能给萨卡兹带来新生{.centering}
+
+<!-- more -->
 
 **【1】卡兹戴尔是萨卡兹共同的家园，但并不是所有萨卡兹都出身于卡兹戴尔。以下萨卡兹干员中，并非出身于卡兹戴尔的一项是**
 

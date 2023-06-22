@@ -2,25 +2,17 @@
 
 A fanmade literary journal based on mobile game *Arknights*.
 
-## Instructions for use
-
-Clone the repository locally
-
-Make sure the ***pnpm*** command is available on your computer
-
-Run **LTS.bat** (Local Test Server)
-
-~Sit and relax~ 
-
-This file will automatically handle everything that follows
-
 ## About Us
 
-If there are any errors in the website or you have any comments, 
+If there are any errors in the website or you have any comments,
 
-Or you would like to join us,
+You can open a new issue.
+
+If you would like to join us,
 
 Please use the email address [TCA_doc@163.com](mailto:TCA_doc@163.com) Contact us.
+
+*Note that for security reasons we do not accept submissions from non-collaborators*
 
 ## About copyright
 
@@ -32,7 +24,7 @@ We only grant you the right to save and share as is. At the same time you must c
 
 **NoDerivatives** — If you remix, transform, or build upon the material, you may not distribute the modified material.
 
-**Refuse to train the model** — It shall not be used for artificial intelligence generation model training, including but not limited to personal, scientific research, teaching and commercial applications.
+**Refuse to train the model** — It shall not be used for any purpose artificial intelligence generation model training, including but not limited to personal, scientific research, teaching and commercial applications.
 
 We reserve all rights not granted to you, and if you violate the above requirements, we will withdraw all rights granted to you.
 

@@ -335,4 +335,4 @@ But you can never leave
 
 （责任编辑：广英和荣耀；网页排版：武乙凌薇；绘图：黑泥型芙芙）
 
-<ArticleAd />
+<Ads />

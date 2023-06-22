@@ -1,5 +1,5 @@
 @title VuePress Local Testing Services
-@rem 
+@rem This script is suitable for rapid deployment, support to add it to the debugging of your development environment.
 @If not exist node_modules goto ins
 
 @echo The browser will be automatically pulled up when the preview file is ready, if it is not pulled up successfully, please type in the browser address bar ^"http://localhost:8080^"

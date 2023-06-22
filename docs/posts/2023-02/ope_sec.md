@@ -9,7 +9,6 @@ tag:
 
 order: -2
 ---
-<!-- more -->
 
 ![](./res/ope_sec/topic.webp) {.centering}
 
@@ -28,6 +27,8 @@ order: -2
 依然有火花在闪耀{.centering}
 
 ——坎诺特·古德·英纳夫{style="text-align: right"}
+
+<!-- more -->
 
 【1】有一些罗德岛上的干员曾经是整合运动的成员。请问以下哪一个干员从来没有加入过整合运动？
 

@@ -6,9 +6,9 @@ title: 主页
 heroText: 回归线
 heroFullScreen: false
 # 在这里修改抬头画师
-tagline: © 灰烬木蛇 2023 · 05
+tagline: © 西月将倾 2023 · 06
 # 在这里修改版头主题色
-heroAlt: '#d9b295'
+heroAlt: '#c14e33'
 projects:
   - icon: read
     name: 卷首
@@ -22,8 +22,8 @@ projects:
 
   - icon: article
     name: 最新一期
-    desc: Vol.12 2023-05
-    link: posts/2023-05
+    desc: Vol.13 2023-06
+    link: posts/2023-06
 
   - icon: cache
     name: 下载 PDF
@@ -40,10 +40,15 @@ projects:
     desc: Feed
     link: subscription
 
-  # - icon: friend
-  #   name: 伙伴名称
-  #   desc: 伙伴详细介绍
-  #   link: https://你的伙伴链接
+  - icon: api
+    name: 获取更新
+    desc: 清除本地缓存
+    link: forceflash
+
+  - icon: write
+    name: 联系我们
+    desc: Content Us
+    link: mailto:TCA_doc@163.com
 
   # - icon: /logo.svg
   #   name: 自定义项目

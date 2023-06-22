@@ -9,13 +9,14 @@ tag:
 
 order: -2
 ---
-<!-- more -->
 
 ![](./res/ope_sec/topic.webp) {.centering}
 
 无论多么艰难的任务，只要有博士在，就一定能完成，我一直这样坚信着！{.centering}
 
 ——阿米娅{.aright}
+
+<!-- more -->
 
 **【1】在游戏中，干员可以被粗略划分为八种，分别对应不同的职业。根据游戏内文本介绍，以下对职业描述不正确的一项是**
 
@@ -119,4 +120,4 @@ D. 重装干员，控场，削弱，生存，爆发
 
 [点我也可以哟ヾ(≧▽≦*)o](https://www.wjx.cn/vm/PpVDPPR.aspx)<eod />
 
-<ArticleAd />
+<Ads />
