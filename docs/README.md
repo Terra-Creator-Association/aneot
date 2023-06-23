@@ -47,7 +47,7 @@ projects:
 
   - icon: write
     name: 联系我们
-    desc: Content Us
+    desc: Contact Us
     link: mailto:TCA_doc@163.com
 
   # - icon: /logo.svg
