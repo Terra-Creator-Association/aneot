@@ -8,7 +8,7 @@ heroFullScreen: false
 # 在这里修改抬头画师
 tagline: © 西月将倾 2023 · 06
 # 在这里修改版头主题色
-heroAlt: '#c14e33'
+heroAlt: '#bd3b2e'
 projects:
   - icon: read
     name: 卷首
@@ -47,7 +47,7 @@ projects:
 
   - icon: write
     name: 联系我们
-    desc: Content Us
+    desc: Contact Us
     link: mailto:TCA_doc@163.com
 
   # - icon: /logo.svg

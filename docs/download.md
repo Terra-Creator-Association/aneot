@@ -33,8 +33,7 @@ order: -5
 
 | 文件名称 | 下载地址1 | 下载地址2 | 下载地址3 | 网盘下载 |
 |:-:|:-:|:-:|:-:|:-:|
-| Vol.03 2022年08月号 | [点击下载](https://ghproxy.com/https://raw.githubusercontent.com/TCA-Arknightsaneot-pdf/main/回归线Vol.03_22-08.pdf) | [点击下载](https://cdn.jsdelivr.net/gh/TCA-Arknights/aneot-pdf@main/回归线Vol.03_22-08.pdf) | [点击下载](https://raw.githubusercontent.com/TCA-Arknights/aneot-pdf/main/回归线Vol.03_22-08.pdf
-) | [密码:42tz](https://wwb.lanzouy.com/b011ya7gf) |
+| Vol.03 2022年08月号 | [点击下载](https://ghproxy.com/https://raw.githubusercontent.com/TCA-Arknightsaneot-pdf/main/回归线Vol.03_22-08.pdf) | [点击下载](https://cdn.jsdelivr.net/gh/TCA-Arknights/aneot-pdf@main/回归线Vol.03_22-08.pdf) | [点击下载](https://raw.githubusercontent.com/TCA-Arknights/aneot-pdf/main/回归线Vol.03_22-08.pdf) | [密码:42tz](https://wwb.lanzouy.com/b011ya7gf) |
 
 ## Vol.04 2022年09月号
 
