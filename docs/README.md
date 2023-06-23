@@ -8,7 +8,7 @@ heroFullScreen: false
 # 在这里修改抬头画师
 tagline: © 西月将倾 2023 · 06
 # 在这里修改版头主题色
-heroAlt: '#c14e33'
+heroAlt: '#bd3b2e'
 projects:
   - icon: read
     name: 卷首
