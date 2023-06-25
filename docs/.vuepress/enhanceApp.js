@@ -22,11 +22,10 @@ export default ({ router }) => {
         next();
     });
 
-        //路由切换事件处理
-        router.afterEach((to, from) => {
-          if (/micromessenger|qq\//i.test(navigator.userAgent)) {
-            alert('检测到您正在使用内置浏览器浏览，为了更好的体验，请在系统默认浏览器中打开查看');
-          }
+    router.afterEach((to, from) => {
+      if (/micromessenger|qq\//i.test(navigator.userAgent)) {
+        router.push({ path: '/BrowserCheck', query: { redirect: to.fullPath } });
+      }
     });
   };
   
