@@ -22,11 +22,13 @@ export default ({ router }) => {
         next();
     });
 
+    /*
     router.afterEach((to, from) => {
       if (/micromessenger|qq\//i.test(navigator.userAgent)) {
         router.push({ path: '/BrowserCheck', query: { redirect: to.fullPath } });
       }
     });
+    */
   };
   
 
