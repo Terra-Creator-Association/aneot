@@ -35,11 +35,11 @@ order: 7
 
 或许我还是为孩子们读些卡西米尔骑士传说更合适？特此向您征询意见。{.textkai}
 
-L勋爵 {style="text-align: right" .textkai}
+L勋爵 {.aright .textkai}
 
 我已经警告她不要在我的信使渠道里塞这种纸条。当然，内容你可以自行判断，我无意干涉。{.textkai}
 
-——凯尔希 {style="text-align: right" .textkai}
+——凯尔希 {.aright .textkai}
 
 ## 其一·节日与鸢尾花的喧闹
 
