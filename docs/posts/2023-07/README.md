@@ -17,6 +17,6 @@ title: Vol. 14 - 2023 年 07 月号
   - [漫画一则](comic1.html)
   - [画中秘境](paintings.html)
 - **干员秘闻**
-  - [干员秘闻：第X期](ope_sec.html)
+  - [干员秘闻：第九期](ope_sec.html)
 
 <Ads />
