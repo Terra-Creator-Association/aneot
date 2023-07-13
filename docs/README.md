@@ -6,9 +6,9 @@ title: 主页
 heroText: 回归线
 heroFullScreen: false
 # 在这里修改抬头画师
-tagline: © 西月将倾 2023 · 06
+tagline: © 迷迭香
 # 在这里修改版头主题色
-heroAlt: '#bd3b2e'
+heroAlt: '#79a5c8'
 projects:
   - icon: read
     name: 卷首
