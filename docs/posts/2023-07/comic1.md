@@ -1,12 +1,12 @@
 ---
 icon: palette
-title: 漫画X则
-author: 测试漫画作者
+title: 漫画一则
+author: 恶灵
 date: 2023-07-10
 category:
   - 画中秘境
 tag:
-  - 测试漫画作者
+  - 恶灵
   - 条漫
 
 order: -3
