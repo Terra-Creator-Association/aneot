@@ -10,6 +10,7 @@
     exit /b
 )
 
+@:ser
 @If not exist node_modules goto ins
 @echo The browser will be pulled up, if it is not pulled up successfully, please type in the browser address bar ^"http://localhost:8080^"
 @echo Just wait a few seconds to refresh the page after it appears
