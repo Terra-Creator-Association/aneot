@@ -77,7 +77,7 @@ export default hopeTheme({
       // Steam: "https://example.com",
       // Twitter: "https://example.com",
       // Wechat: "https://example.com",
-      // Weibo: "https://www.weibo.com/u/7414874331",
+      Weibo: "https://weibo.com/u/7414874331",
       // Whatsapp: "https://example.com",
       // Youtube: "https://example.com",
       // Zhihu: "https://example.com",
