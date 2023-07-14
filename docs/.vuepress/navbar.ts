@@ -31,7 +31,8 @@ export default navbar([
     children: [
       "description",
       "call",
-      "intro"
+      "intro",
+      "statement",
     ]
   },
   {
