@@ -37,10 +37,10 @@
 
 @:ser
 @If not exist node_modules goto ins
-@echo The browser will be pulled up, if it is not pulled up successfully, please type in the browser address bar ^"http://localhost:8080^"
+@echo The browser will be pulled up, if it is not pulled up successfully, please type in the browser address bar ^"http://localhost:****^"
 @echo Just wait a few seconds to refresh the page after it appears
 pnpm run docs:dev --open
-exit
+exit /b
 
 @:cle
 @rem delete node_modules \docs\.vuepress\dist \docs\.vuepress\.temp \docs\.vuepress\.cache 
