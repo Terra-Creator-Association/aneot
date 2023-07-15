@@ -1,7 +1,7 @@
 ---
 icon: repo
 article: false
-title: Vol. 14 - 2023 年 07 月号
+title: Vol. 14 - 2023 年 07 月号 ：人生的路口
 ---
 
 ![](./res/cover.webp) {.centering}

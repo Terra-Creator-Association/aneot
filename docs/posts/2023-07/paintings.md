@@ -14,7 +14,25 @@ order: -1
 
 ---
 
-![](./res/illustration/cover.webp) {.centering}
+![](./res/illustration/宇航兔兔（今羽岁羽、）.webp) {.centering}
 
-Artist: 
+Artist: 今羽岁羽、
+
+---
+
+![](./res/illustration/独立插（G冷机）.webp) {.centering}
+
+Artist: G冷机
+
+---
+
+![](./res/illustration/独立插_星（WYDBZ）.webp) {.centering}
+
+Artist: WYDBZ
+
+---
+
+![](./res/illustration/独立插（Hakuya_owl）.webp) {.centering}
+
+Artist: Hakuya_owl
 <Ads />
