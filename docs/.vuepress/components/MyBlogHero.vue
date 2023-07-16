@@ -27,7 +27,14 @@ const handleResize = (): void => {
     windowSize.value.height = window.innerHeight
 
     // Change backgroundImage based on the aspect ratio
-    backgroundImage.value = windowSize.value.width > windowSize.value.height ? "/hero-pc.webp" : "/hero-mo.webp"
+    let aspectRatio = windowSize.value.width / windowSize.value.height;
+    if (aspectRatio < 0.7) {
+        backgroundImage.value = "/hero-1.webp";
+    } else if (aspectRatio >= 0.7 && aspectRatio <= 1.2) {
+        backgroundImage.value = "/hero-2.webp";
+    } else {
+        backgroundImage.value = "/hero-3.webp";
+    }
 }
 
 const handleScroll = (): void => {
@@ -125,7 +132,7 @@ onBeforeUnmount(() => {
     transition: height 1s ease;
 
     /* Set default background-image for PC */
-    background-image: url("/hero-pc.webp");
+    background-image: url("/hero-2.webp");
 
 }
 
