@@ -12,7 +12,7 @@ dir:
 
 **2023-06: Vol. 13 2023 年 06 月号**
 
-![](./2023-06/res/cover.webp){style="max-width: 60%; margin: 0 auto; text-align: center; text-indent: 0;">}
+![](./2023-06/res/cover.webp){style="max-width: 60%; margin: 0 auto; text-align: center; text-indent: 0;"}
 
 [**在线阅读**](./2023-06/README.md)
 
