@@ -12,7 +12,7 @@ dir:
 
 **2023-07: Vol. 14 2023 年 07 月号**
 
-![](./2023-07/res/cover.webp){style="max-width: 60%; margin: 0 auto; text-align: center; text-indent: 0;">}
+![](./2023-07/res/cover.webp){style="max-width: 60%; margin: 0 auto; text-align: center; text-indent: 0;"}
 
 [**在线阅读**](./2023-07/README.md)
 
