@@ -27,6 +27,7 @@
     margin: 0.3em 0;
 }
 
+// 居中/靠左/靠右
 .centering {
     text-align: center !important;
     text-indent: 0 !important;
@@ -36,6 +37,10 @@
     text-indent: 0;
 }
 
+.aleft {
+    text-align: left !important;
+    text-indent: 0 !important;
+}
 .aright {
     text-align: right !important;
     text-indent: 0 !important;
@@ -55,6 +60,7 @@
     line-height: 1;
 }
 
+// 问答用
 .ques {
     margin-top: 2em;
 }
@@ -69,15 +75,6 @@
 
 .hero-image {
     max-width: 80%;
-}
-
-.borderless {
-
-    tr,
-    td,
-    th {
-        border: 0;
-    }
 }
 
 .flexbox {

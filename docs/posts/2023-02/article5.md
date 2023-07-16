@@ -23,7 +23,7 @@ order: 6
 
 横卧碎**尸**满布的路上{.centering}
 
-法 波德莱尔《恶之花》改{style="text-align: right"}
+法 波德莱尔《恶之花》改{.aright}
 
 **重逢**{.centering}
 
