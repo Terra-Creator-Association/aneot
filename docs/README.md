@@ -6,9 +6,9 @@ title: 主页
 heroText: 回归线
 heroFullScreen: false
 # 在这里修改抬头画师
-tagline: © 迷迭香
+tagline: © 2023 猛男环游世界
 # 在这里修改版头主题色
-heroAlt: '#79a5c8'
+heroAlt: '#46f9fa'
 projects:
   - icon: read
     name: 卷首

@@ -17,11 +17,17 @@ const windowSize = ref<{ width: number, height: number }>({
     height: 0
 })
 
-const endHeight = windowSize.value.width > 768 ? '350px' : '240px'
+const endHeight = windowSize.value.width > windowSize.value.height ? '350px' : '240px'
+
+// Set default backgroundImage for PC
+const backgroundImage = ref("/hero-pc.webp")
 
 const handleResize = (): void => {
     windowSize.value.width = window.innerWidth
     windowSize.value.height = window.innerHeight
+
+    // Change backgroundImage based on the aspect ratio
+    backgroundImage.value = windowSize.value.width > windowSize.value.height ? "/hero-pc.webp" : "/hero-mo.webp"
 }
 
 const handleScroll = (): void => {
@@ -83,7 +89,7 @@ onBeforeUnmount(() => {
 </script>
 
 <template>
-    <div class="blog-hero" :style="{ height: heroHeight }">
+    <div class="blog-hero" :style="{ height: heroHeight, backgroundImage: `url(${backgroundImage})` }">
         <div class="mask"></div>
         <img class="hero-image hero-image-pc" src="/aneot.svg" alt="hero image"
             :style="`filter: drop-shadow(` + themeColor + ` 0 0 6px);`">
@@ -111,14 +117,15 @@ onBeforeUnmount(() => {
     display: flex;
     flex-direction: column;
     justify-content: space-between;
-    // height: calc(100vh - var(--navbar-height));
     width: 100%;
     margin-bottom: 1rem;
-    background-image: url("/hero.webp"); //背景图，存放在docs/.vuepress/public
     background-position: center center;
     background-repeat: no-repeat;
     background-size: cover;
     transition: height 1s ease;
+
+    /* Set default background-image for PC */
+    background-image: url("/hero-pc.webp");
 
 }
 
@@ -185,8 +192,8 @@ onBeforeUnmount(() => {
     transform: rotateX(180deg);
 }
 
-/* mobile */
-@media all and (max-width: 768px) {
+/* Mobile */
+@media all and (max-aspect-ratio: 1/1) {
     .hero-image-pc {
         display: none;
     }
@@ -197,7 +204,7 @@ onBeforeUnmount(() => {
 }
 
 /* PC */
-@media all and (min-width: 769px) {
+@media all and (min-aspect-ratio: 1/1) {
     .hero-image-mobile {
         display: none;
     }
