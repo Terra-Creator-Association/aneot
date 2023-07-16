@@ -22,6 +22,7 @@ export default navbar([
       "2023-04/",
       "2023-05/",
       "2023-06/",
+      "2023-07/",
     ],
   },
   {
@@ -31,7 +32,8 @@ export default navbar([
     children: [
       "description",
       "call",
-      "intro"
+      "intro",
+      "statement",
     ]
   },
   {

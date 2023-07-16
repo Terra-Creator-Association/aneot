@@ -26,7 +26,7 @@ order: -2
 
 依然有火花在闪耀{.centering}
 
-——坎诺特·古德·英纳夫{style="text-align: right"}
+——坎诺特·古德·英纳夫{.aright}
 
 <!-- more -->
 
