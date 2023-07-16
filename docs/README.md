@@ -6,7 +6,7 @@ title: 主页
 heroText: 回归线
 heroFullScreen: false
 # 在这里修改抬头画师
-tagline: © 2023 猛男环游世界
+tagline: © 猛男环游世界 2023·07
 # 在这里修改版头主题色
 heroAlt: '#46f9fa'
 projects:
