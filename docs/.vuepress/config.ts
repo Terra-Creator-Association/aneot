@@ -1,10 +1,8 @@
 import { defineUserConfig } from "vuepress";
-import { searchPlugin } from "@vuepress/plugin-search";
 import theme from "./theme";
-import { registerComponentsPlugin } from '@vuepress/plugin-register-components'
-import { path } from '@vuepress/utils'
-import PWA from '@vuepress/plugin-pwa'
-import PWAPopup from '@vuepress/plugin-pwa-popup'
+import { searchPlugin } from "@vuepress/plugin-search";
+import { registerComponentsPlugin } from '@vuepress/plugin-register-components';
+import { path } from '@vuepress/utils';
 
 export default defineUserConfig({
   lang: "zh-CN",
@@ -13,15 +11,15 @@ export default defineUserConfig({
   base: "/",
   shouldPrefetch: false,
   head: [
-      ['link', { rel: 'icon', href: '/logo.png' }],
-      ['link', { rel: 'manifest', href: '/manifest.json' }],
-      ['meta', { name: 'theme-color', content: '#000000' }],
-      ['meta', { name: 'apple-mobile-web-app-capable', content: 'yes' }],
-      ['meta', { name: 'apple-mobile-web-app-status-bar-style', content: 'black' }],
-      ['link', { rel: 'apple-touch-icon', href: '/logo.png' }],
-      ['link', { rel: 'mask-icon', href: '/icons/safari-pinned-tab.svg', color: '#000000' }],
-      ['meta', { name: 'msapplication-TileImage', content: '/logo.png' }],
-      ['meta', { name: 'msapplication-TileColor', content: '#000000' }],
+    ['link', { rel: 'icon', href: '/logo.png' }],
+    ['link', { rel: 'manifest', href: '/manifest.json' }],
+    ['meta', { name: 'theme-color', content: '#000000' }],
+    ['meta', { name: 'apple-mobile-web-app-capable', content: 'yes' }],
+    ['meta', { name: 'apple-mobile-web-app-status-bar-style', content: 'black' }],
+    ['link', { rel: 'apple-touch-icon', href: '/icons/apple-touch-icon-152x152.png' }],
+    ['link', { rel: 'mask-icon', href: '/icons/safari-pinned-tab.svg', color: '#000000' }],
+    ['meta', { name: 'msapplication-TileImage', content: '/icons/msapplication-icon-144x144.png' }],
+    ['meta', { name: 'msapplication-TileColor', content: '#000000' }],
     [
       "link",
       {
@@ -65,18 +63,8 @@ export default defineUserConfig({
     registerComponentsPlugin({
       componentsDir: path.resolve(__dirname, "./components")
     }),
-    '@vuepress/pwa',
-    {
-      serviceWorker: true,
-      updatePopup: {
-          message: "发现新内容可用",
-          buttonText: "刷新"
-      }
-   }
   ],
   alias: {
-    // 你可以在这里将别名定向到自己的组件
-    // 比如这里我们将主题的主页组件改为用户 .vuepress/components 下的 HomePage.vue
     '@theme-hope/modules/blog/components/BlogHero': path.resolve(
       __dirname,
       './components/MyBlogHero.vue'
