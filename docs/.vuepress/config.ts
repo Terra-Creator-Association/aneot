@@ -3,6 +3,8 @@ import { searchPlugin } from "@vuepress/plugin-search";
 import theme from "./theme";
 import { registerComponentsPlugin } from '@vuepress/plugin-register-components'
 import { path } from '@vuepress/utils'
+import PWA from '@vuepress/plugin-pwa'
+import PWAPopup from '@vuepress/plugin-pwa-popup'
 
 export default defineUserConfig({
   lang: "zh-CN",
@@ -54,6 +56,14 @@ export default defineUserConfig({
     registerComponentsPlugin({
       componentsDir: path.resolve(__dirname, "./components")
     }),
+    '@vuepress/pwa',
+    {
+      serviceWorker: true,
+      updatePopup: {
+          message: "发现新内容可用",
+          buttonText: "刷新"
+      }
+   }
   ],
   alias: {
     // 你可以在这里将别名定向到自己的组件

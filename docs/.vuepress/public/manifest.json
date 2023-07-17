@@ -1,0 +1,16 @@
+{
+    "name": "回归线",
+    "short_name": "AnEot",
+    "start_url": "/",
+    "display": "standalone",
+    "background_color": "#fff",
+    "theme_color": "#0078d7",
+    "description": "明日方舟同人杂志《回归线》",
+    "icons": [
+      {
+        "src": "/logo.png",
+        "sizes": "256x247",
+        "type": "image/png"
+      }
+    ]
+  }
