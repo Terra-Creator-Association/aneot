@@ -8,6 +8,17 @@
     mounted() {
       if (localStorage.getItem('forceflashReloaded')) {
         localStorage.removeItem('forceflashReloaded');
+        if ('caches' in window) {
+          caches.keys()
+            .then(function(keyList) {
+              return Promise.all(keyList.map(function(key) {
+                return caches.delete(key);
+              }));
+            })
+            .then(function() {
+              window.location = '/';
+            });
+        }
         this.$router.push('/');
       } else {
         localStorage.setItem('forceflashReloaded', 'true');
