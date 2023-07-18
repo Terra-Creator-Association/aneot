@@ -14,7 +14,6 @@ order: -1
 
 ---
 
-
 ![](./res/illustration/宇航兔兔（今羽岁羽、）.webp) {.centering}
 
 Artist: 今羽岁羽、
