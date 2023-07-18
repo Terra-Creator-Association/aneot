@@ -14,9 +14,16 @@ order: -1
 
 ---
 
+
 ![](./res/illustration/宇航兔兔（今羽岁羽、）.webp) {.centering}
 
 Artist: 今羽岁羽、
+
+---
+
+![](./res/illustration/2226（我也素尊滴无语了）.webp) {.centering}
+
+Artist: 我也素尊滴无语了
 
 ---
 
