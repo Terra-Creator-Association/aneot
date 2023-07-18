@@ -14,10 +14,16 @@
 @rem if you use in the cammand line, please add parameter cmd, or it will open in default cammand line
 @rem default is dev build
 @rem Example: LTS.bat cmd
-@rem enable parameter clean, clean up the cache and node_modules
+@rem enable parameter clean, use vuepress clean up the cache
 @rem Example: LTS.bat clean
 @rem enable parameter reset, clean up the cache and node_modules, and then install dependencies
 @rem Example: LTS.bat reset
+@rem enable parameter delate, del all cache and dependencies
+@rem Example: LTS.bat delate
+@rem enable parameter build, build the project
+@rem Example: LTS.bat build
+@rem enable parameter update, update vuepress
+@rem Example: LTS.bat update
 
 @IF "%~1" NEQ "cmd" (
     @rem Running by double clicking, start a new cmd.exe and rerun this script from it
@@ -37,7 +43,7 @@
             @goto ins 
         )
         @echo Cannot execute the command because the required dependency does not exist.
-        choice /T 5 /C yn /D y /M "Do you want to install it now?"
+        choice /T 5 /C yn /D y /M "Do you want to install it now?(5s)"
         IF ERRORLEVEL 2 (
             @echo Please install the dependency manually and run again
             @timeout /t 10 >nul
