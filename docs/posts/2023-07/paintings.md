@@ -22,7 +22,7 @@ Artist: 今羽岁羽、
 
 ![](./res/illustration/2226（我也素尊滴无语了）.webp) {.centering}
 
-Artist: 我也素尊滴无语了
+Artist: 七茶春雨
 
 ---
 
