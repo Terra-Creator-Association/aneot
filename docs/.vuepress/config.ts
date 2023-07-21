@@ -16,13 +16,13 @@ export default defineUserConfig({
   head: [
     ['link', { rel: 'icon', href: '/eod.png' }],
     ['link', { rel: 'manifest', href: '/manifest.json' }],
-    ['meta', { name: 'theme-color', content: '#000000' }],
+    ['meta', { name: 'theme-color', content: '#46f9fa' }], // 主题色
     ['meta', { name: 'apple-mobile-web-app-capable', content: 'yes' }],
     ['meta', { name: 'apple-mobile-web-app-status-bar-style', content: 'black' }],
     ['link', { rel: 'apple-touch-icon', href: '/icons/apple-touch-icon-152x152.png' }],
-    ['link', { rel: 'mask-icon', href: '/icons/safari-pinned-tab.svg', color: '#000000' }],
+    ['link', { rel: 'mask-icon', href: '/icons/safari-pinned-tab.svg', color: '#000000' }], // safari 浏览器顶部图标
     ['meta', { name: 'msapplication-TileImage', content: '/icons/msapplication-icon-144x144.png' }],
-    ['meta', { name: 'msapplication-TileColor', content: '#000000' }],
+    ['meta', { name: 'msapplication-TileColor', content: '#46f9fa' }], // 磁贴颜色
     [
       "link",
       {
@@ -67,11 +67,6 @@ export default defineUserConfig({
       componentsDir: path.resolve(__dirname, "./components")
     }),
     pwaPlugin({
-      maxSize: 2048, // 允许缓存的最大文件大小，单位KB
-      cacheHTML: true, // 缓存HTML文件
-      cachePic: true, // 缓存图片
-      maxPicSize: 1024, // 允许缓存的最大图片大小，单位KB
-      update: 'hint', // 当新内容可用时的控制逻辑
     }),
     pwaPopupPlugin({
       locales: {

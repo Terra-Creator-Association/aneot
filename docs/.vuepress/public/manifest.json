@@ -4,7 +4,7 @@
     "start_url": "/",
     "display": "standalone",
     "background_color": "#fff",
-    "theme_color": "#0078d7",
+    "theme_color": "#46f9fa", 
     "description": "明日方舟同人杂志《回归线》",
     "icons": [
       {
