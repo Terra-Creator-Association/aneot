@@ -2,6 +2,9 @@ import { defineUserConfig } from "vuepress";
 import theme from "./theme";
 import { searchPlugin } from "@vuepress/plugin-search";
 import { registerComponentsPlugin } from '@vuepress/plugin-register-components';
+import { pwaPlugin } from '@vuepress/plugin-pwa'
+import { pwaPopupPlugin } from '@vuepress/plugin-pwa-popup'
+import { copyrightPlugin } from "vuepress-plugin-copyright2";
 import { path } from '@vuepress/utils';
 
 export default defineUserConfig({
@@ -62,6 +65,26 @@ export default defineUserConfig({
     }),
     registerComponentsPlugin({
       componentsDir: path.resolve(__dirname, "./components")
+    }),
+    pwaPlugin({
+      skipWaiting: true,
+      cachePic: true,
+    }),
+    pwaPopupPlugin({
+      locales: {
+        '/': {
+          message: 'New content is available.',
+          buttonText: 'Refresh',
+        },
+        '/zh/': {
+          message: '发现新内容可用',
+          buttonText: '刷新',
+        },
+      },
+    }),
+    copyrightPlugin({
+      global: true, // 全局启用
+      disableCopy: true, // 禁止复制
     }),
   ],
   alias: {
