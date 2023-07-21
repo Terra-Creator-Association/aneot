@@ -23,7 +23,7 @@ order: 6
 
 “看来，他要付出高昂的代价。他写书挣了很多稿费，那个孩子说。她重复着那个死去孩子的话。他们没有说出的话就是：作为还报，他不得不交出自己的灵魂。” {.textkai}
 
-——J.M.库切《彼得堡的大师》 {style="text-align: right"}
+——J.M.库切《彼得堡的大师》 {.aright}
 
 # 一.崇高的客体 ...
 
@@ -291,7 +291,7 @@ order: 6
 
 ”往后这一星期、一个月、一年，我们会遇见许多孑然孤零的人。等他们问我们在做什么，你们可以说：我们在记忆，这样我们才终究能获胜。”
 
-——雷.布拉德伯里《华氏451度》{style="text-align: right"}
+——雷.布拉德伯里《华氏451度》{.aright}
 
 ## 6.
 
@@ -675,7 +675,7 @@ Still ahead {.textkai .centering}
 
 Pity me. {.textkai .centering}
 
-——Queen《'39》{style="text-align: right"}
+——Queen《'39》{.aright}
 
 ## 11.
 

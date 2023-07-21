@@ -6,9 +6,9 @@ title: 主页
 heroText: 回归线
 heroFullScreen: false
 # 在这里修改抬头画师
-tagline: © 西月将倾 2023 · 06
+tagline: © 猛男环游世界 2023·07
 # 在这里修改版头主题色
-heroAlt: '#bd3b2e'
+heroAlt: '#46f9fa'
 projects:
   - icon: read
     name: 卷首
@@ -22,8 +22,8 @@ projects:
 
   - icon: article
     name: 最新一期
-    desc: Vol.13 2023-06
-    link: posts/2023-06
+    desc: Vol.14 2023-07
+    link: posts/2023-07
 
   - icon: cache
     name: 下载 PDF

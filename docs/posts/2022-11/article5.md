@@ -19,7 +19,7 @@ order: 6
 
 *As I ask you to focus on 当我要你快去注意*
 
-————大卫鲍伊《Life On Mars》 {style="text-align: right" .textkai}
+————大卫鲍伊《Life On Mars》 {.aright .textkai}
 
 <!-- more -->
 

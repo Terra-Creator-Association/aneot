@@ -18,7 +18,7 @@ order: -2
 
 就算不给干员穿也可以买来保值！{.centering}
 
-——某不愿透露姓名的罗德岛奸商{style="text-align: right"}
+——某不愿透露姓名的罗德岛奸商{.aright}
 
 <!-- more -->
 
