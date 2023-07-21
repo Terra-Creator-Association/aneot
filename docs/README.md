@@ -8,6 +8,7 @@ heroFullScreen: false
 # 在这里修改抬头画师
 tagline: © 猛男环游世界 2023·07
 # 在这里修改版头主题色
+# 同时修改config.ts中的themeColor
 heroAlt: '#46f9fa'
 projects:
   - icon: read
