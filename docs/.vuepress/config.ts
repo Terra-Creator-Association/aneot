@@ -18,10 +18,10 @@ export default defineUserConfig({
     ['link', { rel: 'manifest', href: '/manifest.json' }],
     ['meta', { name: 'theme-color', content: '#46f9fa' }], // 主题色
     ['meta', { name: 'apple-mobile-web-app-capable', content: 'yes' }],
-    ['meta', { name: 'apple-mobile-web-app-status-bar-style', content: 'black' }],
-    ['link', { rel: 'apple-touch-icon', href: '/icons/apple-touch-icon-152x152.png' }],
-    ['link', { rel: 'mask-icon', href: '/icons/safari-pinned-tab.svg', color: '#FFFFFF' }], // safari 浏览器顶部图标
-    ['meta', { name: 'msapplication-TileImage', content: '/icons/msapplication-icon-144x144.png' }],
+    ['meta', { name: 'apple-mobile-web-app-status-bar-style', content: 'default' }],
+    ['link', { rel: 'apple-touch-icon', href: '/apple-touch-icon-152x152.png' }],
+    ['link', { rel: 'mask-icon', href: '/eod144.svg', color: '#FFFFFF' }],
+    ['meta', { name: 'msapplication-TileImage', content: '/msapplication-icon-144x144.png' }],
     ['meta', { name: 'msapplication-TileColor', content: '#46f9fa' }], // 磁贴颜色
     [
       "link",
