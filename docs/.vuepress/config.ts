@@ -67,8 +67,6 @@ export default defineUserConfig({
       componentsDir: path.resolve(__dirname, "./components")
     }),
     pwaPlugin({
-      skipWaiting: true,
-      cachePic: true,
     }),
     pwaPopupPlugin({
       locales: {
