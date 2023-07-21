@@ -2,6 +2,9 @@ import { defineUserConfig } from "vuepress";
 import theme from "./theme";
 import { searchPlugin } from "@vuepress/plugin-search";
 import { registerComponentsPlugin } from '@vuepress/plugin-register-components';
+import { pwaPlugin } from '@vuepress/plugin-pwa'
+import { pwaPopupPlugin } from '@vuepress/plugin-pwa-popup'
+import { copyrightPlugin } from "vuepress-plugin-copyright2";
 import { path } from '@vuepress/utils';
 
 export default defineUserConfig({
@@ -13,13 +16,13 @@ export default defineUserConfig({
   head: [
     ['link', { rel: 'icon', href: '/eod.png' }],
     ['link', { rel: 'manifest', href: '/manifest.json' }],
-    ['meta', { name: 'theme-color', content: '#000000' }],
+    ['meta', { name: 'theme-color', content: '#46f9fa' }], // 主题色
     ['meta', { name: 'apple-mobile-web-app-capable', content: 'yes' }],
     ['meta', { name: 'apple-mobile-web-app-status-bar-style', content: 'black' }],
     ['link', { rel: 'apple-touch-icon', href: '/icons/apple-touch-icon-152x152.png' }],
-    ['link', { rel: 'mask-icon', href: '/icons/safari-pinned-tab.svg', color: '#000000' }],
+    ['link', { rel: 'mask-icon', href: '/icons/safari-pinned-tab.svg', color: '#000000' }], // safari 浏览器顶部图标
     ['meta', { name: 'msapplication-TileImage', content: '/icons/msapplication-icon-144x144.png' }],
-    ['meta', { name: 'msapplication-TileColor', content: '#000000' }],
+    ['meta', { name: 'msapplication-TileColor', content: '#46f9fa' }], // 磁贴颜色
     [
       "link",
       {
@@ -62,6 +65,24 @@ export default defineUserConfig({
     }),
     registerComponentsPlugin({
       componentsDir: path.resolve(__dirname, "./components")
+    }),
+    pwaPlugin({
+    }),
+    pwaPopupPlugin({
+      locales: {
+        '/': {
+          message: 'New content is available.',
+          buttonText: 'Refresh',
+        },
+        '/zh/': {
+          message: '发现新内容可用',
+          buttonText: '刷新',
+        },
+      },
+    }),
+    copyrightPlugin({
+      global: true, // 全局启用
+      disableCopy: true, // 禁止复制
     }),
   ],
   alias: {

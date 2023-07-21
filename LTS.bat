@@ -30,7 +30,7 @@
     start cmd /k "cd /d "%~dp0" && "%~0" cmd "%~1""
     exit /b
 ) ELSE (
-    If "%~2"=="delate" (
+    If "%~2"=="delete" (
         @rem del all cache and dependencies
         @GOTO del
     ) ELSE If "%~2"=="reset" (
@@ -83,7 +83,7 @@ exit /b
 @timeout /t 3 >nul
 rd /s /q node_modules
 rd /s /q docs\.vuepress\dist
-d /s /q docs\.vuepress\.temp
+rd /s /q docs\.vuepress\.temp
 rd /s /q docs\.vuepress\.cache
 @If "%int%"=="true" (
     @GOTO ins
