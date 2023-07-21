@@ -67,6 +67,11 @@ export default defineUserConfig({
       componentsDir: path.resolve(__dirname, "./components")
     }),
     pwaPlugin({
+      maxSize: 2048, // 允许缓存的最大文件大小，单位KB
+      cacheHTML: true, // 缓存HTML文件
+      cachePic: true, // 缓存图片
+      maxPicSize: 1024, // 允许缓存的最大图片大小，单位KB
+      update: 'hint', // 当新内容可用时的控制逻辑
     }),
     pwaPopupPlugin({
       locales: {
