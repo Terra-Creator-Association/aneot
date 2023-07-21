@@ -14,7 +14,7 @@ export default defineUserConfig({
   base: "/",
   shouldPrefetch: false,
   head: [
-    ['link', { rel: 'icon', href: '/logo.png' }],
+    ['link', { rel: 'icon', href: '/eod.png' }],
     ['link', { rel: 'manifest', href: '/manifest.json' }],
     ['meta', { name: 'theme-color', content: '#000000' }],
     ['meta', { name: 'apple-mobile-web-app-capable', content: 'yes' }],
