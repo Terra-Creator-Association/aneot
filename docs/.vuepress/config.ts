@@ -19,9 +19,9 @@ export default defineUserConfig({
     ['meta', { name: 'theme-color', content: '#46f9fa' }], // 主题色
     ['meta', { name: 'apple-mobile-web-app-capable', content: 'yes' }],
     ['meta', { name: 'apple-mobile-web-app-status-bar-style', content: 'default' }],
-    ['link', { rel: 'apple-touch-icon', href: '/pwa/apple-touch-icon-152x152.png' }],
+    ['link', { rel: 'apple-touch-icon', href: '/icon/apple-touch-icon-152x152.png' }],
     ['link', { rel: 'mask-icon', href: '/eod144.svg', color: '#FFFFFF' }],
-    ['meta', { name: 'msapplication-TileImage', content: '/pwa/msapplication-icon-144x144.png' }],
+    ['meta', { name: 'msapplication-TileImage', content: '/icon/msapplication-icon-144x144.png' }],
     ['meta', { name: 'msapplication-TileColor', content: '#46f9fa' }], // 磁贴颜色
     [
       "link",
@@ -69,16 +69,6 @@ export default defineUserConfig({
     pwaPlugin({
     }),
     pwaPopupPlugin({
-      locales: {
-        '/': {
-          message: 'New content is available.',
-          buttonText: 'Refresh',
-        },
-        '/zh/': {
-          message: '发现新内容可用',
-          buttonText: '刷新',
-        },
-      },
     }),
     copyrightPlugin({
       global: true, // 全局启用
