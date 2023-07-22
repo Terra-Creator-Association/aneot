@@ -12,13 +12,8 @@ tagline: © 猛男环游世界 2023·07
 heroAlt: '#46f9fa'
 projects:
   - icon: read
-    name: 卷首
-    desc: 欢迎阅读《回归线》
-    link: posts/2022-06/intro
-
-  - icon: book
     name: 期刊一览
-    desc: 期刊一览
+    desc: 欢迎阅读《回归线》
     link: posts/
 
   - icon: article
@@ -40,6 +35,11 @@ projects:
     name: 订阅《回归线》
     desc: Feed
     link: subscription
+
+  - icon: app
+    name: 安装回归线应用
+    desc: 基于PWA技术
+    link: installpwa
 
   - icon: api
     name: 获取更新

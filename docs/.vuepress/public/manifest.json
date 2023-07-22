@@ -8,7 +8,7 @@
     "description": "明日方舟同人杂志《回归线》",
     "icons": [
       {
-        "src": "/eod144.png",
+        "src": "/pwa/eod144.png",
         "sizes": "144x144",
         "type": "image/png"
       }
