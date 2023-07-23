@@ -6,10 +6,21 @@
     "background_color": "#fff",
     "theme_color": "#46f9fa", 
     "description": "明日方舟同人杂志《回归线》",
+    "update": "force",
     "icons": [
       {
         "src": "/icon/eod144.png",
         "sizes": "144x144",
+        "type": "image/png"
+      },
+      {
+        "src": "/icon/eod256.png",
+        "sizes": "256x256",
+        "type": "image/png"
+      },
+      {
+        "src": "/icon/eod512.png",
+        "sizes": "512x512",
         "type": "image/png"
       }
     ]
