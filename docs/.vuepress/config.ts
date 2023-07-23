@@ -12,6 +12,11 @@ export default defineUserConfig({
   description: "Another End of Terra",
   base: "/",
   shouldPrefetch: false,
+  cachePic: true,
+  cacheHTML: true,
+  maxSize: 2048,
+  maxPicSize: 1024,
+  update: "force",
   head: [
     ['link', { rel: 'icon', href: '/eod.png' }],
     ['link', { rel: 'manifest', href: '/manifest.json' }],
