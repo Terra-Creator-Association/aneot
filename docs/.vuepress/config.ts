@@ -3,7 +3,6 @@ import theme from "./theme";
 import { searchPlugin } from "@vuepress/plugin-search";
 import { registerComponentsPlugin } from '@vuepress/plugin-register-components';
 import { pwaPlugin } from '@vuepress/plugin-pwa'
-import { pwaPopupPlugin } from '@vuepress/plugin-pwa-popup'
 import { copyrightPlugin } from "vuepress-plugin-copyright2";
 import { path } from '@vuepress/utils';
 
@@ -13,6 +12,11 @@ export default defineUserConfig({
   description: "Another End of Terra",
   base: "/",
   shouldPrefetch: false,
+  cachePic: true,
+  cacheHTML: true,
+  maxSize: 2048,
+  maxPicSize: 1024,
+  update: "force",
   head: [
     ['link', { rel: 'icon', href: '/eod.png' }],
     ['link', { rel: 'manifest', href: '/manifest.json' }],
@@ -67,8 +71,6 @@ export default defineUserConfig({
       componentsDir: path.resolve(__dirname, "./components")
     }),
     pwaPlugin({
-    }),
-    pwaPopupPlugin({
     }),
     copyrightPlugin({
       global: true, // 全局启用
