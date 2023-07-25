@@ -69,11 +69,11 @@
 @:ser
 @echo The browser will be pulled up, if it is not pulled up successfully, please type in the browser address bar ^"http://localhost:****^"
 @echo Just wait a few seconds to refresh the page after it appears
-pnpm run docs:dev --open
+pnpm dlx pnpm@7 run docs:dev --open
 exit /b
 
 @:cle
-pnpm run docs:clean-dev
+pnpm dlx pnpm@7 run docs:clean-dev
 exit /b
 
 @:del
@@ -91,19 +91,19 @@ rd /s /q docs\.vuepress\.cache
 exit /b
 
 @:bui
-pnpm run docs:build
+pnpm dlx pnpm@7 run docs:build
 exit /b
 
 @:upd
-pnpm dlx vp-update
+pnpm dlx pnpm@7 dlx vp-update
 exit /b
 
 @:ins
 @echo No VuePress dependency detected, trying to install... Please run again before successfully install
 @timeout /t 3 >nul
-pnpm install
+pnpm dlx pnpm@7 install
 @If not %errorlevel%==0 (
-    @echo This service relies on the pnpm command, please make sure it is installed globally
+    @echo This service relies on the pnpm command, please make sure it is installed globally (npm i -g pnpm)
     @timeout /t 10 >nul
     exit /b
 )
