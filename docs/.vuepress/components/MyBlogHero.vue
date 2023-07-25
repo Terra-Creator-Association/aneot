@@ -20,7 +20,7 @@ const windowSize = ref<{ width: number, height: number }>({
 const endHeight = windowSize.value.width > windowSize.value.height ? '350px' : '240px'
 
 // Set default backgroundImage for PC
-const backgroundImage = ref("/hero-pc.webp")
+const backgroundImage = ref("/hero/2.webp")
 
 const handleResize = (): void => {
     windowSize.value.width = window.innerWidth
