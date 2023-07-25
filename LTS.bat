@@ -103,7 +103,7 @@ exit /b
 @timeout /t 3 >nul
 pnpm dlx pnpm@7 install
 @If not %errorlevel%==0 (
-    @echo This service relies on the pnpm command, please make sure it is installed globally
+    @echo This service relies on the pnpm command, please make sure it is installed globally (npm i -g pnpm)
     @timeout /t 10 >nul
     exit /b
 )
