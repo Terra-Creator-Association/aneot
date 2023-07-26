@@ -71,7 +71,7 @@ Trapped in the void,fighting for a response…”
 
 “The grip of fate,a tightening noose…
 
-Redemption’s grace,we find truth…”/\* bbscode i too long \*/
+Redemption’s grace,we find truth…”
 
 克里斯滕想，这首歌真是漫长。悠悠的曲调，就仿佛永远都不会走到尽头一样。
 
@@ -91,7 +91,7 @@ Redemption’s grace,we find truth…”/\* bbscode i too long \*/
 
 克里斯滕闭上眼睛。
 
-“Lost in the memories of a time with you,with you——”/\* bbscode i too long \*/
+“Lost in the memories of a time with you,with you——”
 
 这首歌终究是走到了尾声。因为塞雷娅站在了她的面前，对她伸出手。
 
