@@ -55,7 +55,7 @@ order: 5
 
 “Lost myself in this situation…
 
-Trapped in the void,fighting for a response…”/\* bbscode i too long \*/
+Trapped in the void,fighting for a response…”
 
 碎片嵌入、疗效实验…这些她都看过了。
 
