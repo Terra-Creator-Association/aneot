@@ -11,7 +11,7 @@ title: Vol. 13 - 2023 年 06 月号
 - [**卷首语**](intro.html)
 - **见字如面 · 此地之外**
   - [潮石镇的流浪猫](article3.html)
-  - [早睡早起睡眠好](article4.html)
+  - [lost in 1083](article4.html)
   - [四卫不倾，三风不度](article5.html)
   - [你需知晓我抵不过你](article6.html)
 - **见字如面 · 罗德岛日志**
