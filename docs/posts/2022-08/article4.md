@@ -129,4 +129,4 @@ order: 5
 
 </div>
 
-<Ads />
+<FakeAds />

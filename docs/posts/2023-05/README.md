@@ -25,4 +25,4 @@ title: Vol. 12 - 2023 年 05 月号：IF
 - **特别企划**
   - [回归线1周年特别企划](specialproj.html)
 
-<Ads />
+<FakeAds />

@@ -44,4 +44,4 @@ Artist: 暴躁老芙
 ![](./res/illustration/流明小鸟歌蕾蒂娅（念语无心说）.webp) {.centering}
 
 Artist: 念语无心说
-<Ads />
+<FakeAds />

@@ -20,4 +20,4 @@ dir:
 - [血先生](article8.html)
 - [季节尽头与冷酷之梦](article9.html)
 
-<Ads />
+<FakeAds />

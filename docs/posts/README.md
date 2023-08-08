@@ -8,17 +8,23 @@ dir:
 
 <!-- more -->
 
-## 最新一期
+## **最新一期** {.centering}
 
-**2023-07: Vol. 14 2023 年 07 月号**
+<big>
 
-![](./2023-07/res/cover.webp){style="max-width: 60%; margin: 0 auto; text-align: center; text-indent: 0;"}
+**2023-07: Vol. 14 2023 年 07 月号** {.centering}
 
-[**在线阅读**](./2023-07/README.md)
+</big>
 
-[**前往下载页面**](/download.md)
+<div style="display: flex; justify-content: center;">
+  <img src="./2023-07/res/cover.webp" alt="Cover Image" style="max-width: 60%;">
+</div>
 
-## 往期回顾
+[**在线阅读**](./2023-07/README.md) {.centering}
+
+[**前往下载页面**](/download.md) {.centering}
+
+## **往期回顾** {.centering}
 
 |![](./2022-05/res/cover.webp)|![](./2022-06//res/cover.webp)|![](./2022-07/res/cover.webp)|
 |:-:|:-:|:-:|

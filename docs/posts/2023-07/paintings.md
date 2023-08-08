@@ -41,4 +41,4 @@ Artist: WYDBZ
 ![](./res/illustration/独立插（Hakuya_owl）.webp) {.centering}
 
 Artist: Hakuya_owl
-<Ads />
+<FakeAds />

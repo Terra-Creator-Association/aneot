@@ -59,4 +59,4 @@ Artist: LOFTER@Zin
 
 ---
 
-<Ads />
+<FakeAds />

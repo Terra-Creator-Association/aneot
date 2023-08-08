@@ -323,4 +323,4 @@ order: 7
 
 （责任编辑：黒子；绘图：白鸟环；本文首发于 bilibili）
 
-<Ads />
+<FakeAds />

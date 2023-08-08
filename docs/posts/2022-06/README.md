@@ -21,4 +21,4 @@ title: Vol. 01 - 2022 年 06 月号
   - [罗德岛绘本：猞猁奶奶](comic1.html)
   - [画中秘境](paintings.html)
 
-<Ads />
+<FakeAds />

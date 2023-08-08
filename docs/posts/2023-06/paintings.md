@@ -41,4 +41,4 @@ Artist: 小猫的手像大蒜
 ![](./res/illustration/远牙_独立插_堀柳困困.webp) {.centering}
 
 Artist: 堀柳困困
-<Ads />
+<FakeAds />

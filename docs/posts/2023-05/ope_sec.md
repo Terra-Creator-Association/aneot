@@ -121,4 +121,4 @@ D. 重装干员，控场，削弱，生存，爆发
 
 [点我也可以哟ヾ(≧▽≦*)o](https://www.wjx.cn/vm/PpVDPPR.aspx)<eod />
 
-<Ads />
+<FakeAds />

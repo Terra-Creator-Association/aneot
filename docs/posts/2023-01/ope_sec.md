@@ -136,4 +136,4 @@ D. 在战斗结算时，罗德岛将霜星归入了阿米娅小队的荣誉队�
 
 [点我也可以哟ヾ(≧▽≦*)o](https://www.wjx.cn/vm/OhX0W4x.aspx)<eod />
 
-<Ads />
+<FakeAds />

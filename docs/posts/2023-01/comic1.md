@@ -21,4 +21,4 @@ order: -3
 
 <eod />
 
-<Ads />
+<FakeAds />

@@ -14,4 +14,4 @@ order: -3
 
 ![](./res/comic/comic1.webp) {.centering}
 
-<Ads />
+<FakeAds />

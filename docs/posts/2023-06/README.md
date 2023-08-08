@@ -26,4 +26,4 @@ title: Vol. 13 - 2023 年 06 月号
 - **创作者访谈**
   - [座谈——方舟 创作 杂七杂八](interview.html)
 
-<Ads />
+<FakeAds />

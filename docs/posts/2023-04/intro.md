@@ -18,4 +18,4 @@ order: 1
 
 <eod />
 
-<Ads />
+<FakeAds />

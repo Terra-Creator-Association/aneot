@@ -104,4 +104,4 @@ order: 3
 （责任编辑：瑶濯；
 本文首发于Lofter）
 
-<Ads />
+<FakeAds />
