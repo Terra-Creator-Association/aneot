@@ -24,4 +24,4 @@ title: Vol. 06 - 2022 年 11 月号：彼处水如酒
 - **创作者访谈**
   - [干员密录](ope_sec.html)
 
-<Ads />
+<FakeAds />

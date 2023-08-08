@@ -14,4 +14,4 @@ order: -2
 
 ![](./res/comic/comic.png) {.centering}
 
-<Ads />
+<FakeAds />

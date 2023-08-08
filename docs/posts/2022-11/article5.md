@@ -250,4 +250,4 @@ order: 6
 
 （绘图：LOFTER@Eisen先生；本文来自作者投稿）
 
-<Ads />
+<FakeAds />

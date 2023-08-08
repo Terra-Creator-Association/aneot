@@ -122,4 +122,4 @@ D. 老萨卡兹曾经和战友们追随殿下、为民族而战斗的那段历�
 
 [点我也可以哟ヾ(≧▽≦*)o](https://www.wjx.cn/vm/m0QHMI0.aspx)<eod />
 
-<Ads />
+<FakeAds />

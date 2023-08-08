@@ -26,4 +26,4 @@ title: Vol. 11 - 2023 年 04 月号
 - **创作者访谈**
   - [特别专访：白木](interview.html)
 
-<Ads />
+<FakeAds />

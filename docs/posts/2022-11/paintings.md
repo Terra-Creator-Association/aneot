@@ -43,4 +43,4 @@ Artist: LOFTER@森灵
 
 Artist: LOFTER@怪人吴a
 
-<Ads />
+<FakeAds />

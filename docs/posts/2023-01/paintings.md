@@ -47,4 +47,4 @@ Artist: 霓秋nikiyo
 
 Artist: 淹城挖出的那只小舟
 
-<Ads />
+<FakeAds />

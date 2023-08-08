@@ -104,4 +104,4 @@ order: 4
 
 （绘图：LOFTER@不长叶子的树；本文来自作者投稿）
 
-<Ads />
+<FakeAds />

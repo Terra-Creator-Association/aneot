@@ -58,4 +58,4 @@ Artist: 短线减仓
 
 Artist: 煌祺OniBi
 
-<Ads />
+<FakeAds />

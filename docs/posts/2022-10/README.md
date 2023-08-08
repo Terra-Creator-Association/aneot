@@ -24,4 +24,4 @@ title: Vol. 05 - 2022 年 10 月号
 - **创作者访谈**
   - [特别专访：B站UP主 一只大哈鱼](interview.html)
 
-<Ads />
+<FakeAds />

@@ -23,4 +23,4 @@ title: Vol. 04 - 2022 年 09 月号：乡愁和归处
   - [漫画二则](comic1.html)
   - [画中秘境](paintings.html)
 
-<Ads />
+<FakeAds />

@@ -43,4 +43,4 @@ order: 4
 
 （本文首发于nga）
 
-<Ads />
+<FakeAds />

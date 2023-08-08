@@ -65,4 +65,4 @@ order: 3
 
 （绘图：LOFTER@鸽十一；本文来自作者投稿）
 
-<Ads />
+<FakeAds />

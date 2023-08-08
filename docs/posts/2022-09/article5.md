@@ -125,4 +125,4 @@ order: 6
 
 （责任编辑：广英；绘图：幺垯；本文首发于 LOFTER）
 
-<Ads />
+<FakeAds />

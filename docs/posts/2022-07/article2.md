@@ -191,4 +191,4 @@ order: 3
 
 ![](./res/illustration/熊.webp) {.centering}
 
-<Ads />
+<FakeAds />

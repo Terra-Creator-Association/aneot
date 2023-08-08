@@ -24,4 +24,4 @@ title: Vol. 07 - 2022 年 12 月号
 - **创作者访谈**
   - [特别专访：东方](interview.html)
 
-<Ads />
+<FakeAds />

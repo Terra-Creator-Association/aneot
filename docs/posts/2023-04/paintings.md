@@ -42,4 +42,4 @@ Artist: 虫离 shabi
 
 ![](./res/illustration/暗锁（九度）.webp) {.centering}
 
-Artist: 九度<Ads />
+Artist: 九度<FakeAds />

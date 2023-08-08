@@ -30,4 +30,4 @@ Artist: 低溫燒傷
 
 Artist: 向青而行
 
-<Ads />
+<FakeAds />

@@ -303,4 +303,4 @@ Rhodes Island<eod />
 
 （责任编辑：广英）
 
-<Ads />
+<FakeAds />

@@ -72,4 +72,4 @@ order: 7
 
 </div>
 
-<Ads />
+<FakeAds />

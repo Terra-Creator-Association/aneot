@@ -20,4 +20,4 @@ title: Vol. 02 - 2022 年 07 月号：相互的彼方
   - [同路](comic1.html)
   - [画中秘境](paintings.html)
 
-<Ads />
+<FakeAds />

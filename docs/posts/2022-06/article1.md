@@ -285,4 +285,4 @@ order: 2
 
 随即，锯齿轰鸣。<eod />
 
-<Ads />
+<FakeAds />

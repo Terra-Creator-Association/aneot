@@ -122,4 +122,4 @@ D.黏性超人
 
 [点我也可以哟ヾ(≧▽≦*)o](https://www.wjx.cn/vm/QrZD8mh.aspx)<eod />
 
-<Ads />
+<FakeAds />
