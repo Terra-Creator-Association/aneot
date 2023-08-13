@@ -11,19 +11,36 @@
 @rem \|___|/                                            \|___|/                                                                 
 @rem github.com/yige-yigeren                 
 
-@rem if you use in the cammand line, please add parameter cmd, or it will open in default cammand line
-@rem default is dev build
-@rem Example: LTS.bat cmd
-@rem enable parameter clean, use vuepress clean up the cache
-@rem Example: LTS.bat clean
-@rem enable parameter reset, clean up the cache and node_modules, and then install dependencies
-@rem Example: LTS.bat reset
-@rem enable parameter delate, del all cache and dependencies
-@rem Example: LTS.bat delate
-@rem enable parameter build, build the project
-@rem Example: LTS.bat build
-@rem enable parameter update, update vuepress
-@rem Example: LTS.bat update
+@If "%~1"=="help" (
+    @goto :showHelp
+)
+@If "%~1"=="-help" (
+    @goto :showHelp
+)
+@If "%~1"=="/help" (
+    @goto :showHelp
+)
+@If "%~1"=="--help" (
+    @goto :showHelp
+)
+@If "%~1"=="h" (
+    @goto :showHelp
+)
+@If "%~1"=="-h" (
+    @goto :showHelp
+)
+@If "%~1"=="/h" (
+    @goto :showHelp
+)
+@If "%~1"=="?" (
+    @goto :showHelp
+)
+@If "%~1"=="-?" (
+    @goto :showHelp
+)
+@If "%~1"=="/?" (
+    @goto :showHelp
+)
 
 @IF "%~1" NEQ "cmd" (
     @rem Running by double clicking, start a new cmd.exe and rerun this script from it
@@ -108,4 +125,25 @@ pnpm dlx pnpm@7 install
     exit /b
 )
 
-
+:showHelp
+    @rem help
+    @echo.
+    @echo This script is suitable for rapid deployment, and perform some environmental operations, support to add it to the debugging of your development environment(add parameter cmd).
+    @echo.
+    @echo if you use in the cammand line, please add parameter cmd at first parameter, or it will open in default cammand line
+    @echo default is dev build
+    @echo Example: LTS.bat cmd or lts cmd
+    @echo.
+    @echo if you don't want open a new cammand line, don't forget first parameter cmd
+    @echo enable parameter clean, use vuepress clean up the cache
+    @echo Example: LTS.bat clean or lts clean
+    @echo enable parameter reset, clean up the cache and node_modules, and then install dependencies
+    @echo Example: LTS.bat reset or lts reset
+    @echo These order must exist folder node_modules
+    @echo enable parameter delate, del all cache and dependencies
+    @echo Example: LTS.bat delate or lts delate
+    @echo enable parameter build, build the project
+    @echo Example: LTS.bat build or lts build
+    @echo enable parameter update, update vuepress
+    @echo Example: LTS.bat update or lts update
+    exit /b
