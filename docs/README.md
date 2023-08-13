@@ -6,7 +6,7 @@ title: 主页
 heroText: 回归线
 heroFullScreen: false
 # 在这里修改抬头画师
-tagline: © 猛男环游世界 2023·07
+tagline: © 猛男环游世界 2023·08
 # 在这里修改版头主题色
 # 同时修改config.ts中的themeColor
 heroAlt: '#46f9fa'
@@ -18,7 +18,7 @@ projects:
 
   - icon: article
     name: 最新一期
-    desc: Vol.14 2023-07
+    desc: Vol.15 2023-08
     link: posts/2023-07
 
   - icon: cache

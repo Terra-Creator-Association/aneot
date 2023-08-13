@@ -47,6 +47,19 @@ export default defineUserConfig({
       })();
       `
     ],
+    [      
+      'script',
+    {
+      src: '//instant.page/5.2.0',
+      type: 'module',
+      integrity: 'sha384-jnZyxPjiipYXnSU0ygqeac2q7CVYMbh84q0uHVRRxEtvFPiQYbXWUorga2aqZJ0z',
+    },
+    `
+      document.addEventListener('DOMContentLoaded', (event) => {
+        document.body.setAttribute('data-instant-allow-external-links', '');
+        document.body.setAttribute('data-instant-intensity', 'viewport');
+      });
+    `,],
   ],
 
   theme,
