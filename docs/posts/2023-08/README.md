@@ -20,7 +20,7 @@ title: Vol. 15 - 2023 年 08 月号
   - [漫画一则](comic1.html)
   - [画中秘境](paintings.html)
 - **干员秘闻**
-  - [干员秘闻：第X期](ope_sec.html)
+  - [干员秘闻：第十期](ope_sec.html)
 - **创作者访谈**
   - [特别专访：柞木不朽](interview1.html)
 
