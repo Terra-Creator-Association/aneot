@@ -1,5 +1,5 @@
 ---
-icon: repo
+icon: news
 article: false
 index: false
 title: 公告栏
