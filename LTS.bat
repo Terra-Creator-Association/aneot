@@ -69,7 +69,7 @@
             @GOTO ins
         )
     ) ELSE If "%~2"=="clean" (
-        @rem Clean up the cache
+        @rem No use cache, clear start
         @GOTO cle
     ) ELSE If "%~2"=="build" (
         @rem Build the project
