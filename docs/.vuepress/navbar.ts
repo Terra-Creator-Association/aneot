@@ -31,6 +31,7 @@ export default navbar([
     icon: "creative",
     prefix: "/",
     children: [
+      "bulletin",
       "description",
       "call",
       "intro",

@@ -14,7 +14,7 @@ order: -1
 
 ---
 
-![](./res/illustration/cover.webp) {.centering}
+![](./res/illustration/独立插（汤罐浣熊）.webp) {.centering}
 
-Artist: 
+Artist: 汤罐浣熊
 <FakeAds />

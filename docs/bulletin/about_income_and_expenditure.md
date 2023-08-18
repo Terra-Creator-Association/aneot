@@ -1,10 +1,12 @@
 ---
 icon: info
 title: 关于收支
-date: 2023-08-18
+date: 2023-09-01
 tag:
   - 关于
 article: false
+order: -3
+index: false
 ---
 
 大家好，这里是TCA《回归线》项目组。
