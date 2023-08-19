@@ -3,7 +3,6 @@ import theme from "./theme";
 import { searchPlugin } from "@vuepress/plugin-search";
 import { registerComponentsPlugin } from '@vuepress/plugin-register-components';
 import { pwaPlugin } from '@vuepress/plugin-pwa'
-import { copyrightPlugin } from "vuepress-plugin-copyright2";
 import { path } from '@vuepress/utils';
 
 export default defineUserConfig({
@@ -75,10 +74,6 @@ export default defineUserConfig({
       componentsDir: path.resolve(__dirname, "./components")
     }),
     pwaPlugin({
-    }),
-    copyrightPlugin({
-      global: true, // 全局启用
-      disableCopy: true, // 禁止复制
     }),
   ],
   alias: {
