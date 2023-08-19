@@ -21,9 +21,9 @@ Artist: liliyFox
 
 ---
 
-![](./res/illustration/独立插黑键白垩（枫雀）.webp) {.centering}
+![](./res/illustration/独立插黑键白垩（硬質廢料）.webp) {.centering}
 
-Artist: 枫雀
+Artist: 硬質廢料
 
 ---
 
@@ -36,11 +36,5 @@ Artist: 煜灼灼
 ![](./res/illustration/独立插（枫雀･ω･｀）.webp) {.centering}
 
 Artist: 枫雀･ω･｀)
-
----
-
-![](./res/illustration/独立插（汤罐浣熊）.webp) {.centering}
-
-Artist: 汤罐浣熊
 
 <FakeAds />
