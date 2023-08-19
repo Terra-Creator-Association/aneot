@@ -6,10 +6,10 @@ title: 主页
 heroText: 回归线
 heroFullScreen: false
 # 在这里修改抬头画师
-tagline: © 猛男环游世界 2023·08
+tagline: © oY柚柚Yo 2023·08
 # 在这里修改版头主题色
 # 同时修改config.ts中的themeColor
-heroAlt: '#46f9fa'
+heroAlt: '#d54440'
 projects:
   - icon: read
     name: 期刊一览

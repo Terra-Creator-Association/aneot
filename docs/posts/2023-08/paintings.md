@@ -10,11 +10,37 @@ tag:
 
 order: -1
 ---
+
 <!-- more -->
+
+---
+
+![](./res/illustration/星极（liliyFox）.webp) {.centering}
+
+Artist: liliyFox
+
+---
+
+![](./res/illustration/独立插黑键白垩（枫雀）.webp) {.centering}
+
+Artist: 枫雀
+
+---
+
+![](./res/illustration/狼羊（煜灼灼）.webp) {.centering}
+
+Artist: 煜灼灼
+
+---
+
+![](./res/illustration/独立插（枫雀･ω･｀）.webp) {.centering}
+
+Artist: 枫雀･ω･｀)
 
 ---
 
 ![](./res/illustration/独立插（汤罐浣熊）.webp) {.centering}
 
 Artist: 汤罐浣熊
+
 <FakeAds />

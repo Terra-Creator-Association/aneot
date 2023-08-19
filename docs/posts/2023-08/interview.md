@@ -11,7 +11,9 @@ tag:
 order: -4
 ---
 
-{.textkai}
+
+![](./res/illustration/skland1.webp) {.centering}
+
 
 <!-- more -->
 
