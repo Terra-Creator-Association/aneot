@@ -11,10 +11,6 @@ tag:
 order: -4
 ---
 
-
-![](./res/illustration/skland1.webp) {.centering}
-
-
 <!-- more -->
 
 ## 自我介绍{.texthide}
