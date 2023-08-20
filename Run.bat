@@ -68,6 +68,9 @@
         ) ELSE (
             @GOTO ins
         )
+    ) ELSE If "%~2"=="install" (
+        @rem install dependencies
+        @GOTO ins
     ) ELSE If "%~2"=="clean" (
         @rem No use cache, clear start
         @GOTO cle
@@ -132,18 +135,20 @@ pnpm dlx pnpm@7 install
     @echo.
     @echo if you use in the cammand line, please add parameter cmd at first parameter, or it will open in default cammand line
     @echo default is dev build
-    @echo Example: LTS.bat cmd or lts cmd
+    @echo Example: run.bat cmd or run cmd
     @echo.
     @echo if you don't want open a new cammand line, don't forget first parameter cmd
+    @echo enable parameter install, install dependencies
+    @echo Example: run.bat install or run install
     @echo enable parameter clean, use vuepress clean up the cache
-    @echo Example: LTS.bat clean or lts clean
+    @echo Example: run.bat clean or run clean
     @echo enable parameter reset, clean up the cache and node_modules, and then install dependencies
-    @echo Example: LTS.bat reset or lts reset
+    @echo Example: run.bat reset or run reset
     @echo These order must exist folder node_modules
     @echo enable parameter delate, del all cache and dependencies
-    @echo Example: LTS.bat delate or lts delate
+    @echo Example: run.bat delate or run delate
     @echo enable parameter build, build the project
-    @echo Example: LTS.bat build or lts build
+    @echo Example: run.bat build or run build
     @echo enable parameter update, update vuepress
-    @echo Example: LTS.bat update or lts update
+    @echo Example: run.bat update or run update
     exit /b
