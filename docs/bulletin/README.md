@@ -14,4 +14,6 @@ order: 1
 
 ## [关于内容限制](/bulletin/access_limit.html) 2023-04-14
 
+## [关于收支](/bulletin/about_income_and_expenditure.html) 2023-09-01
+
 <eod />
