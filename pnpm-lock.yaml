@@ -11,7 +11,6 @@ specifiers:
   vuepress: 2.0.0-beta.60
   vuepress-plugin-alert: 0.0.5
   vuepress-plugin-comment2: 2.0.0-beta.177
-  vuepress-plugin-copyright2: 2.0.0-beta.177
   vuepress-plugin-pwa2: 2.0.0-beta.177
   vuepress-theme-hope: 2.0.0-beta.177
 
@@ -28,9 +27,8 @@ devDependencies:
   vue: 3.2.47
   vuepress: 2.0.0-beta.60_snvqa5y7zj4eyr5mp3ym37ho7q
   vuepress-plugin-comment2: 2.0.0-beta.177_e7jwb2ulu5orbkux7obq5onfau
-  vuepress-plugin-copyright2: 2.0.0-beta.177_e7jwb2ulu5orbkux7obq5onfau
   vuepress-plugin-pwa2: 2.0.0-beta.177_e7jwb2ulu5orbkux7obq5onfau
-  vuepress-theme-hope: 2.0.0-beta.177_wu4nhclpaqmqcxb5s37ctmllmm
+  vuepress-theme-hope: 2.0.0-beta.177_rjhcsvtgqgchlbnpysz676o5o4
 
 packages:
 
@@ -5821,7 +5819,7 @@ packages:
       - supports-color
     dev: true
 
-  /vuepress-theme-hope/2.0.0-beta.177_wu4nhclpaqmqcxb5s37ctmllmm:
+  /vuepress-theme-hope/2.0.0-beta.177_rjhcsvtgqgchlbnpysz676o5o4:
     resolution: {integrity: sha512-jPUBAO/lnyk6VhCqqufSV+v/OImMmIjH6AdiZ+A5SWHzetRfj/XX+FVFvgcpyWOVZxABTE9Jvjzrl/pObN7oiQ==}
     engines: {node: ^14.18.0 || >=16.0.0, npm: '>=8', pnpm: '>=7'}
     peerDependencies:
@@ -5829,7 +5827,6 @@ packages:
       sass-loader: ^13.2.0
       vuepress: 2.0.0-beta.60
       vuepress-plugin-comment2: 2.0.0-beta.177
-      vuepress-plugin-copyright2: 2.0.0-beta.177
       vuepress-plugin-pwa2: 2.0.0-beta.177
       vuepress-vite: 2.0.0-beta.60
       vuepress-webpack: 2.0.0-beta.60

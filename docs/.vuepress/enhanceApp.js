@@ -39,12 +39,8 @@ export default ({ router }) => {
 
     router.beforeEach((to, from, next) => {
       if (isOldBrowser()) {
-        if (confirm('你的浏览器版本可能过旧。是否要跳转到我们的兼容版网站以获取最佳体验？')) {
-          window.location.href = 'https://old.aneot.terrach.net' + to.fullPath;
-          return;
-        }
+        alarm('您的浏览器版本过旧，可能无法正常浏览本站。请升级您的浏览器。');
       }
-
         
         // console.log("切换路由", to.fullPath, from.fullPath);
         //触发百度的pv统计

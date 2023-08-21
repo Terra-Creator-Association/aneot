@@ -3,7 +3,6 @@ import theme from "./theme";
 import { searchPlugin } from "@vuepress/plugin-search";
 import { registerComponentsPlugin } from '@vuepress/plugin-register-components';
 import { pwaPlugin } from '@vuepress/plugin-pwa'
-import { copyrightPlugin } from "vuepress-plugin-copyright2";
 import { path } from '@vuepress/utils';
 
 export default defineUserConfig({
@@ -20,7 +19,7 @@ export default defineUserConfig({
   head: [
     ['link', { rel: 'icon', href: '/eod.png' }],
     ['link', { rel: 'manifest', href: '/manifest.json' }],
-    ['meta', { name: 'theme-color', content: '#46f9fa' }], // 主题色
+    ['meta', { name: 'theme-color', content: '#d54440' }], // 主题色
     ['meta', { name: 'apple-mobile-web-app-capable', content: 'yes' }],
     ['meta', { name: 'apple-mobile-web-app-status-bar-style', content: 'default' }],
     ['link', { rel: 'apple-touch-icon', href: '/icon/apple-touch-icon-152x152.png' }],
@@ -47,6 +46,19 @@ export default defineUserConfig({
       })();
       `
     ],
+    [      
+      'script',
+    {
+      src: '//instant.page/5.2.0',
+      type: 'module',
+      integrity: 'sha384-jnZyxPjiipYXnSU0ygqeac2q7CVYMbh84q0uHVRRxEtvFPiQYbXWUorga2aqZJ0z',
+    },
+    `
+      document.addEventListener('DOMContentLoaded', (event) => {
+        document.body.setAttribute('data-instant-allow-external-links', '');
+        document.body.setAttribute('data-instant-intensity', 'viewport');
+      });
+    `,],
   ],
 
   theme,
@@ -62,10 +74,6 @@ export default defineUserConfig({
       componentsDir: path.resolve(__dirname, "./components")
     }),
     pwaPlugin({
-    }),
-    copyrightPlugin({
-      global: true, // 全局启用
-      disableCopy: true, // 禁止复制
     }),
   ],
   alias: {

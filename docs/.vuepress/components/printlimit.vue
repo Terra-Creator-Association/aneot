@@ -14,7 +14,7 @@
   
          if (result) {
          // 点击确定时打开关于页面
-         window.open('/limit#关于网页', '_blank');
+         window.open('/bulletin/access_limit#关于网页', '_blank');
         }
 
       };

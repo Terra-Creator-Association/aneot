@@ -23,6 +23,7 @@ export default navbar([
       "2023-05/",
       "2023-06/",
       "2023-07/",
+      "2023-08/",
     ],
   },
   {
@@ -30,6 +31,7 @@ export default navbar([
     icon: "creative",
     prefix: "/",
     children: [
+      "bulletin",
       "description",
       "call",
       "intro",
