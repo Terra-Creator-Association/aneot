@@ -2,6 +2,8 @@
 icon: info
 title: 关于内容限制
 date: 2023-04-14
+category:
+  - 公告
 tag:
   - 关于
 article: false

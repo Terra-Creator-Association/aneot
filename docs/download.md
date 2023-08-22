@@ -101,6 +101,12 @@ order: -5
 |:-:|:-:|:-:|:-:|:-:|
 | Vol.14 2023年07月号 | [点击下载](https://ghproxy.com/https://raw.githubusercontent.com/TCA-Arknights/aneot-pdf/main/回归线Vol.14_23-07.pdf) | [点击下载](https://cdn.jsdelivr.net/gh/TCA-Arknights/aneot-pdf@main/回归线Vol.14_23-07.pdf) | [点击下载](https://raw.githubusercontent.com/TCA-Arknights/aneot-pdf/main/回归线Vol.14_23-07.pdf) | [密码:202307](https://wwwe.lanzouq.com/b042clg7i) |
 
+## Vol.15 2023年08月号
+
+| 文件名称 | 下载地址1 | 下载地址2 | 下载地址3 | 网盘下载 |
+|:-:|:-:|:-:|:-:|:-:|
+| Vol.15 2023年08月号 | [点击下载](https://ghproxy.com/https://raw.githubusercontent.com/TCA-Arknights/aneot-pdf/main/回归线Vol.15_23-08.pdf) | [点击下载](https://cdn.jsdelivr.net/gh/TCA-Arknights/aneot-pdf@main/回归线Vol.15_23-08.pdf) | [点击下载](https://raw.githubusercontent.com/TCA-Arknights/aneot-pdf/main/回归线Vol.15_23-08.pdf) | [密码:202308](https://wwwe.lanzouq.com/b042j4heb) |
+
 ## OneDrive（备用）
 
 [OneDrive网盘下载](https://yigeyigeren-my.sharepoint.com/:f:/g/personal/repository_yigeyigeren_onmicrosoft_com/EpMepFtuY5ZJoIW3GPsL9ysBDhEjf9cze3R2tiXWgK4Ejg?e=gsJYPz)
