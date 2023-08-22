@@ -2,6 +2,8 @@
 icon: info
 title: 关于收支
 date: 2023-09-01
+category:
+  - 公告
 tag:
   - 关于
 article: false

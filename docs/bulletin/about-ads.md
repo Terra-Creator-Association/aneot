@@ -2,6 +2,8 @@
 icon: info
 title: 关于虚拟广告
 date: 2023-08-07
+category:
+  - 公告
 tag:
   - 关于
 article: false
