@@ -105,7 +105,7 @@ order: -5
 
 | 文件名称 | 下载地址1 | 下载地址2 | 下载地址3 | 网盘下载 |
 |:-:|:-:|:-:|:-:|:-:|
-| Vol.15 2023年08月号 | [点击下载](https://ghproxy.com/https://raw.githubusercontent.com/TCA-Arknights/aneot-pdf/main/回归线Vol.15_23-08.pdf) | [点击下载](https://cdn.jsdelivr.net/gh/TCA-Arknights/aneot-pdf@main/回归线Vol.15_23-08.pdf) | [点击下载](https://raw.githubusercontent.com/TCA-Arknights/aneot-pdf/main/回归线Vol.15_23-08.pdf) | [密码:202308](https://put.url.here) |
+| Vol.15 2023年08月号 | [点击下载](https://ghproxy.com/https://raw.githubusercontent.com/TCA-Arknights/aneot-pdf/main/回归线Vol.15_23-08.pdf) | [点击下载](https://cdn.jsdelivr.net/gh/TCA-Arknights/aneot-pdf@main/回归线Vol.15_23-08.pdf) | [点击下载](https://raw.githubusercontent.com/TCA-Arknights/aneot-pdf/main/回归线Vol.15_23-08.pdf) | [密码:202308](https://wwwe.lanzouq.com/b042j4heb) |
 
 ## OneDrive（备用）
 
