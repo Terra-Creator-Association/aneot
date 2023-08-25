@@ -22,6 +22,6 @@ title: Vol. 15 - 2023 年 08 月号
 - **干员秘闻**
   - [干员秘闻：第十期](ope_sec.html)
 - **创作者访谈**
-  - [特别专访：柞木不朽](interview1.html)
+  - [特别专访：柞木不朽](interview.html)
 
 <FakeAds />
