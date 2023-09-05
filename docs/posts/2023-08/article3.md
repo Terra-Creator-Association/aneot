@@ -1,7 +1,7 @@
 ---
 icon: article
 title: 永生者死后会前往英灵殿吗？
-author: 
+author: aleph的法则
 date: 2023-08-12
 category:
   - 此地之外
