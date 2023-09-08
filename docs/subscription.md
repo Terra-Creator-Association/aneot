@@ -24,7 +24,3 @@ index: false
 - [泰拉通讯枢纽](https://terrach.net/author/14519)
 - [微博](https://weibo.com/u/7414874331)
 - 森空岛（泰拉创作者联合会）
-
-## 其他订阅
-
-- 正在施工...
