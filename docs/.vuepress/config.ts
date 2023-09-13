@@ -23,7 +23,7 @@ export default defineUserConfig({
     ['meta', { name: 'apple-mobile-web-app-capable', content: 'yes' }],
     ['meta', { name: 'apple-mobile-web-app-status-bar-style', content: 'default' }],
     ['link', { rel: 'apple-touch-icon', href: '/icon/apple-touch-icon-152x152.png' }],
-    ['link', { rel: 'mask-icon', href: '/eod144.svg', color: '#FFFFFF' }],
+    ['link', { rel: 'mask-icon', href: '/eod.svg', color: '#FFFFFF' }],
     ['meta', { name: 'msapplication-TileImage', content: '/icon/msapplication-icon-144x144.png' }],
     ['meta', { name: 'msapplication-TileColor', content: '#46f9fa' }], // 磁贴颜色
     [
