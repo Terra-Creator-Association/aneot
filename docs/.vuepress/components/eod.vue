@@ -9,4 +9,12 @@ export default {
 </script>
 
 <style>
+.no-interact {
+    user-drag: none;
+    -webkit-user-drag: none;
+    -khtml-user-drag: none;
+    -moz-user-drag: none;
+    pointer-events: none;
+    user-select: none;
+}
 </style>
