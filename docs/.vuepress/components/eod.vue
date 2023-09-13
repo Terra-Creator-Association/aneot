@@ -9,6 +9,16 @@ export default {
 </script>
 
 <style>
+.eod-image {
+  fill: #000000;
+}
+
+@media (prefers-color-scheme: dark) {
+  .eod-image {
+    fill: #FFFFFF;
+  }
+}
+  
 .no-interact {
     user-drag: none;
     -webkit-user-drag: none;
