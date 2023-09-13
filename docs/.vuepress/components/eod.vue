@@ -1,5 +1,5 @@
 <template>
-<span><img src="/eod.png" /></span>
+<span><img src="/eod.svg" width="13" height="13"/></span>
 </template>
 
 <script>
