@@ -1,5 +1,5 @@
 <template>
-<span><img src="/eod.png" /></span>
+<span><img src="/eod_auto.svg" width="13" height="13"/></span>
 </template>
 
 <script>
@@ -9,4 +9,12 @@ export default {
 </script>
 
 <style>
+.no-interact {
+    user-drag: none;
+    -webkit-user-drag: none;
+    -khtml-user-drag: none;
+    -moz-user-drag: none;
+    pointer-events: none;
+    user-select: none;
+}
 </style>
