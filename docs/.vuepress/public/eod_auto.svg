@@ -1,15 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 680 610">
     <defs>
         <style>
-            .no-interact {
-                user-drag: none;
-                -webkit-user-drag: none;
-                -khtml-user-drag: none;
-                -moz-user-drag: none;
-                pointer-events: none;
-                user-select: none;
-            }
-            
             .eod-image {
                 fill: #000000;
             }
