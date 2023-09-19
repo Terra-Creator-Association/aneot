@@ -1,4 +1,4 @@
 此处可能展示游戏调查问卷
 非常简单
-/bulletin/about-ads.html
+/bulletin/about_ads.html
 https://www.bilibili.com/video/BV1Fr4y1w7Ls/?t=04m58s

@@ -1,6 +1,6 @@
 ---
 icon: info
-title: 关于收支
+title: 关于开放捐助渠道
 date: 2023-09-01
 category:
   - 公告
