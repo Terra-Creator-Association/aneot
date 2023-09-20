@@ -1,7 +1,7 @@
 ---
 icon: repo
 article: false
-title: Vol. 16 - 2023 年 9 月号
+title: Vol. 16 - 2023 年 9 月号：遗于身后之物
 ---
 
 ![](./res/cover.webp) {.centering}
