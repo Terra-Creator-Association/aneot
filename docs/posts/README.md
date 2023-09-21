@@ -12,15 +12,15 @@ dir:
 
 <big>
 
-**2023-08: Vol. 15 2023 年 08 月号** {.centering}
+**2023-09: Vol. 16 2023 年 09 月号** {.centering}
 
 </big>
 
 <div style="display: flex; justify-content: center;">
-  <img src="./2023-08/res/cover.webp" alt="Cover Image" style="max-width: 60%;">
+  <img src="./2023-09/res/cover.webp" alt="Cover Image" style="max-width: 60%;">
 </div>
 
-[**在线阅读**](./2023-08/README.md) {.centering}
+[**在线阅读**](./2023-09/README.md) {.centering}
 
 [**前往下载页面**](/download.md) {.centering}
 
@@ -38,7 +38,7 @@ dir:
 |![](./2023-05/res/cover.webp)|![](./2023-06/res/cover.webp)|![](./2023-07/res/cover.webp)|
 |[2023-05: Vol. 12 <br>2023 年 05 月号：IF](2023-05/)| [2023-06: Vol. 13 <br>2023 年 06 月号](2023-06/) | [2023-07: Vol. 14 <br>2023 年 07 月号：人生的路口](2023-07/) |
 |![](./2023-08/res/cover.webp)| ![](./2023-09/res/cover.webp) | No INFO |
-|[2023-08: Vol. 15 <br>2023 年 08 月号](2023-08/)| 2023-09: Vol. 16 <br>2023 年 09 月号：遗于身后之物 | 敬请期待 |
+|[2023-08: Vol. 15 <br>2023 年 08 月号](2023-08/)| [2023-09: Vol. 16 <br>2023 年 09 月号：遗于身后之物](2023-09/) | 敬请期待 |
 
 没有看见更新？[点击这里以刷新网页缓存](/forceflash) <eod />
 <FakeAds />
