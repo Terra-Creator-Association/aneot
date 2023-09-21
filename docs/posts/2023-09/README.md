@@ -19,6 +19,7 @@ title: Vol. 16 - 2023 年 9 月号：遗于身后之物
   - [武魂](article5.html)
 - **画中秘境**
   - [漫画一则](comic1.html)
+  - [漫画一则](comic2.html)
   - [画中秘境](paintings.html)
 - **干员秘闻**
   - [干员秘闻：第十一期](ope_sec.html)
