@@ -12,15 +12,15 @@ dir:
 
 <big>
 
-**2023-08: Vol. 15 2023 年 08 月号** {.centering}
+**2023-09: Vol. 16 2023 年 09 月号** {.centering}
 
 </big>
 
 <div style="display: flex; justify-content: center;">
-  <img src="./2023-08/res/cover.webp" alt="Cover Image" style="max-width: 60%;">
+  <img src="./2023-09/res/cover.webp" alt="Cover Image" style="max-width: 60%;">
 </div>
 
-[**在线阅读**](./2023-08/README.md) {.centering}
+[**在线阅读**](./2023-09/README.md) {.centering}
 
 [**前往下载页面**](/download.md) {.centering}
 
