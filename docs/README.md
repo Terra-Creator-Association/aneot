@@ -6,10 +6,10 @@ title: 主页
 heroText: 回归线
 heroFullScreen: false
 # 在这里修改抬头画师
-tagline: © oY柚柚Yo 2023·08
+tagline: © niche 2023·09
 # 在这里修改版头主题色
-# 同时修改config.ts中的themeColor
-heroAlt: '#d54440'
+# 同时修改config.ts和mainfest中的themeColor
+heroAlt: '#e82c36'
 projects:
   - icon: read
     name: 期刊一览
@@ -18,8 +18,8 @@ projects:
 
   - icon: article
     name: 最新一期
-    desc: Vol.15 2023-08
-    link: posts/2023-08
+    desc: Vol.16 2023-09
+    link: posts/2023-09
 
   - icon: cache
     name: 下载 PDF
