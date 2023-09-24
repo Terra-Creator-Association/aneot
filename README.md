@@ -12,7 +12,9 @@ If you would like to join us,
 
 Please use the email address [TCA_doc@163.com](mailto:TCA_doc@163.com) Contact us.
 
-*Note that for security reasons we do not accept submissions from non-collaborators*
+***Please note that for security reasons, submissions from non-collaborators need to be approved and names may not appear on the website and document contributions bylines(Only show on Github)***
+
+*If you want to be involved in this project on a <b>long-term and stable basis</b>, and get bylines for contributions to the website and documents, we recommend applying to us for membership.*
 
 ## About copyright
 

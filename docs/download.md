@@ -13,109 +13,121 @@ order: -5
 
 ## Vol.Special 优秀作品集
 
-| 文件名称 | 下载地址1 | 下载地址2 | 下载地址3 | 网盘下载 |
-|:-:|:-:|:-:|:-:|:-:|
-| Vol.Special 优秀作品集 | [点击下载](https://ghproxy.com/https://raw.githubusercontent.com/TCA-Arknights/aneot-pdf/main/回归线Vol.Special_22-05.pdf) | [点击下载](https://cdn.jsdelivr.net/gh/TCA-Arknights/aneot-pdf@main/回归线Vol.Special_22-05.pdf) | [点击下载](https://raw.githubusercontent.com/TCA-Arknights/aneot-pdf/main/回归线Vol.Special_22-05.pdf) | [密码:hyfn](https://wwb.lanzouf.com/b011miqxc) |
+| 文件名称 | 下载地址1 | 下载地址2 | 下载地址3 | 下载地址4 | 网盘下载 |
+|:-:|:-:|:-:|:-:|:-:|:-:|
+| Vol.Special 优秀作品集 | [点击下载](https://ghproxy.com/https://raw.githubusercontent.com/TCA-Arknights/aneot-pdf/main/回归线Vol.Special_22-05.pdf) | [点击下载](https://cdn.jsdelivr.net/gh/TCA-Arknights/aneot-pdf@main/回归线Vol.Special_22-05.pdf) | [点击下载](https://raw.kgithub.com/TCA-Arknights/aneot-pdf/main/回归线Vol.Special_22-05.pdf) | [点击下载](https://raw.githubusercontent.com/TCA-Arknights/aneot-pdf/main/回归线Vol.Special_22-05.pdf) | [密码:hyfn](https://wwb.lanzouf.com/b011miqxc) |
 
 ## Vol.01 2022年06月号
 
-| 文件名称 | 下载地址1 | 下载地址2 | 下载地址3 | 网盘下载 |
-|:-:|:-:|:-:|:-:|:-:|
-| Vol.01 2022年06月号 | [点击下载](https://ghproxy.com/https://raw.githubusercontent.com/TCA-Arknights/aneot-pdf/main/回归线Vol.01_22-06.pdf) | [点击下载](https://cdn.jsdelivr.net/gh/TCA-Arknights/aneot-pdf@main/回归线Vol.01_22-06.pdf) | [点击下载](https://raw.githubusercontent.com/TCA-Arknights/aneot-pdf/main/回归线Vol.01_22-06.pdf) | [密码:hyfn](https://wwb.lanzouf.com/b011miqxc) |
+| 文件名称 | 下载地址1 | 下载地址2 | 下载地址3 | 下载地址4 | 网盘下载 |
+|:-:|:-:|:-:|:-:|:-:|:-:|
+| Vol.01 2022年06月号 | [点击下载](https://ghproxy.com/https://raw.githubusercontent.com/TCA-Arknights/aneot-pdf/main/回归线Vol.01_22-06.pdf) | [点击下载](https://cdn.jsdelivr.net/gh/TCA-Arknights/aneot-pdf@main/回归线Vol.01_22-06.pdf) | [点击下载](https://raw.kgithub.com/TCA-Arknights/aneot-pdf/main/回归线Vol.01_22-06.pdf) | [点击下载](https://raw.githubusercontent.com/TCA-Arknights/aneot-pdf/main/回归线Vol.01_22-06.pdf) | [密码:hyfn](https://wwb.lanzouf.com/b011miqxc) |
 
 ## Vol.02 2022年07月号
 
-| 文件名称 | 下载地址1 | 下载地址2 | 下载地址3 | 网盘下载 |
-|:-:|:-:|:-:|:-:|:-:|
-| Vol.02 2022年07月号 | [点击下载](https://ghproxy.com/https://raw.githubusercontent.com/TCA-Arknights/aneot-pdf/main/回归线Vol.02_22-07.pdf) | [点击下载](https://cdn.jsdelivr.net/gh/TCA-Arknights/aneot-pdf@main/回归线Vol.02_22-07.pdf) | [点击下载](https://raw.githubusercontent.com/TCA-Arknights/aneot-pdf/main/回归线Vol.02_22-07.pdf) | [密码:bj05](https://wwb.lanzouf.com/b011u6cne) |
+| 文件名称 | 下载地址1 | 下载地址2 | 下载地址3 | 下载地址4 | 网盘下载 |
+|:-:|:-:|:-:|:-:|:-:|:-:|
+| Vol.02 2022年07月号 | [点击下载](https://ghproxy.com/https://raw.githubusercontent.com/TCA-Arknights/aneot-pdf/main/回归线Vol.02_22-07.pdf) | [点击下载](https://cdn.jsdelivr.net/gh/TCA-Arknights/aneot-pdf@main/回归线Vol.02_22-07.pdf) | [点击下载](https://raw.kgithub.com/TCA-Arknights/aneot-pdf/main/回归线Vol.02_22-07.pdf) | [点击下载](https://raw.githubusercontent.com/TCA-Arknights/aneot-pdf/main/回归线Vol.02_22-07.pdf) | [密码:bj05](https://wwb.lanzouf.com/b011u6cne) |
 
 ## Vol.03 2022年08月号
 
-| 文件名称 | 下载地址1 | 下载地址2 | 下载地址3 | 网盘下载 |
-|:-:|:-:|:-:|:-:|:-:|
-| Vol.03 2022年08月号 | [点击下载](https://ghproxy.com/https://raw.githubusercontent.com/TCA-Arknightsaneot-pdf/main/回归线Vol.03_22-08.pdf) | [点击下载](https://cdn.jsdelivr.net/gh/TCA-Arknights/aneot-pdf@main/回归线Vol.03_22-08.pdf) | [点击下载](https://raw.githubusercontent.com/TCA-Arknights/aneot-pdf/main/回归线Vol.03_22-08.pdf) | [密码:42tz](https://wwb.lanzouy.com/b011ya7gf) |
+| 文件名称 | 下载地址1 | 下载地址2 | 下载地址3 | 下载地址4 | 网盘下载 |
+|:-:|:-:|:-:|:-:|:-:|:-:|
+| Vol.03 2022年08月号 | [点击下载](https://ghproxy.com/https://raw.githubusercontent.com/TCA-Arknightsaneot-pdf/main/回归线Vol.03_22-08.pdf) | [点击下载](https://cdn.jsdelivr.net/gh/TCA-Arknights/aneot-pdf@main/回归线Vol.03_22-08.pdf) | [点击下载](https://raw.kgithub.com/TCA-Arknightsaneot-pdf/main/回归线Vol.03_22-08.pdf) | [点击下载](https://raw.githubusercontent.com/TCA-Arknights/aneot-pdf/main/回归线Vol.03_22-08.pdf) | [密码:42tz](https://wwb.lanzouy.com/b011ya7gf) |
 
 ## Vol.04 2022年09月号
 
-| 文件名称 | 下载地址1 | 下载地址2 | 下载地址3 | 网盘下载 |
-|:-:|:-:|:-:|:-:|:-:|
-| Vol.04 2022年09月号 | [点击下载](https://ghproxy.com/https://raw.githubusercontent.com/TCA-Arknights/aneot-pdf/main/回归线Vol.04_22-09.pdf) | [点击下载](https://cdn.jsdelivr.net/gh/TCA-Arknights/aneot-pdf@main/回归线Vol.04_22-09.pdf) | [点击下载](https://raw.githubusercontent.com/TCA-Arknights/aneot-pdf/main/回归线Vol.04_22-09.pdf) | [密码:9a3c](https://wwb.lanzoue.com/b0121q8la) |
+| 文件名称 | 下载地址1 | 下载地址2 | 下载地址3 | 下载地址4 | 网盘下载 |
+|:-:|:-:|:-:|:-:|:-:|:-:|
+| Vol.04 2022年09月号 | [点击下载](https://ghproxy.com/https://raw.githubusercontent.com/TCA-Arknights/aneot-pdf/main/回归线Vol.04_22-09.pdf) | [点击下载](https://cdn.jsdelivr.net/gh/TCA-Arknights/aneot-pdf@main/回归线Vol.04_22-09.pdf) | [点击下载](https://raw.kgithub.com/TCA-Arknights/aneot-pdf/main/回归线Vol.04_22-09.pdf) | [点击下载](https://raw.githubusercontent.com/TCA-Arknights/aneot-pdf/main/回归线Vol.04_22-09.pdf) | [密码:9a3c](https://wwb.lanzoue.com/b0121q8la) |
 
 ## Vol.05 2022年10月号
 
-| 文件名称 | 下载地址1 | 下载地址2 | 下载地址3 | 网盘下载 |
-|:-:|:-:|:-:|:-:|:-:|
-| Vol.05 2022年10月号 | [点击下载](https://ghproxy.com/https://raw.githubusercontent.com/TCA-Arknights/aneot-pdf/main/回归线Vol.05_22-10.pdf) | [点击下载](https://cdn.jsdelivr.net/gh/TCA-Arknights/aneot-pdf@main/回归线Vol.05_22-10.pdf) | [点击下载](https://raw.githubusercontent.com/TCA-Arknights/aneot-pdf/main/回归线Vol.05_22-10.pdf) | [密码:cz0b](https://aneot.lanzoum.com/b01267mji) |
+| 文件名称 | 下载地址1 | 下载地址2 | 下载地址3 | 下载地址4 | 网盘下载 |
+|:-:|:-:|:-:|:-:|:-:|:-:|
+| Vol.05 2022年10月号 | [点击下载](https://ghproxy.com/https://raw.githubusercontent.com/TCA-Arknights/aneot-pdf/main/回归线Vol.05_22-10.pdf) | [点击下载](https://cdn.jsdelivr.net/gh/TCA-Arknights/aneot-pdf@main/回归线Vol.05_22-10.pdf) | [点击下载](https://raw.kgithub.com/TCA-Arknights/aneot-pdf/main/回归线Vol.05_22-10.pdf) | [点击下载](https://raw.githubusercontent.com/TCA-Arknights/aneot-pdf/main/回归线Vol.05_22-10.pdf) | [密码:cz0b](https://aneot.lanzoum.com/b01267mji) |
 
 ## Vol.06 2022年11月号
 
-| 文件名称 | 下载地址1 | 下载地址2 | 下载地址3 | 网盘下载 |
-|:-:|:-:|:-:|:-:|:-:|
-| Vol.06 2022年11月号 | [点击下载](https://ghproxy.com/https://raw.githubusercontent.com/TCA-Arknights/aneot-pdf/main/回归线Vol.06_22-11.pdf) | [点击下载](https://cdn.jsdelivr.net/gh/TCA-Arknights/aneot-pdf@main/回归线Vol.06_22-11.pdf) | [点击下载](https://raw.githubusercontent.com/TCA-Arknights/aneot-pdf/main/回归线Vol.06_22-11.pdf) | [密码:5jy8](https://aneot.lanzoue.com/b012bjyib) |
+| 文件名称 | 下载地址1 | 下载地址2 | 下载地址3 | 下载地址4 | 网盘下载 |
+|:-:|:-:|:-:|:-:|:-:|:-:|
+| Vol.06 2022年11月号 | [点击下载](https://ghproxy.com/https://raw.githubusercontent.com/TCA-Arknights/aneot-pdf/main/回归线Vol.06_22-11.pdf) | [点击下载](https://cdn.jsdelivr.net/gh/TCA-Arknights/aneot-pdf@main/回归线Vol.06_22-11.pdf) | [点击下载](https://raw.kgithub.com/TCA-Arknights/aneot-pdf/main/回归线Vol.06_22-11.pdf) | [点击下载](https://raw.githubusercontent.com/TCA-Arknights/aneot-pdf/main/回归线Vol.06_22-11.pdf) | [密码:5jy8](https://aneot.lanzoue.com/b012bjyib) |
 
 ## Vol.07 2022年12月号
 
-| 文件名称 | 下载地址1 | 下载地址2 | 下载地址3 | 网盘下载 |
-|:-:|:-:|:-:|:-:|:-:|
-| Vol.07 2022年12月号 | [点击下载](https://ghproxy.com/https://raw.githubusercontent.com/TCA-Arknights/aneot-pdf/main/回归线Vol.07_22-12.pdf) | [点击下载](https://cdn.jsdelivr.net/gh/TCA-Arknights/aneot-pdf@main/回归线Vol.07_22-12.pdf) | [点击下载](https://raw.githubusercontent.com/TCA-Arknights/aneot-pdf/main/回归线Vol.07_22-12.pdf) | [密码:202212](https://wwwe.lanzoue.com/b041kqqmf) |
+| 文件名称 | 下载地址1 | 下载地址2 | 下载地址3 | 下载地址4 | 网盘下载 |
+|:-:|:-:|:-:|:-:|:-:|:-:|
+| Vol.07 2022年12月号 | [点击下载](https://ghproxy.com/https://raw.githubusercontent.com/TCA-Arknights/aneot-pdf/main/回归线Vol.07_22-12.pdf) | [点击下载](https://cdn.jsdelivr.net/gh/TCA-Arknights/aneot-pdf@main/回归线Vol.07_22-12.pdf) | [点击下载](https://raw.kgithub.com/TCA-Arknights/aneot-pdf/main/回归线Vol.07_22-12.pdf) | [点击下载](https://raw.githubusercontent.com/TCA-Arknights/aneot-pdf/main/回归线Vol.07_22-12.pdf) | [密码:202212](https://wwwe.lanzoue.com/b041kqqmf) |
 
 ## Vol.08 2023年01月号
 
-| 文件名称 | 下载地址1 | 下载地址2 | 下载地址3 | 网盘下载 |
-|:-:|:-:|:-:|:-:|:-:|
-| Vol.08 2023年01月号 | [点击下载](https://ghproxy.com/https://raw.githubusercontent.com/TCA-Arknights/aneot-pdf/main/回归线Vol.08_23-01.pdf) | [点击下载](https://cdn.jsdelivr.net/gh/TCA-Arknights/aneot-pdf@main/回归线Vol.08_23-01.pdf) | [点击下载](https://raw.githubusercontent.com/TCA-Arknights/aneot-pdf/main/回归线Vol.08_23-01.pdf) | [密码:202301](https://wwwe.lanzoum.com/b041o7uuh) |
+| 文件名称 | 下载地址1 | 下载地址2 | 下载地址3 | 下载地址4 | 网盘下载 |
+|:-:|:-:|:-:|:-:|:-:|:-:|
+| Vol.08 2023年01月号 | [点击下载](https://ghproxy.com/https://raw.githubusercontent.com/TCA-Arknights/aneot-pdf/main/回归线Vol.08_23-01.pdf) | [点击下载](https://cdn.jsdelivr.net/gh/TCA-Arknights/aneot-pdf@main/回归线Vol.08_23-01.pdf) | [点击下载](https://raw.kgithub.com/TCA-Arknights/aneot-pdf/main/回归线Vol.08_23-01.pdf) | [点击下载](https://raw.githubusercontent.com/TCA-Arknights/aneot-pdf/main/回归线Vol.08_23-01.pdf) | [密码:202301](https://wwwe.lanzoum.com/b041o7uuh) |
 
 ## Vol.09 2023年02月号
 
-| 文件名称 | 下载地址1 | 下载地址2 | 下载地址3 | 网盘下载 |
-|:-:|:-:|:-:|:-:|:-:|
-| Vol.09 2023年02月号 | [点击下载](https://ghproxy.com/https://raw.githubusercontent.com/TCA-Arknights/aneot-pdf/main/回归线Vol.09_23-02.pdf) | [点击下载](https://cdn.jsdelivr.net/gh/TCA-Arknights/aneot-pdf@main/回归线Vol.09_23-02.pdf) | [点击下载](https://raw.githubusercontent.com/TCA-Arknights/aneot-pdf/main/回归线Vol.09_23-02.pdf) | [密码:202302](https://wwwe.lanzoum.com/b041ss1tc) |
+| 文件名称 | 下载地址1 | 下载地址2 | 下载地址3 | 下载地址4 | 网盘下载 |
+|:-:|:-:|:-:|:-:|:-:|:-:|
+| Vol.09 2023年02月号 | [点击下载](https://ghproxy.com/https://raw.githubusercontent.com/TCA-Arknights/aneot-pdf/main/回归线Vol.09_23-02.pdf) | [点击下载](https://cdn.jsdelivr.net/gh/TCA-Arknights/aneot-pdf@main/回归线Vol.09_23-02.pdf) | [点击下载](https://raw.kgithub.com/TCA-Arknights/aneot-pdf/main/回归线Vol.09_23-02.pdf) | [点击下载](https://raw.githubusercontent.com/TCA-Arknights/aneot-pdf/main/回归线Vol.09_23-02.pdf) | [密码:202302](https://wwwe.lanzoum.com/b041ss1tc) |
 
 ## Vol.10 2023年03月号
 
-| 文件名称 | 下载地址1 | 下载地址2 | 下载地址3 | 网盘下载 |
-|:-:|:-:|:-:|:-:|:-:|
-| Vol.10 2023年03月号 | [点击下载](https://ghproxy.com/https://raw.githubusercontent.com/TCA-Arknights/aneot-pdf/main/回归线Vol.10_23-03.pdf) | [点击下载](https://cdn.jsdelivr.net/gh/TCA-Arknights/aneot-pdf@main/回归线Vol.10_23-03.pdf) | [点击下载](https://raw.githubusercontent.com/TCA-Arknights/aneot-pdf/main/回归线Vol.10_23-03.pdf) | [密码:202303](https://wwwe.lanzoum.com/b041wtjri) |
+| 文件名称 | 下载地址1 | 下载地址2 | 下载地址3 | 下载地址4 | 网盘下载 |
+|:-:|:-:|:-:|:-:|:-:|:-:|
+| Vol.10 2023年03月号 | [点击下载](https://ghproxy.com/https://raw.githubusercontent.com/TCA-Arknights/aneot-pdf/main/回归线Vol.10_23-03.pdf) | [点击下载](https://cdn.jsdelivr.net/gh/TCA-Arknights/aneot-pdf@main/回归线Vol.10_23-03.pdf) | [点击下载](https://raw.kgithub.com/TCA-Arknights/aneot-pdf/main/回归线Vol.10_23-03.pdf) | [点击下载](https://raw.githubusercontent.com/TCA-Arknights/aneot-pdf/main/回归线Vol.10_23-03.pdf) | [密码:202303](https://wwwe.lanzoum.com/b041wtjri) |
 
 ## Vol.11 2023年04月号 ***本期因版权原因禁止打印，敬请谅解***
 
-| 文件名称 | 下载地址1 | 下载地址2 | 下载地址3 | 网盘下载 |
-|:-:|:-:|:-:|:-:|:-:|
-| Vol.11 2023年04月号 | [点击下载](https://ghproxy.com/https://raw.githubusercontent.com/TCA-Arknights/aneot-pdf/main/回归线Vol.11_23-04.pdf) | [点击下载](https://cdn.jsdelivr.net/gh/TCA-Arknights/aneot-pdf@main/回归线Vol.10_23-03.pdf) | [点击下载](https://raw.githubusercontent.com/TCA-Arknights/aneot-pdf/main/回归线Vol.11_23-04.pdf) | [密码:202304](https://wwwe.lanzoum.com/b04225s7e)|
+| 文件名称 | 下载地址1 | 下载地址2 | 下载地址3 | 下载地址4 | 网盘下载 |
+|:-:|:-:|:-:|:-:|:-:|:-:|
+| Vol.11 2023年04月号 | [点击下载](https://ghproxy.com/https://raw.githubusercontent.com/TCA-Arknights/aneot-pdf/main/回归线Vol.11_23-04.pdf) | [点击下载](https://cdn.jsdelivr.net/gh/TCA-Arknights/aneot-pdf@main/回归线Vol.10_23-03.pdf) | [点击下载](https://raw.kgithub.com/TCA-Arknights/aneot-pdf/main/回归线Vol.11_23-04.pdf) | [点击下载](https://raw.githubusercontent.com/TCA-Arknights/aneot-pdf/main/回归线Vol.11_23-04.pdf) | [密码:202304](https://wwwe.lanzoum.com/b04225s7e)|
 
 ## Vol.12 2023年05月号
 
-| 文件名称 | 下载地址1 | 下载地址2 | 下载地址3 | 网盘下载 |
-|:-:|:-:|:-:|:-:|:-:|
-| Vol.12 2023年05月号 | [点击下载](https://ghproxy.com/https://raw.githubusercontent.com/TCA-Arknights/aneot-pdf/main/回归线Vol.12_23-05.pdf) | [点击下载](https://cdn.jsdelivr.net/gh/TCA-Arknights/aneot-pdf@main/回归线Vol.12_23-05.pdf) | [点击下载](https://raw.githubusercontent.com/TCA-Arknights/aneot-pdf/main/回归线Vol.12_23-05.pdf) | [密码:202305](https://wwwe.lanzoum.com/b04257hvc) |
+| 文件名称 | 下载地址1 | 下载地址2 | 下载地址3 | 下载地址4 | 网盘下载 |
+|:-:|:-:|:-:|:-:|:-:|:-:|
+| Vol.12 2023年05月号 | [点击下载](https://ghproxy.com/https://raw.githubusercontent.com/TCA-Arknights/aneot-pdf/main/回归线Vol.12_23-05.pdf) | [点击下载](https://cdn.jsdelivr.net/gh/TCA-Arknights/aneot-pdf@main/回归线Vol.12_23-05.pdf) | [点击下载](https://raw.kgithub.com/TCA-Arknights/aneot-pdf/main/回归线Vol.12_23-05.pdf) | [点击下载](https://raw.githubusercontent.com/TCA-Arknights/aneot-pdf/main/回归线Vol.12_23-05.pdf) | [密码:202305](https://wwwe.lanzoum.com/b04257hvc) |
 
 ## Vol.13 2023年06月号
 
-| 文件名称 | 下载地址1 | 下载地址2 | 下载地址3 | 网盘下载 |
-|:-:|:-:|:-:|:-:|:-:|
-| Vol.13 2023年06月号 | [点击下载](https://ghproxy.com/https://raw.githubusercontent.com/TCA-Arknights/aneot-pdf/main/回归线Vol.13_23-06.pdf) | [点击下载](https://cdn.jsdelivr.net/gh/TCA-Arknights/aneot-pdf@main/回归线Vol.13_23-06.pdf) | [点击下载](https://raw.githubusercontent.com/TCA-Arknights/aneot-pdf/main/回归线Vol.13_23-06.pdf) | [密码:202306](https://wwwe.lanzoum.com/b04294jih) |
+| 文件名称 | 下载地址1 | 下载地址2 | 下载地址3 | 下载地址4 | 网盘下载 |
+|:-:|:-:|:-:|:-:|:-:|:-:|
+| Vol.13 2023年06月号 | [点击下载](https://ghproxy.com/https://raw.githubusercontent.com/TCA-Arknights/aneot-pdf/main/回归线Vol.13_23-06.pdf) | [点击下载](https://cdn.jsdelivr.net/gh/TCA-Arknights/aneot-pdf@main/回归线Vol.13_23-06.pdf) | [点击下载](https://raw.kgithub.com/TCA-Arknights/aneot-pdf/main/回归线Vol.13_23-06.pdf) | [点击下载](https://raw.githubusercontent.com/TCA-Arknights/aneot-pdf/main/回归线Vol.13_23-06.pdf) | [密码:202306](https://wwwe.lanzoum.com/b04294jih) |
 
 ## Vol.14 2023年07月号
 
-| 文件名称 | 下载地址1 | 下载地址2 | 下载地址3 | 网盘下载 |
-|:-:|:-:|:-:|:-:|:-:|
-| Vol.14 2023年07月号 | [点击下载](https://ghproxy.com/https://raw.githubusercontent.com/TCA-Arknights/aneot-pdf/main/回归线Vol.14_23-07.pdf) | [点击下载](https://cdn.jsdelivr.net/gh/TCA-Arknights/aneot-pdf@main/回归线Vol.14_23-07.pdf) | [点击下载](https://raw.githubusercontent.com/TCA-Arknights/aneot-pdf/main/回归线Vol.14_23-07.pdf) | [密码:202307](https://wwwe.lanzouq.com/b042clg7i) |
+| 文件名称 | 下载地址1 | 下载地址2 | 下载地址3 | 下载地址4 | 网盘下载 |
+|:-:|:-:|:-:|:-:|:-:|:-:|
+| Vol.14 2023年07月号 | [点击下载](https://ghproxy.com/https://raw.githubusercontent.com/TCA-Arknights/aneot-pdf/main/回归线Vol.14_23-07.pdf) | [点击下载](https://cdn.jsdelivr.net/gh/TCA-Arknights/aneot-pdf@main/回归线Vol.14_23-07.pdf) | [点击下载](https://raw.kgithub.com/TCA-Arknights/aneot-pdf/main/回归线Vol.14_23-07.pdf) | [点击下载](https://raw.githubusercontent.com/TCA-Arknights/aneot-pdf/main/回归线Vol.14_23-07.pdf) | [密码:202307](https://wwwe.lanzouq.com/b042clg7i) |
 
 ## Vol.15 2023年08月号
 
-| 文件名称 | 下载地址1 | 下载地址2 | 下载地址3 | 网盘下载 |
-|:-:|:-:|:-:|:-:|:-:|
-| Vol.15 2023年08月号 | [点击下载](https://ghproxy.com/https://raw.githubusercontent.com/TCA-Arknights/aneot-pdf/main/回归线Vol.15_23-08.pdf) | [点击下载](https://cdn.jsdelivr.net/gh/TCA-Arknights/aneot-pdf@main/回归线Vol.15_23-08.pdf) | [点击下载](https://raw.githubusercontent.com/TCA-Arknights/aneot-pdf/main/回归线Vol.15_23-08.pdf) | [密码:202308](https://wwwe.lanzouq.com/b042j4heb) |
+| 文件名称 | 下载地址1 | 下载地址2 | 下载地址3 | 下载地址4 | 网盘下载 |
+|:-:|:-:|:-:|:-:|:-:|:-:|
+| Vol.15 2023年08月号 | [点击下载](https://ghproxy.com/https://raw.githubusercontent.com/TCA-Arknights/aneot-pdf/main/回归线Vol.15_23-08.pdf) | [点击下载](https://cdn.jsdelivr.net/gh/TCA-Arknights/aneot-pdf@main/回归线Vol.15_23-08.pdf) | [点击下载](https://raw.kgithub.com/TCA-Arknights/aneot-pdf/main/回归线Vol.15_23-08.pdf) | [点击下载](https://raw.githubusercontent.com/TCA-Arknights/aneot-pdf/main/回归线Vol.15_23-08.pdf) | [密码:202308](https://wwwe.lanzouq.com/b042j4heb) |
 
-## OneDrive（备用）
+## Vol.16 2023年09月号
 
-[OneDrive网盘下载](https://yigeyigeren-my.sharepoint.com/:f:/g/personal/repository_yigeyigeren_onmicrosoft_com/EpMepFtuY5ZJoIW3GPsL9ysBDhEjf9cze3R2tiXWgK4Ejg?e=gsJYPz)
+| 文件名称 | 下载地址1 | 下载地址2 | 下载地址3 | 下载地址4 | 网盘下载 |
+|:-:|:-:|:-:|:-:|:-:|:-:|
+| Vol.16 2023年09月号 | [点击下载](https://ghproxy.com/https://raw.githubusercontent.com/TCA-Arknights/aneot-pdf/main/回归线Vol.16_23-09.pdf) | [点击下载](https://cdn.jsdelivr.net/gh/TCA-Arknights/aneot-pdf@main/回归线Vol.16_23-09.pdf) | [点击下载](https://raw.kgithub.com/TCA-Arknights/aneot-pdf/main/回归线Vol.16_23-09.pdf) | [点击下载](https://raw.githubusercontent.com/TCA-Arknights/aneot-pdf/main/回归线Vol.16_23-09.pdf) | [密码:202309](https://wwwe.lanzouq.com/b042rwsqf) |
+
+## OneDrive Business（备用）
+
+[OneDrive网盘下载](https://yigeyigeren-my.sharepoint.com/:f:/g/personal/repository_yigeyigeren_onmicrosoft_com/EvmjZtnHSqJBnIa4Be3869QB6luzp770_D137LCOkTd2TQ?e=R8Lr1T) 
+
+(Yige-Yigeren/Repository，由武乙凌薇提供)
 
 ---
 
-**下载地址1为ghproxy加速（推荐），下载地址2为jsdelivrcdn加速（备用），下载地址3为github下载（直连），网盘储存由蓝奏云提供，OneDrive使用企业版网盘**
+**下载地址1为ghproxy加速（推荐），下载地址2为jsdelivrcdn加速（备用），下载地址3为kgithub加速（备用），下载地址4为github下载（直连），网盘储存由蓝奏云提供，OneDrive使用E5企业版网盘**
 
-***在此感谢github提供的免费储存与下载服务和众多的开发者为爱发电提供的免费加速服务。***
+**四个下载地址均为直链下载，前三个推荐大陆用户使用，第四个推荐海外用户使用，两个网盘均为无需客户端无需登录不限速网盘**
+
+***在此感谢github提供的免费储存与下载服务、众多的开发者为爱发电提供的Github免费加速服务以及微软对于开发者提供的E5计划。***
+
+**如果您有更好的下载渠道，以及对下载页面的加强，可以通过[邮箱](mailto:TCA_doc@163.com)联系我们。**
 
 ---
 
