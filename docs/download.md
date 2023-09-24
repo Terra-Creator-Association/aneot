@@ -111,7 +111,7 @@ order: -5
 
 | 文件名称 | 下载地址1 | 下载地址2 | 下载地址3 | 下载地址4 | 网盘下载 |
 |:-:|:-:|:-:|:-:|:-:|:-:|
-| Vol.16 2023年09月号 | [点击下载](https://ghproxy.com/https://raw.githubusercontent.com/TCA-Arknights/aneot-pdf/main/回归线Vol.16_23-09.pdf) | [点击下载](https://cdn.jsdelivr.net/gh/TCA-Arknights/aneot-pdf@main/回归线Vol.16_23-09.pdf) | [点击下载](https://raw.kgithub.com/TCA-Arknights/aneot-pdf/main/回归线Vol.16_23-09.pdf) | [点击下载](https://raw.githubusercontent.com/TCA-Arknights/aneot-pdf/main/回归线Vol.16_23-09.pdf) | [密码:202309](https://wwwe.lanzouq.com/{idhere}/) |
+| Vol.16 2023年09月号 | [点击下载](https://ghproxy.com/https://raw.githubusercontent.com/TCA-Arknights/aneot-pdf/main/回归线Vol.16_23-09.pdf) | [点击下载](https://cdn.jsdelivr.net/gh/TCA-Arknights/aneot-pdf@main/回归线Vol.16_23-09.pdf) | [点击下载](https://raw.kgithub.com/TCA-Arknights/aneot-pdf/main/回归线Vol.16_23-09.pdf) | [点击下载](https://raw.githubusercontent.com/TCA-Arknights/aneot-pdf/main/回归线Vol.16_23-09.pdf) | [密码:202309](https://wwwe.lanzouq.com/b042rwsqf) |
 
 ## OneDrive Business（备用）
 
