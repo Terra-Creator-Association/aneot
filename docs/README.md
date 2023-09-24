@@ -18,8 +18,8 @@ projects:
 
   - icon: article
     name: 最新一期
-    desc: Vol.15 2023-08
-    link: posts/2023-08
+    desc: Vol.16 2023-09
+    link: posts/2023-09
 
   - icon: cache
     name: 下载 PDF

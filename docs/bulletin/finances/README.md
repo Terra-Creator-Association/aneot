@@ -11,4 +11,12 @@ order: 1
 
 您可以随时通过以下[收支明细链接](https://yigeyigeren-my.sharepoint.com/:x:/g/personal/repository_yigeyigeren_onmicrosoft_com/EUqkP98nqrBKtKAXTmRnHIIBRZU8DcTzZy8jlQMqt9a5HQ?e=VB6POT)查看我们的收支情况
 
+**注：**
+
+所有资助所得，将只用于回归线及TCA其他项目日常维护开销，所有收支都会进行公示。
+
+我们为了保护捐助者隐私，会对捐助者的名称进行部分隐藏。如果您不希望您的捐助信息被公开，请在捐助时备注。在捐助时的寄语，我们会在进行审查后，将其公开在网站上。
+
+您向TCA进行资助，即表明您赞同TCA的理念，并愿意以此种方式支持我们的发展。对于资助者我们十分感谢，但资助再多也没有权利以个人意志改变TCA的运营方针，以上希望您能谅解。
+
 <eod />
