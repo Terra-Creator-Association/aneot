@@ -1,7 +1,7 @@
 name: Bug report/反馈 Bug
 description: Report errors or unexpected behavior./反馈错误或异常行为。
 labels: [bug]
-title: "[Bug] Short description."
+title: "[Bug] (short description/在这里简短描述你发现的问题)"
 body:
   - type: markdown
     attributes:
@@ -9,9 +9,9 @@ body:
         Thanks for reporting issues!
         感谢汇报问题！
   - type: checkboxes
-    id: latest
+    id: verson
     attributes:
-      label: version you are using/你所使用的版本
+      label: alpha permissions?/内测用户？
       options:
         - label: I am a alpha user/我是内测用户
   - type: dropdown
@@ -27,16 +27,17 @@ body:
   - type: dropdown
     id: browsers
     attributes:
-      label: What browsers are you seeing the problem on?/你所使用的浏览器家族？
+      label: What browsers are you seeing the problem on?/你所使用的浏览器家族？(国产魔改浏览器请选择other）
       multiple: true
       options:
-        - chromium(eg. Chrome Edge, not include CN made browser)/（例如Chrome Edge，不包括所有国产魔改浏览器）
+        - chromium(eg. Chrome Edge Via)/（例如Chrome Edge Via）
         - Safari(ios)
+        - Firefox
         - Other
   - type: input
     attributes:
       label: Browser UA/浏览器UA
-      placeholder: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/xxx.xx Chrome/xxx.0.0.0 Safari/xxx.xx
+      placeholder: AppleWebKit/xxx.xx Chrome/xxx.x.x.x
   - type: textarea
     attributes:
       label: Pages/页面
