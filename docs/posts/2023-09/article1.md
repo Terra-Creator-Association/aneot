@@ -71,7 +71,7 @@ order: 2
 
 阿丽娜，我们想你。<eod />
 
-![](./res/illustration/沿卿(文章配图）.webp) {.centering}
+![](./res/illustration/沿卿（文章配图）.webp) {.centering}
 
 （责任编辑：广英和荣耀；网页排版：武乙凌薇；绘图：沿卿）
 
