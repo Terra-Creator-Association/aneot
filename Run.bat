@@ -145,8 +145,8 @@ pnpm dlx pnpm@7 install
     @echo enable parameter reset, clean up the cache and node_modules, and then install dependencies
     @echo Example: run.bat reset or run reset
     @echo These order must exist folder node_modules
-    @echo enable parameter delate, del all cache and dependencies
-    @echo Example: run.bat delate or run delate
+    @echo enable parameter delete, del all cache and dependencies
+    @echo Example: run.bat delate or run delete
     @echo enable parameter build, build the project
     @echo Example: run.bat build or run build
     @echo enable parameter update, update vuepress
