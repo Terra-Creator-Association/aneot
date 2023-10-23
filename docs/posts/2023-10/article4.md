@@ -1,12 +1,12 @@
 ---
 icon: article
-title: 披萨与玛格丽特
-author: RainyQuirrel
+title: 意夕
+author: 世界night
 date: 2023-10-22
 category:
   - 此地之外
 tag:
-  - RainyQuirrel
+  - 世界night
 
 order: 5
 ---
