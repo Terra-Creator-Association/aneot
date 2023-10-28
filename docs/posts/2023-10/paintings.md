@@ -12,6 +12,14 @@ order: -1
 ---
 <!-- more -->
 
-占位文本
+![](./res/illustration/独立插（君参）.webp) {.centering}
+
+Artist: 君参
+
+---
+
+![](./res/illustration/血魔大君_独立插（相落）.webp) {.centering}
+
+Artist: 相落
 
 <FakeAds />

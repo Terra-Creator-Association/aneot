@@ -11,7 +11,7 @@ title: Vol. 17 - 2023 年 10 月号
 - [**卷首语**](intro.html)
 - **见字如面 · 此地之外**
   - [山川故人](article1.html)
-  - [鸿雪-雪之所以是雪](article2.html)
+  - [雪之所以是雪](article2.html)
   - [弄假成真](article3.html)
   - [意夕](article4.html)
 - **见字如面 · 罗德岛日志**
