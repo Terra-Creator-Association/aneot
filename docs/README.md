@@ -9,7 +9,7 @@ heroFullScreen: false
 tagline: © 相落 2023·10
 # 在这里修改版头主题色
 # 同时修改config.ts和mainfest中的themeColor
-heroAlt: '#e5e1e0'
+heroAlt: '#e1dfe0'
 projects:
   - icon: read
     name: 期刊一览
