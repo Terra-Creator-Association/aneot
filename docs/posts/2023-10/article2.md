@@ -105,7 +105,7 @@ order: 3
 
 雪渐渐大起来，遮阳伞已然不足以遮蔽花园下的两人。
 
-![](./res/illustration/鸿雪文章配图（x穆可x）.webp) {style="float:right;max-width:60%;margin-left:1em"}
+![](./res/illustration/鸿雪文章配图（x穆可x）.webp) {style="float:right;max-width:35%;margin-left:1em"}
 
 “走吧，阿芙朵嘉，”老师站起来，将鲁珀的手捧起，好让她能握住赠予的钢笔，“我们一起去找答案，雪的答案，群星的答案，源石的答案……这片大地一切的一切的答案。然后，我们写下来。”
 
