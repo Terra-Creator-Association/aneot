@@ -6,10 +6,10 @@ title: 主页
 heroText: 回归线
 heroFullScreen: false
 # 在这里修改抬头画师
-tagline: © niche 2023·09
+tagline: © 相落 2023·10
 # 在这里修改版头主题色
 # 同时修改config.ts和mainfest中的themeColor
-heroAlt: '#e82c36'
+heroAlt: '#e1dfe0'
 projects:
   - icon: read
     name: 期刊一览
@@ -18,8 +18,8 @@ projects:
 
   - icon: article
     name: 最新一期
-    desc: Vol.16 2023-09
-    link: posts/2023-09
+    desc: Vol.17 2023-10
+    link: posts/2023-10
 
   - icon: cache
     name: 下载 PDF
