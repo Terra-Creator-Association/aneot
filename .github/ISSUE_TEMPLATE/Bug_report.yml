@@ -14,6 +14,11 @@ body:
       label: alpha permissions?/内测用户？
       options:
         - label: I am a alpha user/我是内测用户
+  - type: markdown
+    attributes:
+      value: |
+        These are some device information questions used to determine your operating environment. If your question is not a display and compatibility issue, you do not need to answer these options.
+        这是一些设备信息问题，用于确定您的运行环境，如果您的问题不是显示和兼容问题，可以不回答这些选项。
   - type: dropdown
     id: devices
     attributes:
@@ -38,6 +43,11 @@ body:
     attributes:
       label: Browser UA/浏览器UA
       placeholder: AppleWebKit/xxx.xx Chrome/xxx.x.x.x
+  - type: markdown
+    attributes:
+      value: |
+        These are necessary questions. Please describe in detail what happened and the expected behavior.
+        这些是必要的问题，请详细的描述问题发生的情况和预期的行为。
   - type: textarea
     attributes:
       label: Pages/页面
