@@ -17,7 +17,7 @@ dir:
 </big>
 
 <div style="display: flex; justify-content: center;">
-  <img src="./2023-09/res/cover.webp" alt="Cover Image" style="max-width: 60%;">
+  <img src="./2023-10/res/cover.webp" alt="Cover Image" style="max-width: 60%;">
 </div>
 
 [**在线阅读**](./2023-10/README.md) {.centering}
