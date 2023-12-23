@@ -14,8 +14,14 @@ order: -1
 
 ---
 
-![](./res/illustration/.webp) {.centering}
+![](./res/illustration/独立插（叁色）.webp) {.centering}
 
-Artist: 
+Artist: 叁色
+
+---
+
+![](./res/illustration/独立插（AKuuuu）.webp) {.centering}
+
+Artist: AKuuuu
 
 <FakeAds />
