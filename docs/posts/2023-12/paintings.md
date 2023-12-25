@@ -32,6 +32,12 @@ Artist: BU隆
 
 ---
 
+![](./res/illustration/迷失（YUce_07）.webp) {.centering}
+
+Artist: YUce_07
+
+---
+
 ![](./res/illustration/黑色的雪（YUce_07）.webp) {.centering}
 
 Artist: YUce_07
