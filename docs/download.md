@@ -119,6 +119,12 @@ order: -5
 |:-:|:-:|:-:|:-:|:-:|:-:|
 | Vol.17 2023年10月号 | [点击下载](https://ghproxy.com/https://raw.githubusercontent.com/TCA-Arknights/aneot/main/pdf/回归线Vol.17_23-10.pdf) | [点击下载](https://cdn.jsdelivr.net/gh/TCA-Arknights/aneot@main/pdf/回归线Vol.17_23-10.pdf) | [点击下载](https://raw.kgithub.com/TCA-Arknights/aneot/main/pdf/回归线Vol.17_23-10.pdf) | [点击下载](https://raw.githubusercontent.com/TCA-Arknights/aneot/main/pdf/回归线Vol.17_23-10.pdf) | [密码:202310](https://wwwe.lanzouq.com/b042wq1ef) |
 
+## Vol.18 2023年12月号
+
+| 文件名称 | 下载地址1 | 下载地址2 | 下载地址3 | 下载地址4 | 网盘下载 |
+|:-:|:-:|:-:|:-:|:-:|:-:|
+| Vol.18 2023年12月号 | [点击下载](https://ghproxy.com/https://raw.githubusercontent.com/TCA-Arknights/aneot/main/pdf/回归线Vol.18_23-12.pdf) | [点击下载](https://cdn.jsdelivr.net/gh/TCA-Arknights/aneot@main/pdf/回归线Vol.18_23-11.pdf) | [点击下载](https://raw.kgithub.com/TCA-Arknights/aneot/main/pdf/回归线Vol.18_23-12.pdf) | [点击下载](https://raw.githubusercontent.com/TCA-Arknights/aneot/main/pdf/回归线Vol.17_23-10.pdf) | [密码:202312](https://example.com) |
+
 ## OneDrive Business（备用）
 
 [OneDrive网盘下载](https://yigeyigeren-my.sharepoint.com/:f:/g/personal/repository_yigeyigeren_onmicrosoft_com/EvmjZtnHSqJBnIa4Be3869QB6luzp770_D137LCOkTd2TQ?e=R8Lr1T) 
