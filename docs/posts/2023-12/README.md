@@ -21,7 +21,5 @@ title: Vol. 18 - 2023 年 12 月号：结束
   - [画中秘境](paintings.html)
 - **干员秘闻**
   - [干员秘闻：第十三期](ope_sec.html)
-- **创作者访谈**
-  - [特别专访：粽子淞](interview.html)
 
 <FakeAds />
