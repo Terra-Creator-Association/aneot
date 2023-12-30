@@ -10,6 +10,7 @@ tag:
 
 order: 4
 ---
+## 一 {.centering}
 
 我见过这样的事。
 
