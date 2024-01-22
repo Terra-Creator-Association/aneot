@@ -14,4 +14,26 @@ order: -1
 
 ---
 
+![](./res/illustration/独立插（悬梁上）.webp.webp) {.centering}
+
+Artist: 悬梁上
+
+---
+
+![](./res/illustration/独立插（幺羽_yyaou）1.webp) {.centering}
+
+Artist: 幺羽_yyaou
+
+---
+
+![](./res/illustration/独立插（幺羽_yyaou）2.webp) {.centering}
+
+Artist: 幺羽_yyaou
+
+---
+
+![](./res/illustration/独立插（Chronial）.webp) {.centering}
+
+Artist: Chronial
+
 <FakeAds />
