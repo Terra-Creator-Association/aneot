@@ -36,11 +36,11 @@ const content = document.querySelector('.theme-hope-content');
 // 创建并添加打印限制提示
 const printBlock = document.createElement('div');
 printBlock.classList.add('print-block');
-printBlock.textContent = '对不起，您的打印请求已被网站管理员禁止。';
+printBlock.textContent = '对不起，您的打印请求已被网站策略禁止。';
 
 // 添加内容限制说明链接
 const link = document.createElement('a');
-link.setAttribute('href', '/limit.html#关于网页');
+link.setAttribute('href', '/bulletin/access_limit.html#关于网页');
 link.textContent = '《关于内容限制》';
 
 // 将链接添加到提示中
@@ -120,7 +120,7 @@ printBlock.appendChild(refreshButton);
             // 点击确定时重载页面
             window.location.reload();
             // 弹出限制网页
-            window.open('/bulletin/access_limit#关于网页', '_blank');
+            window.open('/bulletin/access_limit.html#关于网页', '_blank');
           }
         }
       });
