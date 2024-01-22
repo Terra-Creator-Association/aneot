@@ -1,7 +1,7 @@
 ---
 icon: repo
 article: false
-title: Vol. 19 - 2024 年 01 月号：结束
+title: Vol. 19 - 2024 年 01 月号
 ---
 
 ![](./res/cover.webp) {.centering}
