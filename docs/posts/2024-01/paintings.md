@@ -14,7 +14,7 @@ order: -1
 
 ---
 
-![](./res/illustration/独立插（悬梁上）.webp.webp) {.centering}
+![](./res/illustration/独立插（悬梁上）.webp) {.centering}
 
 Artist: 悬梁上
 
