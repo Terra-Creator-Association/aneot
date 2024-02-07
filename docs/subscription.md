@@ -8,14 +8,6 @@ article: false
 index: false
 ---
 
-## 订阅 Feed 流
-
-目前支持以下三种 Feed （什么是 [Feed 流](https://www.zhihu.com/question/20690652)）：
-
-- [Atom](atom.xml)
-- [JSON](feed.json)
-- [RSS (推荐)](rss.xml)
-
 ## 社交平台关注
 
 目前在以下四个平台有入驻
@@ -24,3 +16,5 @@ index: false
 - [泰拉通讯枢纽](https://terrach.net/author/14519)
 - [微博](https://weibo.com/u/7414874331)
 - 森空岛（泰拉创作者联合会）
+
+订阅 Feed 流暂不可用
