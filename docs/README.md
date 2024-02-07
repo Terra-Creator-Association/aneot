@@ -41,11 +41,6 @@ projects:
     desc: 基于PWA技术
     link: installpwa
 
-  - icon: api
-    name: 获取更新
-    desc: 清除本地缓存
-    link: forceflash
-
   - icon: write
     name: 联系我们
     desc: Contact Us
