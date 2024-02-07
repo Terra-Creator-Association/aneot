@@ -1,4 +1,10 @@
-# Another End of Terra (AnEot)
+# Version
+
+Project version: 1.3.0 Tales
+
+Data version: 24.01.0
+
+## Another End of Terra (AnEot)
 
 A fanmade literary journal based on mobile game *Arknights*.
 

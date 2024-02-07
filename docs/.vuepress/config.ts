@@ -1,9 +1,7 @@
 import { defineUserConfig } from "vuepress";
 import theme from "./theme";
-import { searchPlugin } from "@vuepress/plugin-search";
-import { registerComponentsPlugin } from '@vuepress/plugin-register-components';
-import { pwaPlugin } from '@vuepress/plugin-pwa'
-import { path } from '@vuepress/utils';
+import { path } from 'vuepress/utils';
+import { viteBundler } from '@vuepress/bundler-vite';
 
 export default defineUserConfig({
   lang: "zh-CN",
@@ -11,11 +9,10 @@ export default defineUserConfig({
   description: "Another End of Terra",
   base: "/",
   shouldPrefetch: false,
-  cachePic: true,
-  cacheHTML: true,
-  maxSize: 2048,
-  maxPicSize: 1024,
-  update: "force",
+  theme, // 使用主题
+  bundler: viteBundler({
+    // ... Vite 特定的配置 ...
+  }),
   head: [
     ['link', { rel: 'icon', href: '/eod.png' }],
     ['link', { rel: 'manifest', href: '/manifest.json' }],
@@ -60,26 +57,14 @@ export default defineUserConfig({
       });
     `,],
   ],
-
-  theme,
-
-  plugins: [
-    searchPlugin({
-      locales: {
-        "/": { placeholder: "搜索..." }
-      },
-      hotKeys: [''],
-    }),
-    registerComponentsPlugin({
-      componentsDir: path.resolve(__dirname, "./components")
-    }),
-    pwaPlugin({
-    }),
-  ],
+  plugins: [],
   alias: {
     '@theme-hope/modules/blog/components/BlogHero': path.resolve(
       __dirname,
       './components/MyBlogHero.vue'
     ),
   },
+},
+{
+  custom: true
 });
