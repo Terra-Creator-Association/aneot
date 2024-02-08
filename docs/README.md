@@ -19,7 +19,7 @@ projects:
   - icon: article
     name: 最新一期
     desc: Vol.19 2024-01
-    link: posts/2024-01
+    link: posts/2024-01/
 
   - icon: cache
     name: 下载 PDF
