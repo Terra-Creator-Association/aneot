@@ -36,4 +36,4 @@ We only grant you the right to save and share as is. At the same time you must c
 
 We reserve all rights not granted to you, and if you violate the above requirements, we will withdraw all rights granted to you.
 
-**Copyright © 2022-2023 All Rights Reserved**
+**Copyright © 2022-2024 All Rights Reserved**
