@@ -131,6 +131,7 @@ export default hopeTheme({
       atom: true,
       json: true,
       rss: true,
+      devServer: true, // 启用在开发环境中预览 Feed 的功能
     },
     pwa: {
       cachePic: true,
