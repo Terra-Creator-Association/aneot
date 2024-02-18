@@ -6,25 +6,20 @@ title: 主页
 heroText: 回归线
 heroFullScreen: false
 # 在这里修改抬头画师
-tagline: © 迷迭香
+tagline: © ALPHA VERSION 
 # 在这里修改版头主题色
-# 同时修改config.ts中的themeColor
-heroAlt: '#79a5c8'
+# 同时修改config.ts和mainfest中的themeColor
+heroAlt: '#31509d'
 projects:
   - icon: read
-    name: 卷首
-    desc: 欢迎阅读《回归线》
-    link: posts/2022-06/intro
-
-  - icon: book
     name: 期刊一览
-    desc: 期刊一览
+    desc: 欢迎阅读《回归线》
     link: posts/
 
   - icon: article
     name: 最新一期
-    desc: Vol.14 2023-07
-    link: posts/2023-07
+    desc: Vol.
+    link: posts/-/
 
   - icon: cache
     name: 下载 PDF
@@ -41,10 +36,10 @@ projects:
     desc: Feed
     link: subscription
 
-  - icon: api
-    name: 获取更新
-    desc: 清除本地缓存
-    link: forceflash
+  - icon: app
+    name: 安装回归线应用
+    desc: 基于PWA技术
+    link: installpwa
 
   - icon: write
     name: 联系我们
@@ -58,9 +53,3 @@ projects:
 
 footer: ""
 ---
-
-<!-- 这是一个博客主页。
-
-要使用此布局，你应该在页面前端设置 `layout: Blog` 和 `home: true`。
-
-相关配置文档请见 [博客主页](https://vuepress-theme-hope.github.io/v2/zh/guide/blog/home/)。 -->
