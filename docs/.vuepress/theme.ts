@@ -1,4 +1,5 @@
 import { hopeTheme } from "vuepress-theme-hope";
+import { Page } from "vuepress"
 import navbar from "./navbar";
 
 export default hopeTheme({
@@ -131,6 +132,8 @@ export default hopeTheme({
       atom: true,
       json: true,
       rss: true,
+      devServer: true, // 启用在开发环境中预览 Feed 的功能
+      sorter: pageSorter
     },
     pwa: {
       cachePic: true,
@@ -144,3 +147,18 @@ export default hopeTheme({
 {
   custom: true
 });
+
+function pageSorter(pageA: Page, pageB: Page) : number {
+  let dateA = Date.parse(pageA.date);
+  let dateB = Date.parse(pageB.date);
+  
+  if (dateA > dateB) {
+    return -1;
+  }
+  else if (dateA < dateB){
+    return 1;
+  }
+  else {
+    return 0;
+  }
+}
