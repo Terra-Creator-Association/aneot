@@ -2,7 +2,7 @@
 icon: article
 title: 巫王已死
 author: mutyuu
-date: 2024-01-21
+date: 2024-02-21
 category:
   - 此地之外
 tag:

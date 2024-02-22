@@ -2,7 +2,7 @@
 icon: article
 title: 并不正经的罗德岛中学
 author: 清篁有筠
-date: 2024-01-21
+date: 2024-02-21
 category:
   - 午间逸话
 tag:
