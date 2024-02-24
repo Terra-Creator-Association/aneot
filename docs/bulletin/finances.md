@@ -2,8 +2,6 @@
 icon: calculate
 title: 收支一览
 article: false
-dir:
-    order: 3
 order: 1
 ---
 

@@ -1,4 +1,5 @@
 import { hopeTheme } from "vuepress-theme-hope";
+import { Page } from "vuepress"
 import navbar from "./navbar";
 
 export default hopeTheme({
@@ -12,6 +13,12 @@ export default hopeTheme({
   iconAssets: "iconfont",
 
   logo: "/logo.svg",
+
+  // print button
+  print:false,
+
+  //enable full screen button
+  fullscreen: true,
 
   // repo: "Nemo1166/aneot",
   lastUpdated: false,
@@ -33,19 +40,11 @@ export default hopeTheme({
   完整协议请查看<a href="/statement.html" target="_blank"> 《回归线网站用户协议》</a>，使用本站即视为同意本协议。
   `,
 
-  copyright: "泰拉创作者联合会保留所有权利 | Copyright © 2022-2023 TCA. All rights reserved.",
+  copyright: "泰拉创作者联合会保留所有权利 | Copyright © 2022-2024 TCA. All rights reserved.",
 
   displayFooter: true,
 
   pageInfo: ["Author", "Original", "Date", "Category", "Tag", "Word", "ReadingTime", "PageView"],
-
-  themeColor: {
-    brown: "#a52a2a",
-    grey: "#656565",
-    blue: "#4c88f3",
-    coral: "#ff7f50",
-    purple: "#9400d3"
-  },
 
   blog: {
     description: "泰拉创作者联合会<br>泰拉通讯枢纽<br>《回归线》编辑部",
@@ -94,13 +93,28 @@ export default hopeTheme({
     blog: {
       excerptLength: 0,
     },
+    searchPro: {
+      // 这里放置 searchProPlugin 的配置
+      customFields: [
+        {
+          getter: (page) => page.frontmatter.author,
+          formatter: "作者：$content",
+        },
+        {
+          getter: (page) => page.frontmatter.category,
+          formatter: "分类：$content",
+        },
+        {
+          getter: (page) => page.frontmatter.tag,
+          formatter: "标签：$content",
+        },
+      ],
+    },
     comment: {
       provider: "Waline",
       serverURL: "https://waline.terrach.net/",
       requiredMeta: ['nick'],
       wordLimit: [5, 200],
-      imageUploader: false,
-      walineLocales: { "/": { admin: "打工人", placeholder: "发一条友善的评论" } },
       emoji: ["https://unpkg.com/@waline/emojis@1.0.1/tw-emoji","https://unpkg.com/@waline/emojis@1.0.1/bilibili"]
     },
     mdEnhance: {
@@ -118,11 +132,33 @@ export default hopeTheme({
       atom: true,
       json: true,
       rss: true,
+      devServer: true, // 启用在开发环境中预览 Feed 的功能
+      sorter: pageSorter
     },
     pwa: {
       cachePic: true,
-      maxPicSize: 512,
-      showInstall: true,
+      cacheHTML: true,
+      maxSize: 2048,
+      maxPicSize: 1024,
+      update: "force",
     },
   },
+},
+{
+  custom: true
 });
+
+function pageSorter(pageA: Page, pageB: Page) : number {
+  let dateA = Date.parse(pageA.date);
+  let dateB = Date.parse(pageB.date);
+  
+  if (dateA > dateB) {
+    return -1;
+  }
+  else if (dateA < dateB){
+    return 1;
+  }
+  else {
+    return 0;
+  }
+}

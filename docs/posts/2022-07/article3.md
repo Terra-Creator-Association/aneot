@@ -17,8 +17,6 @@ order: 4
 
 <!-- more -->
 
-<refresh />
-
 <style>
 .l_c1 {
     color: #c51e41;

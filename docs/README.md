@@ -6,10 +6,10 @@ title: 主页
 heroText: 回归线
 heroFullScreen: false
 # 在这里修改抬头画师
-tagline: © ZMG 2023·12
+tagline: © 阷軼 2024·01
 # 在这里修改版头主题色
 # 同时修改config.ts和mainfest中的themeColor
-heroAlt: '#f6f7f8'
+heroAlt: '#31509d'
 projects:
   - icon: read
     name: 期刊一览
@@ -18,8 +18,8 @@ projects:
 
   - icon: article
     name: 最新一期
-    desc: Vol.18 2023-12
-    link: posts/2023-12
+    desc: Vol.19 2024-02
+    link: posts/2024-02/
 
   - icon: cache
     name: 下载 PDF
@@ -40,11 +40,6 @@ projects:
     name: 安装回归线应用
     desc: 基于PWA技术
     link: installpwa
-
-  - icon: api
-    name: 获取更新
-    desc: 清除本地缓存
-    link: forceflash
 
   - icon: write
     name: 联系我们

@@ -1,10 +1,7 @@
 ---
 icon: news
-article: false
-index: false
 title: 公告栏
-dir:
-    order: 2
+article: false
 order: 1
 ---
 
@@ -12,8 +9,9 @@ order: 1
 
 ## 长期事务
 
- [资助]
+ [收支公开](/bulletin/finances.html)
 
+ [捐助者寄语](/bulletin/wishes.html)
 
 ## 运营策略变化
 

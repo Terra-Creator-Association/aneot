@@ -1,0 +1,19 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+      {
+        "name": "Run pnpm Command",
+        "type": "node",
+        "request": "launch",
+        "runtimeExecutable": "pnpm",
+        "runtimeArgs": ["run", "docs:clean-dev", "--open"],
+        "preLaunchTask": "clean-dev",
+        "problemMatcher": [],
+        "presentation": {
+          "reveal": "always",
+          "panel": "new"
+        }
+      }
+    ]
+  }
+  

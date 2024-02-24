@@ -1,6 +1,6 @@
 <script setup lang="ts">
 import { ref, onMounted, onBeforeUnmount, computed } from 'vue'
-import { usePageFrontmatter } from "@vuepress/client";
+import { usePageFrontmatter } from "vuepress/client";
 import { type ThemeBlogHomePageFrontmatter } from "./frontmatter/blogHome";
 
 const frontmatter = usePageFrontmatter<ThemeBlogHomePageFrontmatter>();
