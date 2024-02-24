@@ -1,0 +1,3 @@
+[submodule "program/AnEoTTool1"]
+	path = program/AnEoTTool1
+	url = https://github.com/TCA-Arknights/AnEoT.Tools
