@@ -147,7 +147,7 @@ order: -5
 
 | 文件名称 | 下载地址1 | 下载地址2 | 下载地址3 | 下载地址4 | 网盘下载 |
 |:-:|:-:|:-:|:-:|:-:|:-:|
-| Vol.19 2024年02月号 | [点击下载](https://cdn.jsdelivr.net/gh/TCA-Arknights/aneot@main/pdf/回归线Vol.19_24-02.pdf) | [点击下载](https://aneot.api.wuyilingwei.com/回归线Vol.19_24-02.pdf) | [点击下载](https://raw.kgithub.com/TCA-Arknights/aneot/main/pdf/回归线Vol.19_24-02.pdf) | [点击下载](https://raw.githubusercontent.com/TCA-Arknights/aneot/main/pdf/回归线Vol.19_24-02.pdf) | [密码:202402](https://example.com) |
+| Vol.19 2024年02月号 | [点击下载](https://cdn.jsdelivr.net/gh/TCA-Arknights/aneot@main/pdf/回归线Vol.19_24-02.pdf) | [点击下载](https://aneot.api.wuyilingwei.com/回归线Vol.19_24-02.pdf) | [点击下载](https://raw.kgithub.com/TCA-Arknights/aneot/main/pdf/回归线Vol.19_24-02.pdf) | [点击下载](https://raw.githubusercontent.com/TCA-Arknights/aneot/main/pdf/回归线Vol.19_24-02.pdf) | [密码:202402](https://wwm.lanzouq.com/b043awcvi) |
 
 ## OneDrive Business（备用）
 
