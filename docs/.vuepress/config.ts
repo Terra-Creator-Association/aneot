@@ -2,6 +2,7 @@ import { defineUserConfig } from "vuepress";
 import theme from "./theme";
 import { path } from 'vuepress/utils';
 import { viteBundler } from '@vuepress/bundler-vite';
+import { registerComponentsPlugin } from '@vuepress/plugin-register-components'
 
 export default defineUserConfig({
   lang: "zh-CN",
@@ -58,14 +59,15 @@ export default defineUserConfig({
       `,
     ],
   ],
-  plugins: [],
+  plugins: [
+    registerComponentsPlugin({
+      componentsDir: path.resolve(__dirname, './components'),
+    }),
+  ],
   alias: {
     '@theme-hope/modules/blog/components/BlogHero': path.resolve(
       __dirname,
       './components/MyBlogHero.vue'
     ),
   },
-},
-{
-  custom: true
 });
