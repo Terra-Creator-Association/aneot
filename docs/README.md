@@ -6,7 +6,7 @@ title: 主页
 heroText: 回归线
 heroFullScreen: false
 # 在这里修改抬头画师
-tagline: © 阷軼 2024·01
+tagline: © 阷軼 2024·02
 # 在这里修改版头主题色
 # 同时修改config.ts和mainfest中的themeColor
 heroAlt: '#31509d'
