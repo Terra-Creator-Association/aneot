@@ -22,7 +22,7 @@ dir:
 
 [**在线阅读**](./2024-02/README.md) {.centering}
 
-[**前往下载页面**](/download.md) {.centering}
+[**前往下载页面**](aneotpan.wuyilingwei.com) {.centering}
 
 ## **往期回顾** {.centering}
 
