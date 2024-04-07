@@ -17,12 +17,12 @@ dir:
 </big>
 
 <div style="display: flex; justify-content: center;">
-  <img src="./2024-02/res/cover.webp" alt="Cover Image" style="max-width: 60%;">
+  <img src="./2024-03/res/cover.webp" alt="Cover Image" style="max-width: 60%;">
 </div>
 
-[**在线阅读**](./2024-02/README.md) {.centering}
+### [**在线阅读**](./2024-02/README.md) {.centering}
 
-[**前往下载页面**](https://aneotpan.wuyilingwei.com) {.centering}
+### [**前往下载页面**](https://aneotpan.wuyilingwei.com) {.centering}
 
 ## **往期回顾** {.centering}
 
@@ -42,5 +42,4 @@ dir:
 |![](./2023-12/res/cover.webp)| ![](./2024-02/res/cover.webp) | ![](./2024-03/res/cover.webp) |
 |[2023-12: Vol. 18 <br>2023 年 12 月号：结束](2023-12/)| [2024-02: Vol. 19 <br>2024 年 02 月号](2024-02/) | [2024-03: Vol. 20 <br>2024 年 03 月号：希望的诸多表现形式](2024-03/) |
 
-没有看见更新？[点击这里以刷新网页缓存](/forceflash) <eod />
 <FakeAds />
