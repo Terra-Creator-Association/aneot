@@ -14,26 +14,20 @@ order: -1
 
 ---
 
-![](./res/illustration/独立插（悬梁上）.webp) {.centering}
+![](./res/illustration/独立插（Magic_Rabbit）.webp) {.centering}
 
-Artist: 悬梁上
-
----
-
-![](./res/illustration/独立插（幺羽_yyaou）1.webp) {.centering}
-
-Artist: 幺羽_yyaou
+Artist: Magic Rabbit
 
 ---
 
-![](./res/illustration/独立插（幺羽_yyaou）2.webp) {.centering}
+![](./res/illustration/独立插（虫离）.webp) {.centering}
 
-Artist: 幺羽_yyaou
+Artist: 虫离
 
 ---
 
-![](./res/illustration/独立插（Chronial）.webp) {.centering}
+![](./res/illustration/独立插（不是水果）.webp) {.centering}
 
-Artist: Chronial
+Artist: 不是水果
 
 <FakeAds />

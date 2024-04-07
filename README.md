@@ -1,8 +1,10 @@
 # Version
 
-Project version: 1.3.1 Tales
+Project version: 1.3.2 Tales
 
 Data version: 24.03.0
+
+Program version: 0.1.1(Alpha)
 
 ## Another End of Terra (AnEot)
 
