@@ -17,11 +17,6 @@ export default navbar([
     ],
   },
   {
-    text: "《回归线》PDF下载",
-    icon: "storage",
-    link: "https://aneotpan.wuyilingwei.com"
-  },
-  {
     text: "关于我们",
     icon: "creative",
     prefix: "/",
@@ -32,6 +27,11 @@ export default navbar([
       "intro",
       "statement",
     ]
+  },
+  {
+    text: "PDF下载",
+    icon: "storage",
+    link: "https://aneotpan.wuyilingwei.com"
   },
   {
     text: "泰讯枢纽",
