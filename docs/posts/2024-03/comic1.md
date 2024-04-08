@@ -14,12 +14,12 @@ order: -3
 
 <printban />
 
-![](./res/comic/comic1.webp) {.centering .no-interact}
+![](./res/comic/comic1.webp) {.centering .no-interact .no-print}
 
-![](./res/comic/comic2.webp) {.centering .no-interact}
+![](./res/comic/comic2.webp) {.centering .no-interact .no-print}
 
-![](./res/comic/comic3.webp) {.centering .no-interact}
+![](./res/comic/comic3.webp) {.centering .no-interact .no-print}
 
-![](./res/comic/comic4.webp) {.centering .no-interact}
+![](./res/comic/comic4.webp) {.centering .no-interact .no-print}
 
 <FakeAds />
