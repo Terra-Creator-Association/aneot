@@ -8,12 +8,12 @@ export default navbar([
     prefix: "/posts/",
     children: [
       "",
-      "2023-07/",
       "2023-08/",
       "2023-09/",
       "2023-10/",
       "2023-12/",
       "2024-02/",
+      "2024-03/",
     ],
   },
   {
@@ -27,6 +27,11 @@ export default navbar([
       "intro",
       "statement",
     ]
+  },
+  {
+    text: "PDF下载",
+    icon: "storage",
+    link: "https://aneotpan.wuyilingwei.com"
   },
   {
     text: "泰讯枢纽",
