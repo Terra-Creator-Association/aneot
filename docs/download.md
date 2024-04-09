@@ -7,6 +7,7 @@ tag:
   - 下载
 order: -5
 narbar: false
+sidebar: false
 article: false
 
 ---
