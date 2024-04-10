@@ -20,5 +20,7 @@ title: Vol. 20 - 2024 年 03 月号：希望的诸多表现形式
 - **画中秘境**
   - [漫画一则](comic1.html)
   - [画中秘境](paintings.html)
+- **干员秘闻**
+  - [干员秘闻：第十三期](ope_sec.html)
 
 <FakeAds />
