@@ -2,7 +2,7 @@
 
 Project version: 1.3.2 Tales
 
-Data version: 24.03.0
+Data version: 24.03.2
 
 Program version: 0.1.1(Alpha)
 
