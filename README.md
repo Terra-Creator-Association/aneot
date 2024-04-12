@@ -1,8 +1,8 @@
 # Version
 
-Project version: 1.3.2 Tales
+Project version: 1.3.3 Tales
 
-Data version: 24.03 (fix 3)
+Data version: 24.03 (fix 4)
 
 Program version: 0.1.1(Alpha)
 

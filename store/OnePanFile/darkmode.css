@@ -1,0 +1,1 @@
+@media (prefers-color-scheme: dark) { body { filter: invert(1); } .main-items-icon, #pdf-d, #readme-div a, #download_bu button { filter: invert(1); }  #readme-div a:hover, a:active{filter: invert(1); color: #0366d6;} #url:hover {border-bottom: 2px solid #FF872B;} #download_1 {background-color: black;}}
