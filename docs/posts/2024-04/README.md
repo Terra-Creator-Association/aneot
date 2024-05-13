@@ -1,7 +1,7 @@
 ---
 icon: repo
 article: false
-title: Vol. 20 - 2024 年 03 月号：希望的诸多表现形式
+title: Vol. 21 - 2024 年 04 月号
 ---
 
 ![](./res/cover.webp) {.centering}
@@ -19,6 +19,6 @@ title: Vol. 20 - 2024 年 03 月号：希望的诸多表现形式
   - [漫画一则](comic1.html)
   - [画中秘境](paintings.html)
 - **干员秘闻**
-  - [干员秘闻：第十五期](ope_sec.html)
+  - [干员秘闻：第十六期](ope_sec.html)
 
 <FakeAds />
