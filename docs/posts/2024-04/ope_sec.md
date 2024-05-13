@@ -124,6 +124,6 @@ D.阖家欢庆的时候，怎么会嫌好东西多呢，多买多开心嘛。
 
 *扫一扫二维码查看本期答案*
 
-[点我也可以哟ヾ(≧▽≦*)o](https://www.wjx.cn/vm/YtORwHI.aspx)<eod />
+[点我也可以哟ヾ(≧▽≦*)o](https://www.wjx.cn/vm/tUlqOU8.aspx)<eod />
 
 <FakeAds />
