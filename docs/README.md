@@ -6,10 +6,10 @@ title: 主页
 heroText: 回归线
 heroFullScreen: false
 # 在这里修改抬头画师
-tagline: © 織霧安轉 2024·04
+tagline: © 没有一半 2024·04
 # 在这里修改版头主题色
 # 同时修改config.ts和mainfest中的themeColor
-heroAlt: '#8fb728'
+heroAlt: '#fcb5c3'
 projects:
   - icon: read
     name: 期刊一览
