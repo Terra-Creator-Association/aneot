@@ -2,11 +2,11 @@
 
 Project version: 1.3 Tales
 
-Frame version: 1.3.4
+Frame version: 1.3.5
 
 Data version: 24.04f0
 
-Program version: 0.1.1 (Alpha)
+Program version: 0.2 (Beta)
 
 ## Another End of Terra (AnEot)
 
