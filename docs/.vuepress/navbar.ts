@@ -31,7 +31,7 @@ export default navbar([
   {
     text: "PDF下载",
     icon: "storage",
-    link: "https://aneotpan.wuyilingwei.com"
+    link: "https://pan.arktca.com"
   },
   {
     text: "泰讯枢纽",

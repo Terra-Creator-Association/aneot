@@ -44,7 +44,7 @@ projects:
   - icon: write
     name: 联系我们
     desc: Contact Us
-    link: mailto:TCA_doc@163.com
+    link: mailto:aneot@arktca.com
 
   # - icon: /logo.svg
   #   name: 自定义项目

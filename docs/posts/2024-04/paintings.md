@@ -14,4 +14,20 @@ order: -1
 
 ---
 
+![](./res/illustration/独立插（渔火不是疑惑）.webp) {.centering}
+
+Artist: 渔火不是疑惑
+
+---
+
+![](./res/illustration/独立插（流萤）.webp) {.centering}
+
+Artist: 流萤
+
+---
+
+![](./res/illustration/独立插（必死-bis）.webp) {.centering}
+
+Artist: 必死-bis
+
 <FakeAds />

@@ -4,7 +4,7 @@ title: 一场比试
 author: 帕
 date: 2024-04-30
 category:
-  - 此地之外
+  - 罗德岛日志
 tag:
   - 帕
 

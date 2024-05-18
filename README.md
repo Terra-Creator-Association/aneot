@@ -4,7 +4,7 @@ Project version: 1.3 Tales
 
 Frame version: 1.3.4
 
-Data version: 24.04 (fix 0)
+Data version: 24.04f0
 
 Program version: 0.1.1 (Alpha)
 
@@ -20,7 +20,7 @@ You can open a new issue.
 
 If you would like to join us,
 
-Please use the email address [TCA_doc@163.com](mailto:TCA_doc@163.com) Contact us.
+Please use the email address [aneot@arktca.com](mailto:aneot@arktca.com) Contact us.
 
 ***Please note that for security reasons, submissions from non-collaborators need to be approved and names may not appear on the website and document contributions bylines(Only show on Github)***
 
