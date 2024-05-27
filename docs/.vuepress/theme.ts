@@ -112,7 +112,7 @@ export default hopeTheme({
     },
     comment: {
       provider: "Waline",
-      serverURL: "https://cm.aneot.arktca.com/",
+      serverURL: "https://cmaneot.arktca.com/",
       requiredMeta: ['nick'],
       wordLimit: [5, 200],
       emoji: ["https://unpkg.com/@waline/emojis@1.0.1/tw-emoji","https://unpkg.com/@waline/emojis@1.0.1/bilibili"]
