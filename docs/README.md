@@ -24,7 +24,7 @@ projects:
   - icon: cache
     name: 下载 PDF
     desc: Download
-    link: https://aneotpan.wuyilingwei.com
+    link: https://pan.arktca.com
 
   - icon: proposal
     name: 征稿启事
