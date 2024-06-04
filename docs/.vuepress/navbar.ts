@@ -8,12 +8,12 @@ export default navbar([
     prefix: "/posts/",
     children: [
       "",
-      "2023-08/",
       "2023-09/",
       "2023-10/",
       "2023-12/",
       "2024-02/",
       "2024-03/",
+      "2024-04/",
     ],
   },
   {
@@ -31,7 +31,7 @@ export default navbar([
   {
     text: "PDF下载",
     icon: "storage",
-    link: "https://aneotpan.wuyilingwei.com"
+    link: "https://pan.arktca.com"
   },
   {
     text: "泰讯枢纽",

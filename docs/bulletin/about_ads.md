@@ -20,4 +20,4 @@ order: -2
 
 所有Web广告均会在对页面执行打印时自动隐藏。
 
-如您有相关意见/建议，可以通过[邮箱TCA_doc@163.com](mailto:TCA_doc@163.com)或 [B站私信](https://space.bilibili.com/1317574696/) 联系我们。<eod />
+如您有相关意见/建议，可以通过[邮箱aneot@arktca.com](mailto:aneot@arktca.com)或 [B站私信](https://space.bilibili.com/1317574696/) 联系我们。<eod />

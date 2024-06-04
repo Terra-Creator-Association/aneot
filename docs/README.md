@@ -6,10 +6,10 @@ title: 主页
 heroText: 回归线
 heroFullScreen: false
 # 在这里修改抬头画师
-tagline: © 織霧安轉 2024·03
+tagline: © 没有一半 2024·04
 # 在这里修改版头主题色
 # 同时修改config.ts和mainfest中的themeColor
-heroAlt: '#8fb728'
+heroAlt: '#fcb5c3'
 projects:
   - icon: read
     name: 期刊一览
@@ -18,13 +18,13 @@ projects:
 
   - icon: article
     name: 最新一期
-    desc: Vol.20 2024-03
-    link: posts/2024-03/
+    desc: Vol.21 2024-04
+    link: posts/2024-04/
 
   - icon: cache
     name: 下载 PDF
     desc: Download
-    link: https://aneotpan.wuyilingwei.com
+    link: https://pan.arktca.com
 
   - icon: proposal
     name: 征稿启事
@@ -44,7 +44,7 @@ projects:
   - icon: write
     name: 联系我们
     desc: Contact Us
-    link: mailto:TCA_doc@163.com
+    link: mailto:aneot@arktca.com
 
   # - icon: /logo.svg
   #   name: 自定义项目

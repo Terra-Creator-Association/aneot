@@ -18,7 +18,7 @@ order: -3
 + 插画、漫画
 + 其他《明日方舟》相关的图文作品
 
-如果您有相关作品，欢迎您通过我们的邮箱：[TCA_doc@163.com](mailto:TCA_doc@163.com)进行投稿。
+如果您有相关作品，欢迎您通过我们的邮箱：[aneot@arktca.com](mailto:aneot@arktca.com)进行投稿。
 
 投稿前，请先阅读[《回归线》投稿指南](guidance)，并按指南中的要求进行投稿。
 

@@ -56,7 +56,7 @@ export default hopeTheme({
       // Dingding: "https://example.com",
       // Discord: "https://example.com",
       // Dribbble: "https://example.com",
-      Email: "mailto:TCA_doc@163.com",
+      Email: "mailto:aneot@arktca.com",
       // Evernote: "https://example.com",
       // Facebook: "https://example.com",
       // Flipboard: "https://example.com",
@@ -112,7 +112,7 @@ export default hopeTheme({
     },
     comment: {
       provider: "Waline",
-      serverURL: "https://waline.terrach.net/",
+      serverURL: "https://cm-aneot.arktca.com/",
       requiredMeta: ['nick'],
       wordLimit: [5, 200],
       emoji: ["https://unpkg.com/@waline/emojis@1.0.1/tw-emoji","https://unpkg.com/@waline/emojis@1.0.1/bilibili"]
