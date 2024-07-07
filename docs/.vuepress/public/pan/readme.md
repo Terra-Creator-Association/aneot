@@ -1,6 +1,6 @@
 # 欢迎访问《回归线》PDF下载站
 
-[返回主站](https://aneot.terrach.net)
+[返回主站](https://aneot.arktca.com)
 
 ## 声明
 
