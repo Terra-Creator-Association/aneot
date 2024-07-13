@@ -29,7 +29,7 @@ export default navbar([
     ]
   },
   {
-    text: "PDF下载",
+    text: "下载",
     icon: "storage",
     link: "https://pan.arktca.com"
   },

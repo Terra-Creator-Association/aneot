@@ -22,7 +22,7 @@ projects:
     link: posts/2024-04/
 
   - icon: cache
-    name: 下载 PDF
+    name: 下载
     desc: Download
     link: https://pan.arktca.com
 
