@@ -3,7 +3,7 @@ import { Page } from "vuepress"
 import navbar from "./navbar";
 
 export default hopeTheme({
-  hostname: "https://aneot.terrach.net",
+  hostname: "https://aneot.arktca.com",
 
   author: {
     name: "Another End of Terra",

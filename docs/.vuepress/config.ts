@@ -17,13 +17,13 @@ export default defineUserConfig({
   head: [
     ['link', { rel: 'icon', href: '/eod.png' }],
     ['link', { rel: 'manifest', href: '/manifest.json' }],
-    ['meta', { name: 'theme-color', content: '#fcb5c3' }], // 主题色
+    ['meta', { name: 'theme-color', content: '#f4c6d3' }], // 主题色
     ['meta', { name: 'apple-mobile-web-app-capable', content: 'yes' }],
     ['meta', { name: 'apple-mobile-web-app-status-bar-style', content: 'default' }],
     ['link', { rel: 'apple-touch-icon', href: '/icon/apple-touch-icon-152x152.png' }],
     ['link', { rel: 'mask-icon', href: '/eod.svg', color: '#FFFFFF' }],
     ['meta', { name: 'msapplication-TileImage', content: '/icon/msapplication-icon-144x144.png' }],
-    ['meta', { name: 'msapplication-TileColor', content: '#fcb5c3' }], // 磁贴颜色
+    ['meta', { name: 'msapplication-TileColor', content: '#f4c6d3' }], // 磁贴颜色
     [
       "link",
       {
