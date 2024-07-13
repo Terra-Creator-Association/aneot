@@ -149,3 +149,9 @@
     font-size: 0;
     line-height: 0;
 }
+
+// 修复因以下更改而导致期刊列表不能正常显示的问题：
+// https://github.com/vuepress-theme-hope/vuepress-theme-hope/commit/6d853e6ec7cb45c054adab9da060d64d2b8a4bd1
+.theme-hope-content table img {
+    max-width: 100% !important;
+}
