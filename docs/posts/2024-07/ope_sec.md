@@ -92,6 +92,6 @@ D.如星空般深蓝：海嗣完成了对泰拉陆地的改造，使其再也没
 
 *扫一扫二维码查看本期答案*
 
-[点我也可以哟ヾ(≧▽≦*)o](https://www.wjx.cn/vm/tUlqOU8.aspx)<eod />
+[点我也可以哟ヾ(≧▽≦*)o](https://www.wjx.cn/vm/mwx7FSR.aspx)<eod />
 
 <FakeAds />

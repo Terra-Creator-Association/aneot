@@ -2,7 +2,7 @@
 icon: article
 title: 原野上，两个雷姆必拓人和一个失忆症患者
 author: 尹扬x
-date: 2024-07-12
+date: 2024-07-13
 category:
   - 罗德岛日志
 tag:

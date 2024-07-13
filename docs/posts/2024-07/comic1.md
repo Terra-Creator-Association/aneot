@@ -2,7 +2,7 @@
 icon: palette
 title: 漫画一则
 author: LOFTER@刀澄，大大滴好
-date: 2024-07-12
+date: 2024-07-13
 category:
   - 画中秘境
 tag:
