@@ -14,4 +14,22 @@ order: -1
 
 ---
 
+![](./res/illustration/LOFTER@Anne_Chris.webp) {.centering}
+
+Artist: LOFTER@Anne_Chris
+
+---
+
+![](./res/illustration/玫什么殊.webp) {.centering}
+
+Artist: 玫什么殊
+
+---
+
+![](./res/illustration/moontype.webp) {.centering}
+
+Artist: moontype
+
+---
+
 <FakeAds />
