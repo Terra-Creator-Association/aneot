@@ -12,15 +12,15 @@ dir:
 
 <big>
 
-**2024-04: Vol. 21 2024 年 04 月号** {.centering}
+**2024-07: Vol. 22 2024 年 07 月号** {.centering}
 
 </big>
 
 <div style="display: flex; justify-content: center;">
-  <img src="./2024-04/res/cover.webp" alt="Cover Image" style="max-width: 60%;">
+  <img src="./2024-07/res/cover.webp" alt="Cover Image" style="max-width: 60%;">
 </div>
 
-### [**在线阅读**](./2024-04/README.md) {.centering}
+### [**在线阅读**](./2024-07/README.md) {.centering}
 
 ### [**前往下载页面**](https://pan.arktca.com) {.centering}
 
@@ -41,7 +41,7 @@ dir:
 |[2023-08: Vol. 15 <br>2023 年 08 月号](2023-08/)| [2023-09: Vol. 16 <br>2023 年 09 月号：遗于身后之物](2023-09/) | [2023-10: Vol. 17 <br>2023 年 10 月号](2023-10/) |
 |![](./2023-12/res/cover.webp)| ![](./2024-02/res/cover.webp) | ![](./2024-03/res/cover.webp) |
 |[2023-12: Vol. 18 <br>2023 年 12 月号：结束](2023-12/)| [2024-02: Vol. 19 <br>2024 年 02 月号](2024-02/) | [2024-03: Vol. 20 <br>2024 年 03 月号：希望的诸多表现形式](2024-03/) |
-|![](./2024-04/res/cover.webp)| No Info | No Info |
-|[2024-04: Vol. 21 <br>2024 年 04 月号](2024-04/)| 敬请期待 | 敬请期待 |
+|![](./2024-04/res/cover.webp)|![](./2024-07/res/cover.webp)| No Info |
+|[2024-04: Vol. 21 <br>2024 年 04 月号](2024-04/)| [2024-07: Vol. 22 <br>2024 年 07 月号：一起走过的，和将要同行的](2024-07/) | 敬请期待 |
 
 <FakeAds />
