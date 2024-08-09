@@ -1,12 +1,12 @@
 ---
 icon: article
 title: 子不虚
-author: 万能De小黑
+author: 萬能De小黑
 date: 2022-08-22
 category:
   - 午间逸话
 tag:
-  - 万能De小黑
+  - 萬能De小黑
 
 order: 3
 ---
