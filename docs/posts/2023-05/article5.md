@@ -1,12 +1,12 @@
 ---
 icon: article
 title: 菩提
-author: 万能De小黑
+author: 萬能De小黑
 date: 2023-05-09
 category:
   - 此地之外
 tag:
-  - 万能De小黑
+  - 萬能De小黑
 
 order: 6
 ---
