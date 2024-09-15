@@ -26,7 +26,7 @@ dir:
 
 ## **往期回顾** {.centering}
 
-|![](./2022-05/res/cover.webp)|![](./2022-06//res/cover.webp)|![](./2022-07/res/cover.webp)|
+|![](./2022-05/res/cover.webp)|![](./2022-06/res/cover.webp)|![](./2022-07/res/cover.webp)|
 |:-:|:-:|:-:|
 |[2022-05: Vol. Special <br>绿华漫霜优秀作品集](2022-05/)|[2022-06: Vol.01 <br>2022 年 06 月号](2022-06/)|[2022-07: Vol.02 <br>2022 年 07 月号：相互的彼方](2022-07/)|
 |![](./2022-08/res/cover.webp)|![](./2022-09/res/cover.webp)|![](./2022-10/res/cover.webp)|
