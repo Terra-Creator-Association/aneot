@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 680 610">
+    <defs>
+        <style>
+            .eod-image {
+                fill: #000000;
+                background-color: #FFFFFF;
+            }
+			
+			@media (prefers-color-scheme: dark) {  
+                .eod-image {
+                    fill: #FFFFFF;
+                    background-color: #000000;
+                }
+            }
+        </style>
+    </defs>
+    <polygon class="eod-image" points="161.03 154.06 305.81 154.06 305.81 240.52 371.61 240.52 371.61 154.06 483.87 154.06 516.39 92.13 53.27 93.53 339.1 603.1 681.29 0 0 0 34.21 60.53 569.03 61.16 371.61 411.87 370.84 278.71 305.81 279.23 305.81 412.39 161.03 154.06"/>
+</svg>
