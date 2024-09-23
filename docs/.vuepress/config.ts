@@ -45,7 +45,7 @@ export default defineUserConfig({
       })();
       `
     ],
-    [      
+    [
       'script',
       {
         src: '//instant.page/5.2.0',
