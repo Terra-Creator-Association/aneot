@@ -15,6 +15,7 @@ export default defineUserConfig({
     // ... Vite 特定的配置 ...
   }),
   head: [
+    ['link', { rel: 'icon', href: '/favicon.svg', type: "image/svg+xml", sizes: "any" }],
     ['link', { rel: 'icon', href: '/eod.png' }],
     ['link', { rel: 'manifest', href: '/manifest.json' }],
     ['meta', { name: 'theme-color', content: '#f4c6d3' }], // 主题色
