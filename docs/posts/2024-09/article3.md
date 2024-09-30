@@ -1,13 +1,12 @@
 ---
-icon: community
-article: false
-title: 群星往事（节选）
+icon: article
+title: 群星往事
 author: 帕
 date: 2024-09-22
 category:
   - 此地之外
 tag:
-  - 聂绍
+  - 帕
 
 order: 4
 ---
@@ -308,6 +307,8 @@ order: 4
 
 “嗯哼？”
 
+![](./res/illustration/文章配图（WYDBZ）.webp) {.centering}
+
 “假如，Ama计划真的如我们所想，他们会替我们去见证新的未来，你会有所遗憾吗？”
 
 “怎么会呢，我们早已厌倦了时间，假如只是再陷入一段时间的黑暗，我承诺我会在那黑暗的尽头等你，我们一定会再次相遇。”
@@ -341,5 +342,7 @@ order: 4
 “……”
 
 “会乱动的礼物，我可不喜欢哦。”<eod />
+
+（责任编辑：瑶濯；网页排版：武乙凌薇；绘图：WYDBZ）
 
 <FakeAds />
