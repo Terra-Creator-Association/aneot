@@ -136,10 +136,8 @@ export default hopeTheme({
       sorter: pageSorter
     },
     pwa: {
-      cachePic: true,
       cacheHTML: true,
       maxSize: 2048,
-      maxPicSize: 1024,
       update: "force",
     },
   },
