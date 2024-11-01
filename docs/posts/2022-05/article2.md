@@ -1,12 +1,12 @@
 ---
 icon: article
 title: 作吾
-author: fx
+author: f（x）
 date: 2022-05-17
 category:
   - 此地之外
 tag:
-  - fx
+  - f（x）
   - 绿华漫霜
 
 order: 2
