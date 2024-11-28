@@ -144,7 +144,7 @@ export default hopeTheme({
 function pageSorter(pageA: Page, pageB: Page) : number {
   let dateA = Date.parse(pageA.date);
   let dateB = Date.parse(pageB.date);
-  
+
   if (dateA > dateB) {
     return -1;
   }
