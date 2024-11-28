@@ -11,22 +11,22 @@
     "upgrade": "pnpm dlx vp-update"
   },
   "devDependencies": {
-    "@vuepress/bundler-vite": "2.0.0-rc.15",
-    "@vuepress/plugin-comment": "2.0.0-rc.42",
-    "@vuepress/plugin-register-components": "2.0.0-rc.42",
-    "@vuepress/plugin-search": "2.0.0-rc.42",
-    "vue": "^3.5.1",
-    "vuepress": "2.0.0-rc.15",
-    "vuepress-plugin-search-pro": "2.0.0-rc.52",
-    "vuepress-theme-hope": "2.0.0-rc.52"
+    "@vuepress/bundler-vite": "2.0.0-rc.18",
+    "@vuepress/plugin-comment": "2.0.0-rc.61",
+    "@vuepress/plugin-register-components": "2.0.0-rc.54",
+    "@vuepress/plugin-search": "2.0.0-rc.61",
+    "vue": "^3.5.13",
+    "vuepress": "2.0.0-rc.18",
+    "vuepress-plugin-search-pro": "2.0.0-rc.59",
+    "vuepress-theme-hope": "2.0.0-rc.59"
   },
   "dependencies": {
-    "@vuepress/plugin-comment": "2.0.0-rc.42",
-    "@vuepress/plugin-feed": "2.0.0-rc.42",
-    "@vuepress/plugin-pwa": "2.0.0-rc.42",
+    "@vuepress/plugin-comment": "2.0.0-rc.61",
+    "@vuepress/plugin-feed": "2.0.0-rc.61",
+    "@vuepress/plugin-pwa": "2.0.0-rc.61",
     "@waline/client": "3.3.0",
     "markdown-it": "^14.1.0",
-    "vue-scriptx": "^0.2.5",
+    "vue-scriptx": "^0.2.7",
     "vuepress-plugin-alert": "0.0.5"
   }
 }
