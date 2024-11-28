@@ -1,4 +1,5 @@
 import requests
+import time
 
 def download_image(url, save_path, referer):
     # 设置请求头，包括Referer和User-Agent
@@ -21,9 +22,9 @@ def download_image(url, save_path, referer):
         print(f"Failed to download image. Status code: {response.status_code}")
 
 # 使用示例
-image_url = 'https://imglf3.lf127.net/img/fb95a1c8ac5ac50f/d05ibnFjVWlBMmJnMVpNOSsxYjhFdk5acTJLYnBxOElmRWVwMXpsVG1QZz0.jpg'
-save_path = 'downloaded_image2.jpg'
-referer = 'https://siri863465.lofter.com/'
+image_url = 'https://imglf6.lf127.net/img/7bd94e14b0e0c7fd/bThuanRzVjFtUXNvNHBHcjgrQkRXeHg0VE1GVHEzUCtuMml0aGI3UlhJZz0.jpg?imageView&thumbnail=1680x0&quality=96&stripmeta=0&type=jpg'
+save_path = time.strftime('%Y%m%d%H%M%S') + '.jpg'
+referer = 'https://xingyunguiji.lofter.com/'
 
 # 调用函数下载图片
 download_image(image_url, save_path, referer)
