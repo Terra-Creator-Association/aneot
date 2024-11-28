@@ -2,9 +2,9 @@
 
 Project version: 1.3 Tales
 
-Frame version: 1.3.5
+Frame version: 1.3.6
 
-Data version: 24.04f0
+Data version: 24.12f0
 
 Program version: 0.2 (Beta)
 
