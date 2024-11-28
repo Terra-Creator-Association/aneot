@@ -10,7 +10,7 @@ export default hopeTheme({
     url: "https://space.bilibili.com/1317574696/",
   },
 
-  iconAssets: "iconfont",
+  iconAssets: "iconify",
 
   logo: "/logo.svg",
 
