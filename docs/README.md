@@ -6,7 +6,7 @@ title: 主页
 heroText: 回归线
 heroFullScreen: false
 # 在这里修改抬头画师
-tagline: © 猫柱儿 2024·09
+tagline: © Vincent Willem Susie 2024·12
 # 在这里修改版头主题色
 # 同时修改config.ts和mainfest中的themeColor
 heroAlt: '#771b15'
@@ -18,8 +18,8 @@ projects:
 
   - icon: article
     name: 最新一期
-    desc: Vol.23 2024-09
-    link: posts/2024-09/
+    desc: Vol.24 2024-12
+    link: posts/2024-12/
 
   - icon: cache
     name: 下载
