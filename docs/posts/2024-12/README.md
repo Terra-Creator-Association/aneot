@@ -20,7 +20,7 @@ title: Vol. 24 - 2024 年 12 月号：从前有座巴别塔
 - **画中秘境**
   - [漫画一则](comic1.html)
   - [画中秘境](paintings.html)
-- **干员秘闻 !!!TBD!!!**
+- **干员秘闻**
   - [干员秘闻：第十九期](ope_sec.html)
 
 <FakeAds />
