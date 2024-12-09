@@ -84,7 +84,7 @@ ol {
 
 用户在提交评论时，即视为同意将其评论内容发送至 OpenAI 进行自动化审核。本站仅将评论内容用于审核目的，不会额外传递用户的其他个人信息（如 IP 地址、浏览器信息、邮箱等）至 OpenAI。
 
-如果用户对审核结果有疑问，可通过 [邮箱](mailto:aneot@arktca.com) 联系我们，我们将尽快核实并处理。
+如果用户对自动审核结果有疑问，可通过 [B站私信](https://space.bilibili.com/1317574696/) 或 [邮箱](mailto:aneot@arktca.com) 联系我们，我们将尽快核实并处理。
 
 如果您发现不当言论，请通过 [B站私信](https://space.bilibili.com/1317574696/) 或 [邮箱](mailto:aneot@arktca.com) 向我们举报，我们会尽快进行处理。
 
