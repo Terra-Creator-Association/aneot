@@ -12,7 +12,7 @@ title: Vol. 24 - 2024 年 12 月号：从前有座巴别塔
 - **见字如面 · 罗德岛日志**
   - [致特蕾西娅](article1.html)
   - [魔王之拥](article2.html)
-  - [特蕾西娅小姐](article3.html)
+  - [特蕾西娅小姐？](article3.html)
 - **见字如面 · 此地之外**
   - [星期日的胡萝卜派](article4.html)
   - [Thanks for the dance](article5.html)

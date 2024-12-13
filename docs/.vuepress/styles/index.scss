@@ -155,3 +155,9 @@
 .theme-hope-content table img {
     max-width: 100% !important;
 }
+
+// <eod /> 组件居右
+.eod-aright {
+    display: flex;
+    justify-content: right;
+}
