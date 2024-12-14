@@ -1,6 +1,6 @@
 ---
 icon: article
-title: 致特蕾西娅
+title: 致 特蕾西娅
 author: 幻灭
 date: 2024-12-03
 category:
