@@ -21,4 +21,6 @@ order: 1
 
  [关于开放捐助渠道](/bulletin/about_income_and_expenditure.html) 2023-09-01
 
-<eod />
+ [关于AI评论审核](/bulletin/about_comment_LLM.html) 2024-12-08
+
+感谢您对回归线的理解与支持<eod />

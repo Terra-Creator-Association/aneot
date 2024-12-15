@@ -29,3 +29,5 @@ order: -4
 如果用户对审核结果有疑问，可通过 [邮箱](mailto:aneot@arktca.com) 联系我们，我们将尽快核实并处理。
 
 本站有权对审核中判定为不当的评论内容采取删除、屏蔽或修改措施，并保留向相关部门举报的权利。<eod />
+
+本功能使用由Staff武乙凌薇维护的开源项目 [waline-plugin-llm-reviewer-next](https://github.com/wuyilingwei/waline-plugin-llm-reviewer-next) Newest，是开源项目 waline-plugin-llm-reviewer 的分支版本。
