@@ -10,7 +10,7 @@ export default hopeTheme({
     url: "https://space.bilibili.com/1317574696/",
   },
 
-  iconAssets: "iconfont",
+  iconAssets: "iconify",
 
   logo: "/logo.svg",
 
@@ -40,7 +40,7 @@ export default hopeTheme({
   完整协议请查看<a href="/statement.html" target="_blank"> 《回归线网站用户协议》</a>，使用本站即视为同意本协议。
   `,
 
-  copyright: "泰拉创作者联合会保留所有权利 | Copyright © 2022-2024 TCA. All rights reserved.",
+  copyright: "泰拉创作者联合会保留所有权利 | Copyright © 2022-2025 TCA. All rights reserved.",
 
   displayFooter: true,
 
@@ -135,11 +135,6 @@ export default hopeTheme({
       devServer: true, // 启用在开发环境中预览 Feed 的功能
       sorter: pageSorter
     },
-    pwa: {
-      cacheHTML: true,
-      maxSize: 2048,
-      update: "force",
-    },
   },
 },
 {
@@ -149,7 +144,7 @@ export default hopeTheme({
 function pageSorter(pageA: Page, pageB: Page) : number {
   let dateA = Date.parse(pageA.date);
   let dateB = Date.parse(pageB.date);
-  
+
   if (dateA > dateB) {
     return -1;
   }

@@ -2,9 +2,9 @@
 
 Project version: 1.3 Tales
 
-Frame version: 1.3.5
+Frame version: 1.3.6
 
-Data version: 24.04f0
+Data version: 24.12f0
 
 Program version: 0.2 (Beta)
 
@@ -40,4 +40,4 @@ We only grant you the right to save and share as is. At the same time you must c
 
 We reserve all rights not granted to you, and if you violate the above requirements, we will withdraw all rights granted to you.
 
-**Copyright © 2022-2024 All Rights Reserved**
+**Copyright © 2022-2025 All Rights Reserved**
