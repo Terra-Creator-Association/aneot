@@ -2,7 +2,7 @@
 icon: palette
 title: 漫画一则
 author: 修勾三三
-date: 2024-07-13
+date: 2024-12-03
 category:
   - 画中秘境
 tag:
