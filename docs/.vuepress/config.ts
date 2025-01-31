@@ -3,6 +3,7 @@ import theme from "./theme";
 import { path } from 'vuepress/utils';
 import { viteBundler } from '@vuepress/bundler-vite';
 import { registerComponentsPlugin } from '@vuepress/plugin-register-components'
+import { slimsearchPlugin } from '@vuepress/plugin-slimsearch'
 
 export default defineUserConfig({
   lang: "zh-CN",
@@ -49,6 +50,9 @@ export default defineUserConfig({
   plugins: [
     registerComponentsPlugin({
       componentsDir: path.resolve(__dirname, './components'),
+    }),
+    slimsearchPlugin({
+      // 原Pro配置项
     }),
   ],
   alias: {

@@ -27,6 +27,10 @@ export default hopeTheme({
 
   docsDir: "docs",
 
+  markdown: {
+    attrs: true,
+  },
+
   // navbar
   navbar: navbar,
 
@@ -92,23 +96,6 @@ export default hopeTheme({
   plugins: {
     blog: {
       excerptLength: 0,
-    },
-    searchPro: {
-      // 这里放置 searchProPlugin 的配置
-      customFields: [
-        {
-          getter: (page) => page.frontmatter.author,
-          formatter: "作者：$content",
-        },
-        {
-          getter: (page) => page.frontmatter.category,
-          formatter: "分类：$content",
-        },
-        {
-          getter: (page) => page.frontmatter.tag,
-          formatter: "标签：$content",
-        },
-      ],
     },
     comment: {
       provider: "Waline",
