@@ -1,8 +1,6 @@
 # Version
 
-Project version: 1.3 Tales
-
-Frame version: 1.3.7
+Project version: 1.4.0 Health
 
 Data version: 25.02f0a
 
