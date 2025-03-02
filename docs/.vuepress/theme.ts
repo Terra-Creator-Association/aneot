@@ -10,8 +10,6 @@ export default hopeTheme({
     url: "https://space.bilibili.com/1317574696/",
   },
 
-  iconAssets: "iconify",
-
   logo: "/logo.svg",
 
   // print button
@@ -28,7 +26,15 @@ export default hopeTheme({
   docsDir: "docs",
 
   markdown: {
+    // enableAll: true,
     attrs: true,
+    sub: true,
+    sup: true,
+    footnote: true,
+    align: true,
+    // presentation: {
+    //   plugins: ["highlight", "math", "search", "notes", "zoom"],
+    // },
   },
 
   // navbar
@@ -104,17 +110,6 @@ export default hopeTheme({
       wordLimit: [5, 200],
       emoji: ["https://unpkg.com/@waline/emojis@1.0.1/tw-emoji","https://unpkg.com/@waline/emojis@1.0.1/bilibili"]
     },
-    mdEnhance: {
-      // enableAll: true,
-      attrs: true,
-      sub: true,
-      sup: true,
-      footnote: true,
-      align: true,
-      // presentation: {
-      //   plugins: ["highlight", "math", "search", "notes", "zoom"],
-      // },
-    },
     feed: {
       atom: true,
       json: true,
@@ -122,6 +117,10 @@ export default hopeTheme({
       devServer: true, // 启用在开发环境中预览 Feed 的功能
       sorter: pageSorter
     },
+    icon: {
+      assets: "iconify",
+    },
+    slimsearch: true,
   },
 },
 {

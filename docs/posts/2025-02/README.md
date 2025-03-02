@@ -16,6 +16,9 @@ title: Vol. 25 - 2025 年 02 月号
 - **见字如面 · 午间逸话**
   - [短短的回家路和长长的旅途](article3.html)
   - [网中狼崽](article4.html)
+- **画中秘境**
+  - [漫画一则](comic1.html)
+  - [画中秘境](paintings.html)
 - **创作者访谈**
   - [特别专访：星野派克](interview.html)
 

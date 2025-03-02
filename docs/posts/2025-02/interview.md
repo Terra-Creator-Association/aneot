@@ -1,13 +1,13 @@
 ---
 icon: note
 title: 特别专访：星野派克
-date: 2025-03-01
+date: 2025-02-28
 category:
   - 创作者访谈
 tag:
   - 星野派克
 
-order: -4
+order: -2
 ---
 
 <!-- more -->
