@@ -2,7 +2,7 @@
 icon: article
 title: 为搁浅的沙砾讲一个没有阴雨的未来
 author: 快乐鼠尾草
-date: 2025-02-28
+date: 2025-03-18
 category:
   - 罗德岛日志
 tag:

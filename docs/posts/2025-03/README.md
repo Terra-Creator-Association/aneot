@@ -1,7 +1,7 @@
 ---
 icon: repo
 article: false
-title: Vol. 25 - 2025 年 02 月号
+title: Vol. 25 - 2025 年 03 月号
 ---
 
 ![](./res/cover.webp) {.centering}
