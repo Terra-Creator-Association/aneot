@@ -6,7 +6,7 @@ title: 主页
 heroText: 回归线
 heroFullScreen: false
 # 在这里修改抬头画师
-tagline: © 失序偏移 2025·02
+tagline: © 失序偏移 2025·03
 # 在这里修改版头主题色
 # 同时修改 config.ts 和 .vuepress/public/mainfest.json 中的 themeColor
 heroAlt: '#f7b5c0'
