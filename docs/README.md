@@ -9,7 +9,7 @@ heroFullScreen: false
 tagline: © 失序偏移 2025·03
 # 在这里修改版头主题色
 # 同时修改 config.ts 和 .vuepress/public/mainfest.json 中的 themeColor
-heroAlt: '#f7b5c0'
+heroAlt: '#bb3040'
 projects:
   - icon: read
     name: 期刊一览
