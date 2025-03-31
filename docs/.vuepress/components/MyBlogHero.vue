@@ -132,7 +132,7 @@ onBeforeUnmount(() => {
     transition: height 1s ease;
 
     /* Set default background-image for PC */
-    background-image: url("/hero-2.webp");
+    background-image: url("/hero/2.webp");
 
 }
 

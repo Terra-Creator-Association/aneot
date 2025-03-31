@@ -18,13 +18,13 @@ export default defineUserConfig({
     ['link', { rel: 'icon', href: '/favicon.svg', type: "image/svg+xml", sizes: "any" }],
     ['link', { rel: 'icon', href: '/eod.png' }],
     ['link', { rel: 'manifest', href: '/manifest.json' }],
-    ['meta', { name: 'theme-color', content: '#f7b5c0' }], // 主题色
+    ['meta', { name: 'theme-color', content: '#bb3040' }], // 主题色
     ['meta', { name: 'apple-mobile-web-app-capable', content: 'yes' }],
     ['meta', { name: 'apple-mobile-web-app-status-bar-style', content: 'default' }],
     ['link', { rel: 'apple-touch-icon', href: '/icon/apple-touch-icon-152x152.png' }],
     ['link', { rel: 'mask-icon', href: '/eod.svg', color: '#FFFFFF' }],
     ['meta', { name: 'msapplication-TileImage', content: '/icon/msapplication-icon-144x144.png' }],
-    ['meta', { name: 'msapplication-TileColor', content: '#f7b5c0' }], // 磁贴颜色
+    ['meta', { name: 'msapplication-TileColor', content: '#bb3040' }], // 磁贴颜色
     [
       "link",
       {
@@ -44,20 +44,6 @@ export default defineUserConfig({
         s.parentNode.insertBefore(hm, s);
       })();
       `
-    ],
-    [
-      'script',
-      {
-        src: '//instant.page/5.2.0',
-        type: 'module',
-        integrity: 'sha384-jnZyxPjiipYXnSU0ygqeac2q7CVYMbh84q0uHVRRxEtvFPiQYbXWUorga2aqZJ0z',
-      },
-      `
-        document.addEventListener('DOMContentLoaded', (event) => {
-          document.body.setAttribute('data-instant-allow-external-links', '');
-          document.body.setAttribute('data-instant-intensity', 'viewport');
-        });
-      `,
     ],
   ],
   plugins: [

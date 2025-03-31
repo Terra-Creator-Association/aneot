@@ -12,15 +12,15 @@ dir:
 
 <big>
 
-**2024-12: Vol. 24 - 2024 年 12 月号：从前有座巴别塔** {.centering}
+**2025-03: Vol. 25 - 2025 年 03 月号** {.centering}
 
 </big>
 
 <div style="display: flex; justify-content: center;">
-  <img src="./2024-12/res/cover.webp" alt="Cover Image" style="max-width: 60%;">
+  <img src="./2025-03/res/cover.webp" alt="Cover Image" style="max-width: 60%;">
 </div>
 
-### [**在线阅读**](./2024-12/README.md) {.centering}
+### [**在线阅读**](./2025-03/README.md) {.centering}
 
 ### [**前往下载页面**](https://pan.arktca.com) {.centering}
 
@@ -43,7 +43,7 @@ dir:
 |[2023-12: Vol. 18 <br>2023 年 12 月号：结束](2023-12/)| [2024-02: Vol. 19 <br>2024 年 02 月号](2024-02/) | [2024-03: Vol. 20 <br>2024 年 03 月号：希望的诸多表现形式](2024-03/) |
 |![](./2024-04/res/cover.webp)|![](./2024-07/res/cover.webp)| ![](./2024-09/res/cover.webp) |
 |[2024-04: Vol. 21 <br>2024 年 04 月号](2024-04/)| [2024-07: Vol. 22 <br>2024 年 07 月号：一起走过的，和将要同行的](2024-07/) | [2024-09: Vol. 23 <br>2024 年 09 月号](2024-09/) |
-|![](./2024-12/res/cover.webp)| NO INFO | NO INFO |
-|[2024-12: Vol. 24 <br>2024 年 12 月号：从前有座巴别塔](2024-12/)| 敬请期待 | 敬请期待 |
+|![](./2024-12/res/cover.webp)| ![](./2025-03/res/cover.webp) | NO INFO |
+|[2024-12: Vol. 24 <br>2024 年 12 月号：从前有座巴别塔](2024-12/)| [2025-03: Vol. 25 <br>Vol. 25 - 2025 年 03 月号](2025-03/) | 敬请期待 |
 
 <FakeAds />

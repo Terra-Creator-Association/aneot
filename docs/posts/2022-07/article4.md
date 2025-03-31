@@ -173,7 +173,7 @@ order: 5
 
 《探戈舞曲》 {.textkai .centering}
 
-表演者：薇薇安娜·德罗斯特、玛嘉烈·临光 {.textkai .centering}<eod />
+表演者：薇薇安娜·德罗斯特、玛嘉烈·临光<eod /> {.textkai .centering}
 
 （本文来自作者投稿，责任编辑：广英）
 
