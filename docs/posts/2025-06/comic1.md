@@ -2,7 +2,7 @@
 icon: palette
 title: 漫画一则
 author: 晚自习请勿随意走动
-date: 2025-05-22
+date: 2025-06-14
 category:
   - 画中秘境
 tag:

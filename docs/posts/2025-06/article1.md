@@ -2,7 +2,7 @@
 icon: article
 title: 灯灭
 author: 逸闻轶事
-date: 2025-05-22
+date: 2025-06-14
 category:
   - 罗德岛日志
 tag:

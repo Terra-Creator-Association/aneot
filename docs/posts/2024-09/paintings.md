@@ -31,7 +31,7 @@ Artist: Nabla算子
 
 ---
 
-![](./res/illustration/封面+独立（猫柱儿）.webp) {.centering}
+![](./res/illustration/封面加独立（猫柱儿）.webp) {.centering}
 
 Artist: 猫柱儿
 

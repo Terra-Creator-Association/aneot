@@ -2,7 +2,7 @@
 icon: article
 title: 新沃尔西尼出租怪谈
 author: Mantish
-date: 2025-05-22
+date: 2025-06-14
 category:
   - 此地之外
 tag:

@@ -2,7 +2,7 @@
 icon: article
 title: 摩托车穿过春天的荒野
 author: 一心之弓
-date: 2025-05-22
+date: 2025-06-14
 category:
   - 此地之外
 tag:

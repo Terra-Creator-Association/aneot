@@ -1,7 +1,7 @@
 ---
 icon: repo
 article: false
-title: Vol. 26 - 2025 年 05 月号：被联系的
+title: Vol. 26 - 2025 年 06 月号：被联系的
 ---
 
 ![](./res/cover.webp) {.centering}
