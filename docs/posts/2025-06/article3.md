@@ -1,6 +1,6 @@
 ---
 icon: article
-title: 余味尝
+title: 余味常
 author: 小龙瞎
 date: 2025-06-14
 category:
