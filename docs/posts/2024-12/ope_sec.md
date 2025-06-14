@@ -84,7 +84,7 @@ D. 在矢量突破中，将干员驻守在特别战线中可以使我方干员�
 | :---: | :---: | :---: | :---: |
 | A | B | C | D |
 
-![](./res/ope_sec/q9.webp) {style="float:right;max-width:40%;margin-right:1em"}
+![](./res/ope_sec/q9.webp) {.image-right-float style="max-width: 40%;"}
 
 **【9】随着2022年2月15日故事集“阴云火花”的开启，“粉毛航空”正式落地，澄闪的立绘从正式放出到这一天一共经过了多久**
 
@@ -126,7 +126,7 @@ C. 博士被唤醒后为了认识这片大地，出发走遍了泰拉大陆上�
 
 D. 博士为了能继续执行源石计划，选择与特雷西斯合作，关闭了全舰防御系统，间接导致了特蕾西娅的死亡
 
-![](./res/ope_sec/answer.webp){style="float:left;max-width:20%;margin-right:1em"}
+![](./res/ope_sec/answer.webp){.image-left-float style="max-width: 20%;"}
 
 *扫一扫二维码查看本期答案*
 

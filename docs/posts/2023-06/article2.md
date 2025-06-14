@@ -39,7 +39,7 @@ order: 3
 
 “能天使，下午好。”
 
-![](./res/illustration/文章配图（失败作番茄汁）.webp){style="float:right;max-width:40%;margin-left:1em"}
+![](./res/illustration/文章配图（失败作番茄汁）.webp){.image-right-float style="max-width: 40%;"}
 
 收拾好心情后，我回过头看向她。那始终明亮的光环，在蒙上一层阴影的室内显得格外突兀。
 

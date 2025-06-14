@@ -75,7 +75,7 @@ order: 4
 
 有人推开了房门，走了进来。
 
-![](./res/illustration/卡车司机_斥罪（茶卉）.webp){style="float:right;max-width:40%;margin-left:1em"}
+![](./res/illustration/卡车司机_斥罪（茶卉）.webp){.image-right-float style="max-width: 40%;"}
 
 “吉米·帕西诺？”低沉悦耳的女音荡漾在房内。
 

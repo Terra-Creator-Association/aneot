@@ -21,7 +21,7 @@ order: 2
 
 下班高峰期还没这么快到来，给了玛恩纳充分的飙车场地。库兰塔连头盔都没戴，耀眼的尾巴被吹得上下飞舞，在逐渐西斜阳光照射下仿佛一道暗金色的剑光。
 
-![](./res/illustration/文章配图（hdwvgh）.webp) {style="float:right;max-width:40%;margin-left:1em"}
+![](./res/illustration/文章配图（hdwvgh）.webp){.image-right-float style="max-width: 40%;"}
 
 ——然后，在一个路口，他被一位鬼族女警官生生逼停了。
 

@@ -17,7 +17,7 @@ order: 4
 
 <div>
 
-![](./res/illustration/sdk2d2.webp){style="float:left;max-width:45%;margin-right:1em"}
+![](./res/illustration/sdk2d2.webp) {.image-left-float style="max-width: 45%;"}
 
 浪皎城北部工业区所坐落的这片土地，自古以来都被叫做岩棱滩。如今地面早已被水泥和无数建筑抹平了棱角，而后横跨整个城区的厂房又因“大静谧”变得冷冷清清。三年前，这座城市尚未从这场称得上浩劫的打击中爬起身来，那时的六棱造，浮世叠，北原工造都远没有今天这副占山为王的架势——当时的他们，还在和无数对手争食着这座城市的每一寸资产，竭尽全力扩张着自己的影响力。
 

@@ -116,7 +116,7 @@ D.黏性超人
 | :---: | :---: | :---: | :---: |
 | A.燧石 | B.野鬃 | C.早露 | D.小莫 |
 
-![](./res/Ope_Sec/Answer.png){style="float:left;max-width:20%;margin-right:1em"}
+![](./res/Ope_Sec/Answer.png){.image-left-float style="max-width: 20%;"}
 
 *扫一扫二维码查看本期答案*
 

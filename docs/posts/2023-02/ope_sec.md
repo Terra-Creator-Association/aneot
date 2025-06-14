@@ -118,7 +118,7 @@ C. 虽然加勒斯的衣服上有整合运动的标志，但其实他是乌萨�
 
 D. 在新整合运动与锈锤交易的过程中，加勒斯和艾尔瓦相认，化解了矛盾。加勒斯还带来了依拉怀孕的消息
 
-![](./res/ope_sec/answer.webp){style="float:left;max-width:20%;margin-right:1em"}
+![](./res/ope_sec/answer.webp){.image-left-float style="max-width: 20%;"}
 
 *扫一扫二维码查看本期答案*
 

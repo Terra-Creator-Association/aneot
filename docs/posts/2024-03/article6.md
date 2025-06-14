@@ -27,7 +27,7 @@ order: 7
 
 当年我不过黄口之岁，只记得那天同今日一般同样是一个惊蛰春景。清晨刚开始营业时，我本在外面玩耍，远远地看见路口走来一男一女，便喊了一声：“二位客官是来打尖还是住店的呀？”
 
-![](./res/illustration/文章配图（秩艺，但是要饭）.webp) {style="float:right;max-width:40%;margin-left:1em"}
+![](./res/illustration/文章配图（秩艺，但是要饭）.webp) {.image-right-float style="max-width: 40%;"}
 
 是那位姐姐答话。
 

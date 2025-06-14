@@ -44,7 +44,7 @@ D. 忒斯特收藏
 | :---: | :---: | :---: | :---: |
 | A. | B. | C. | D. |
 
-![](./res/ope_sec/q4.webp){style="float:right;max-width:30%;margin-left:1em"}
+![](./res/ope_sec/q4.webp) {.image-right-float style="max-width: 30%;"}
 
 **【4】时装自选凭证是一种目前已经无法在游戏中获得的道具（见本题图）。以下说法中不正确的一项是**
 
@@ -120,7 +120,7 @@ D. 狮蝎-面纱之下：考虑到客户特殊性，在未经量体裁剪情况�
 
 扫一扫查看本期答案
 
-![](./res/ope_sec/answer.webp){style="float:left;max-width:20%;margin-right:1em"}
+![](./res/ope_sec/answer.webp){.image-left-float style="max-width: 20%;"}
 
 *扫一扫二维码查看本期答案*
 

@@ -81,7 +81,7 @@ order: 5
 
 “嗯。那我回实验室了，工作辛苦了。”赫默挥了挥手，用袖子半掩住脸小跑着离去。
 
-![](./res/illustration/Q版.webp){style="float:right;max-width:33%;margin-left:1em"}
+![](./res/illustration/Q版.webp){.image-right-float style="max-width: 33%;"}
 
 她目送着赫默的身影渐渐消失在走廊的尽头，心想赫默医生真的很努力，这么着急回实验室继续工作。塞雷娅低头看着盛放的向日葵，朝着自己的办公室走去。
 
@@ -93,7 +93,7 @@ order: 5
 
 “不是。这是赫默研究员送给我的。”塞雷娅打开办公室的大门，克里斯滕在熟悉的椅子上落座，“诶，原来是这样，我这次来就是想叫你和我出去采购一些东西，正好帮你挑一个花瓶吧？”
 
-![](./res/illustration/赫默向日葵.webp){style="float:left;max-width:33%;margin-right:1em"}
+![](./res/illustration/赫默向日葵.webp){.image-left-float style="max-width:33%;"}
 
 “太好了，我对这种东西实在没什么研究。”塞雷娅有些不好意思地挠脸，“什么时候出发？”
 

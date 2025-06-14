@@ -77,7 +77,7 @@ order: 3
 
 凯文扭头想看博士一眼，透过白色面具上两个圆滚滚的豆豆眼，博士看出一股没被知识污染过的清澈。
 
-![](./res/illustration/文章配图（白色鹦鹉）.webp) {style="float:right;max-width:40%;margin-left:1em"}
+![](./res/illustration/文章配图（白色鹦鹉）.webp) {.image-right-float style="max-width: 40%;"}
 
 他无可奈何，人肉摩托也是摩托，不过是轮子换成腿。博士抱住凯文的肩膀，免得被奔跑的士兵颠下去，他挨近了凯文的脸侧，慢慢宣布：“在教你认字之前，我还是先教你开车吧，骑摩托也行！”
 

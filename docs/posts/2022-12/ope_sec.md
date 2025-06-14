@@ -124,7 +124,7 @@ C.由于儿时的悲惨过去以及在深池里的种种经历，苇草并不擅
 
 D.苇草虽然并不喜欢战斗，但如果是为了同伴们的共同愿望而战，她可以忍受
 
-![](./res/ope_sec/answer.jpeg){style="float:left;max-width:20%;margin-right:1em"}
+![](./res/ope_sec/answer.jpeg){.image-left-float style="max-width: 20%;"}
 
 *扫一扫二维码查看本期答案*
 

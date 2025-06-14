@@ -31,7 +31,7 @@ order: 3
 
 “不，我想说的是，如果你在战场上面对难以抉择的死局时，作为一名萨卡兹雇佣兵，特别是这样优秀的……”
 
-![](./res/illustration/文章配图伊内丝（星期几）.webp) {style="float:right;max-width:40%;margin-left:1em"}
+![](./res/illustration/文章配图伊内丝（星期几）.webp){.image-right-float style="max-width: 40%;"}
 
 “你想说，”伊内丝下意识地想伸手去摸自己的角，抬手的小动作被赫德雷看在眼里，她面不改色地捞了一点水淋在白花花的刀刃上，仰头对着赫德雷的目光。“应该找个机会跑掉？”
 

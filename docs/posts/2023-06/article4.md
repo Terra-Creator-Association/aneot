@@ -103,7 +103,7 @@ Redemption’s grace,we find truth…”
 
 随后，她迈步，将手搭在了塞雷娅伸出的那只手上，庄严地宣告着：“我要跳两支舞。”
 
-![](./res/illustration/1083文章配图三个人的舞（北棠）.webp){style="float:right;max-width:40%;margin-left:1em"}
+![](./res/illustration/1083文章配图三个人的舞（北棠）.webp){.image-right-float style="max-width: 40%;"}
 
 “with you。”
 

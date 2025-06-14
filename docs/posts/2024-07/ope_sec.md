@@ -88,7 +88,7 @@ C.息潮的代价：伊莎玛拉失败了，海嗣离开陆地重返大海。斯
 
 D.如星空般深蓝：海嗣完成了对泰拉陆地的改造，使其再也没有源石和荒野。最终海嗣族群在完成个体分离后飞升，前往宇宙，并且接受了能够与人类共存的信号。
 
-![](./res/ope_sec/answer.webp){style="float:left;max-width:20%;margin-right:1em"}
+![](./res/ope_sec/answer.webp){.image-left-float style="max-width: 20%;"}
 
 *扫一扫二维码查看本期答案*
 

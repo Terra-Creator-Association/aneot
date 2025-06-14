@@ -67,7 +67,7 @@ Sharp安静的站在一旁，他点了根烟用以驱散路上的疲惫。
 
 三人各做各的事，直到烈夏的到来。
 
-![](./res/illustration/文章配图（我ymx没有开挂）.webp) {style="float:right;max-width:40%;margin-left:1em"}
+![](./res/illustration/文章配图（我ymx没有开挂）.webp) {.image-right-float style="max-width: 40%;"}
 
 “博士！你们也来谢拉格了啊！你们是来玩的，还是带着什么任务啊。”
 

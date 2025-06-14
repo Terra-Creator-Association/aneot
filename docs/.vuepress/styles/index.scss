@@ -1,10 +1,14 @@
 :root {
     --waline-theme-color: var(--theme-color);
+
     // 表格；横线元素隐藏
     // 表格用作隐藏的排版工具
-    hr, tr, td, th {
-        border: none!important;
-        }
+    hr,
+    tr,
+    td,
+    th {
+        border: none !important;
+    }
 }
 
 
@@ -41,6 +45,7 @@
     text-align: left !important;
     text-indent: 0 !important;
 }
+
 .aright {
     text-align: right !important;
     text-indent: 0 !important;
@@ -102,6 +107,7 @@
     max-height: 200px;
     position: relative;
     opacity: 0.5;
+
     &::after {
         position: absolute;
         content: '';
@@ -109,7 +115,7 @@
         height: 100%;
         top: 0;
         left: 0;
-        box-shadow:0 0 30px 30px var(--bg-color) inset;
+        box-shadow: 0 0 30px 30px var(--bg-color) inset;
     }
 }
 
@@ -129,9 +135,9 @@
 // 禁止打印指定元素
 @media print {
     .no-print {
-      display: none !important;
+        display: none !important;
     }
-  }  
+}
 
 // 禁止交互
 .no-interact {
@@ -160,4 +166,16 @@
 .eod-aright {
     display: flex;
     justify-content: right;
+}
+
+.image-right-float {
+    float: right;
+    margin-left: 1em;
+    text-indent: 0 !important;
+}
+
+.image-left-float {
+    float: left;
+    margin-right: 1em;
+    text-indent: 0 !important;
 }

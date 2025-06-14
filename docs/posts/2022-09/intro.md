@@ -14,7 +14,7 @@ order: 1
 
 <div>
 
-![](./res/卷首语.webp){style="float:left;max-width:45%;margin-right:2em"}
+![](./res/卷首语.webp){.image-left-float style="max-width: 45%;"}
 
 
 这是《回归线》的九月刊，刊物主题是“乡愁和归处”。我们将在本期刊物中，浅薄探寻“故乡”和“人生”，“乡愿”和“愁思”的关系。

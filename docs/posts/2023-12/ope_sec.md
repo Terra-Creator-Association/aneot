@@ -120,7 +120,7 @@ D.只有想象能挣脱束缚，去往大地之上的地方
 | :---: | :---: | :---: | :---: |
 | A | B | C | D |
 
-![](./res/ope_sec/answer.webp){style="float:left;max-width:20%;margin-right:1em"}
+![](./res/ope_sec/answer.webp){.image-left-float style="max-width: 20%;"}
 
 *扫一扫二维码查看本期答案*
 

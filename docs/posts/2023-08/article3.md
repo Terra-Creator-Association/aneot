@@ -181,7 +181,7 @@ order: 4
 
 只见普瑞赛斯输入了最后的指令，安详而舒缓地向你走来，就像那坦然面对命运的圣人，而她唯一的门徒此刻的痛苦不知或许能够没过那十二人的悲哀。
 
-![](./res/illustration/独立插（汤罐浣熊）.webp) {style="float:right;max-width:50%;margin-left:1em"}
+![](./res/illustration/独立插（汤罐浣熊）.webp){.image-right-float style="max-width: 50%;"}
 
 然而，在临行时，普瑞赛斯握住了你的手，说出了让你难以置信的话语：
 
