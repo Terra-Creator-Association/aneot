@@ -21,7 +21,10 @@ order: 5
 
 <!-- more -->
 
-![](./res/illustration/出租车-开头.png){style="max-width: 50%"} {.centering}
+![◇ 致敬叙拉古传奇载具驾驶者
+◇ 国际惯例OOC预警
+◇ 基于荒芜拉普兰德干员介绍的造谣式衍生
+◇ 以下内容皆为新沃尔西尼市井野史，保证又野又史](./res/illustration/出租车-开头.png){style="max-width: 50%"} {.centering}
 
 “你给德克萨斯家的狼崽也寄了信。你想要她回来？”
 
