@@ -43,4 +43,10 @@ Artist: kieed
 
 ---
 
+![](./res/illustration/封面加独立（嵬名未然）.webp)
+
+Artist: 嵬名未然
+
+---
+
 <FakeAds />
