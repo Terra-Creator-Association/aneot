@@ -38,7 +38,7 @@ projects:
 
   - icon: app
     name: 安装回归线应用
-    desc: 基于PWA技术
+    desc: 基于 PWA 技术
     link: installpwa
 
   - icon: write
