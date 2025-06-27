@@ -126,7 +126,7 @@ C. 拉特兰
 
 D. 卡兹戴尔
 
-![](./res/ope_sec/answer.webp){style="float:left;max-width:20%;margin-right:1em"}
+![](./res/ope_sec/answer.webp){.image-left-float style="max-width: 20%;"}
 
 *扫一扫二维码查看本期答案*
 

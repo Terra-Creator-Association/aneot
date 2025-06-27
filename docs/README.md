@@ -6,10 +6,10 @@ title: 主页
 heroText: 回归线
 heroFullScreen: false
 # 在这里修改抬头画师
-tagline: © 失序偏移 2025·03
+tagline: © 嵬名未然 2025·06
 # 在这里修改版头主题色
 # 同时修改 config.ts 和 .vuepress/public/mainfest.json 中的 themeColor
-heroAlt: '#bb3040'
+heroAlt: '#92b2e5'
 projects:
   - icon: read
     name: 期刊一览
@@ -18,8 +18,8 @@ projects:
 
   - icon: article
     name: 最新一期
-    desc: Vol.25 2025-03
-    link: posts/2025-03/
+    desc: Vol.26 2025-06
+    link: posts/2025-06/
 
   - icon: cache
     name: 下载
@@ -38,7 +38,7 @@ projects:
 
   - icon: app
     name: 安装回归线应用
-    desc: 基于PWA技术
+    desc: 基于 PWA 技术
     link: installpwa
 
   - icon: write

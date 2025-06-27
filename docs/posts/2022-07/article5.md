@@ -533,7 +533,7 @@ order: 6
 
 <div>
 
-![](./res/illustration/星尘.webp){style="float:right;max-width:50%"}
+![](./res/illustration/星尘.webp) {.image-right-float style="max-width: 50%;"}
 
 她背着夕阳，脸上灰蒙蒙的一片。我看出来了，那是一种终将得到满足后的衰落的颜色，一种不详的幸福的具现。我快步经过马车，站到她的面前：“莉泽，你怎么来了？”
 

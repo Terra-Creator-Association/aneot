@@ -369,11 +369,11 @@ order: 5
 
 “红，明白。” 
 
+![](./res/illustration/文章配图（阿淼3H2OEr）.webp) {.image-right-float style="max-width: 40%;"}
+
 柳德米拉也盯着手中的小刀。这把刀沾染着柳德米拉老师的血迹，还有过往或许还有无数“游戏”的受害者也死于此刀下。
 
 她将刀递给眼前的孩子，从今往后，这把刀将再也不会有无辜人的血。
-
-![](./res/illustration/文章配图（阿淼3H2OEr）.webp) {style="float:right;max-width:40%;margin-left:1em"}
 
 “保护？”狼崽子略显生疏地接过她本应无比熟悉的小刀，眼神像是在认识一件新的武器。
 

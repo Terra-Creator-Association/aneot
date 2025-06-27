@@ -21,7 +21,7 @@ order: 2
 
 <!-- more -->
 
-![](./res/illustration/刺玫文章配图（一般通过超自然理）.webp) {style="float:right;max-width:40%;margin-left:1em"}
+![](./res/illustration/刺玫文章配图（一般通过超自然理）.webp) {.image-right-float style="max-width: 40%;"}
 
 不知道过了多久，她从梦中醒来，火车仍旧沉默地穿梭于山间，和她昏沉沉闭眼的时候相比，光线暗了一些。
 

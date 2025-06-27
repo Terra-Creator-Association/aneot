@@ -103,6 +103,8 @@ order: -1
 
 <div class="textkai">
 
+<!-- 这里排版比较特殊，不使用 .image-right-float -->
+
 ![](./res/painting/临薇.webp){style="float:right;max-width:40%"}
 
 薄色的夜

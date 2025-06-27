@@ -15,7 +15,7 @@ order: 5
 
 <div class="script">
 
-![](./res/illustration/酒馆-星熊-框.webp){style="float:right;max-width:33%"}
+![](./res/illustration/酒馆-星熊-框.webp){.image-right-float style="max-width: 33%;"}
 
 【地点：龙门酒吧】
 
@@ -49,7 +49,7 @@ order: 5
 
 <div class="script">
 
-![](./res/illustration/酒馆-42-框.webp){style="float:left;max-width:33%"}
+![](./res/illustration/酒馆-42-框.webp) {.image-left-float style="max-width: 33%;"}
 
 【地点：拉特兰甜品屋】
 
@@ -83,7 +83,7 @@ order: 5
 
 <div class="script">
 
-![](./res/illustration/酒馆-桃-框.webp){style="float:right;max-width:33%"}
+![](./res/illustration/酒馆-桃-框.webp){.image-right-float style="max-width: 33%;"}
 
 【地点：罗德岛甲板】
 

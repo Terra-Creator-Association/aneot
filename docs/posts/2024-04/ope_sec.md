@@ -110,7 +110,7 @@ C.“莱茵生命生态科主任”，光有这个名头就能卖个好价钱呀
 
 D.阖家欢庆的时候，怎么会嫌好东西多呢，多买多开心嘛。
 
-![](./res/ope_sec/answer.webp){style="float:left;max-width:20%;margin-right:1em"}
+![](./res/ope_sec/answer.webp){.image-left-float style="max-width: 20%;"}
 
 *扫一扫二维码查看本期答案*
 

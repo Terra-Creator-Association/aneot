@@ -285,7 +285,7 @@ order: 6
 
 然后他看到了那个昨天打败他的女人。
 
-![](./res/illustration/2023.7.21方舟插画武魂.webp) {style="float:right;max-width:60%;margin-left:1em"}
+![](./res/illustration/2023.7.21方舟插画武魂.webp) {.image-right-float style="max-width: 60%;"}
 
 一小柄细剑插在地上，叶梓抱着胸，看着面前的一干人。“北方人十九家，齐了。”
 

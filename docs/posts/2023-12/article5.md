@@ -48,7 +48,7 @@ order: 6
 
 其实他完全没必要说出这后半句话。他是来找人的，这显而易见，不然这荒郊野岭的也不会突然间出现他这么样一个穿着得体的萨科塔老头子，总不能是来这里推销牙刷的吧。
 
-![](./res/illustration/后日谈文章配图（siri）.webp) {style="float:right;max-width:40%;margin-left:1em"}
+![](./res/illustration/后日谈文章配图（siri）.webp) {.image-right-float style="max-width: 40%;"}
 
 而他所找寻的对象，即便靠穿着可能分辨不出来，同样悬在头顶的光环与垂在身后铳型光翼依旧会毫无保留地暴露位置。克里夫摘下自进门后手指便不曾离开过的帽子，坐在了那个人的旁边。
 

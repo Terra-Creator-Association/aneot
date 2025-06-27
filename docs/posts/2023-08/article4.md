@@ -19,7 +19,7 @@ order: 5
 
 ---
 
-![](./res/illustration/文配图（Yumero-梦路）.webp) {style="float:right;max-width:60%;margin-left:1em"}
+![](./res/illustration/文配图（Yumero-梦路）.webp) {.image-right-float style="max-width: 60%;"}
 
 刻刀坠落在在土坡的后面，挣扎着，痛苦地呻吟着，不停地喘气，往肺里泵入空气。白桦林的尖刺围拢着她，让她的求救声变成破碎的音节，消散在炮火，弩箭和敌人的呼喊声里。
 

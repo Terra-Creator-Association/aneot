@@ -77,7 +77,7 @@ order: 3
 
 “知道的老师，是群野蛮人的国家。”阿芙朵嘉终于听到了自己能回答的问题，当即开口。
 
-![](./res/illustration/鸿雪文章配图（x穆可x）.webp) {style="float:right;max-width:35%;margin-left:1em"}
+![](./res/illustration/鸿雪文章配图（x穆可x）.webp){.image-right-float style="max-width: 40%;"}
 
 “书上是这么写的吗？”阿纳斯塔西娅眨了眨眼睛，但没有在意，“咳咳。的确，萨尔贡曾经是群只会以动作作为交流手段的部族。他们用拳头说话，用长矛打猎，用舞蹈表示情感……但部族不止一个，祭祀的舞蹈所表达的意思没有统一，所以他们总在打架，雨林里他们乱成了一锅粥。”
 

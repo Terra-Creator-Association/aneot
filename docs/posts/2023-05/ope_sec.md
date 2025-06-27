@@ -115,7 +115,7 @@ C. 治疗，生存，群攻，削弱，先锋干员
 
 D. 重装干员，控场，削弱，生存，爆发
 
-![](./res/ope_sec/answer.webp){style="float:left;max-width:20%;margin-right:1em"}
+![](./res/ope_sec/answer.webp){.image-left-float style="max-width: 20%;"}
 
 *扫一扫二维码查看本期答案*
 

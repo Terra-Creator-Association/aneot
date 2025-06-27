@@ -29,7 +29,7 @@ order: 5
 
 ---
 
-![](./res/illustration/文章配图（殁红布偶）.webp) {style="float:right;max-width:35%;margin-left:1em"}
+![](./res/illustration/文章配图（殁红布偶）.webp){.image-right-float style="max-width: 35%;"}
 
 萨卡兹在加入巴别塔的时候还算年轻，没有太多的阅历，在这不大的塔里也算不上起眼，只是他特别的源石技艺引来了一些注意。那天他们的王带着一个年幼的卡斯特女孩出现在小伙子面前，这是他进入这座深灰色塔的第二天。
 

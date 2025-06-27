@@ -11,12 +11,13 @@ tag:
 order: 2
 ---
 
-我在旅途中相遇了你，
-我们两个人一起去打捞落水太阳。 {.textkai}
+我在旅途中相遇了你，{.textkai}
+
+我们两个人一起去打捞落水太阳。{.textkai}
 
 <!-- more -->
 
-![](./res/illustration/Lofter大太阳_落水太阳.webp){style="float:right;max-width:45%;margin-left:1em"}
+![](./res/illustration/Lofter大太阳_落水太阳.webp){.image-right-float style="max-width: 45%;"}
 
 “我记得那天黄昏，那天……和平时都不一样，太阳掉进了水里，海上涌起了巨浪。那天晚上好像很黑，又好像很亮，我记不清了。我只记得我上了船，去打捞落水的太阳。我走了好远的路，经过好多冒险。”
 

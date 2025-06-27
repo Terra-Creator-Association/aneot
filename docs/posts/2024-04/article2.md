@@ -39,7 +39,7 @@ order: 3
 
 阿尔图罗走上前，敲了敲其中一间宿舍的门。这时她才发觉，她已经走到了写着她名字的门扉前面，于是她从贴身的衣物里翻出那串开门用的钥匙，不忘致以“我刚刚走神了”的歉意。
 
-![](./res/illustration/文章配图（水水蹊）.webp) {style="float:right;max-width:35%;margin-left:1em"}
+![](./res/illustration/文章配图（水水蹊）.webp) {.image-right-float style="max-width: 40%;"}
 
 没关系，我并不在意。阿尔图罗的表情仍没有变化。
 

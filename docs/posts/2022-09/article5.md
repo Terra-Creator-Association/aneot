@@ -17,7 +17,7 @@ order: 6
 
 <div>
 
-![](./res/illustration/乌有1..webp){style="float:left;max-width:30%;margin-right:2em"}
+![](./res/illustration/乌有1..webp){.image-left-float style="max-width:35%;"}
 
 乌有提着钓竿，立在尚蜀的酒店外。
 
@@ -41,7 +41,7 @@ order: 6
 
 <div>
 
-![](./res/illustration/乌有2.webp){style="float:right;max-width:30%;margin-left:2em"}
+![](./res/illustration/乌有2.webp){.image-right-float style="max-width: 35%;"}
 
 雪还在簌簌落落的下着，他压了压斗笠，转身走进了风雪。耳边，却是多年前的声音。
 
@@ -95,7 +95,7 @@ order: 6
 
 <div>
 
-![](./res/illustration/乌有3.webp){style="float:right;max-width:30%;margin-left:2em"}
+![](./res/illustration/乌有3.webp){.image-right-float style="max-width: 35%;"}
 
 那时，他抬起头，雪下大了。他那时候第一次觉得，冬天原来这么冷。回去的时候，子虚没有说话，只是摸了摸他的头。
 

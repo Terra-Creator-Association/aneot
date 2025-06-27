@@ -103,7 +103,7 @@ order: 2
 
 刚才还在争先恐后啃咬的恐鱼，仿佛是感知到了什么重压般的危险，疯狂退回，却在路途中突然爆裂开，亮蓝色的液体中，一丝猩红收缩到拓拉的身旁……
 
-![](./res/illustration/可汗（自在酒壶）.webp){style="float:right;max-width:45%;margin-left:1em"}
+![](./res/illustration/可汗（自在酒壶）.webp) {.image-right-float style="max-width: 45%;"}
 
 天色由深蓝被撕裂成黑红二色，巨大的阴翳笼盖整片冰原。炽热的土地蒸腾出弥漫的黑雾，狂风肆虐，吹动了拓拉的披风。
 

@@ -33,7 +33,7 @@ order: 6
 
 ## 二 ·
 
-![](./res/illustration/拉普兰德（-问涛-）.webp){style="float:right;max-width:45%;margin-left:1em"}
+![](./res/illustration/拉普兰德（-问涛-）.webp) {.image-right-float style="max-width: 45%;"}
 
 拉普兰德是个杀手，嵯峨是个和尚。杀手与和尚的相遇就像是一个三流编剧写出来的剧本一样，荒诞而且毫无逻辑。而拉普兰德和嵯峨偏偏就是这部荒诞剧本的女一号和女二号。
 

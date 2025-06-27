@@ -15,9 +15,9 @@ order: 7
 
 <!-- more -->
 
-![](./res/illustration/DHWN1.png){style="float:right;max-width:45%;margin-left:1em"}
-
 ## 一
+
+![](./res/illustration/DHWN1.png) {.image-right-float style="max-width: 45%;"}
 
 以前一次翻垃圾桶时，莫提和我说，哥伦比亚的拓荒者就是这个国家的失败渣滓和无能人渣的大杂烩。“他们贪婪，无能，渴望着奇迹垂怜改变自己的命运，却又不肯直面自己的凡庸和做作......不过是一群鬣狗，哈哈！”
 

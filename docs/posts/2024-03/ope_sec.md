@@ -116,7 +116,7 @@ C	灰烬-以色列	闪击-德国
 
 D	双月-荷兰	医生-法国
 
-![](./res/ope_sec/answer.webp){style="float:left;max-width:20%;margin-right:1em"}
+![](./res/ope_sec/answer.webp){.image-left-float style="max-width: 20%;"}
 
 *扫一扫二维码查看本期答案*
 

@@ -93,7 +93,7 @@ order: 8
 
 <div>
 
-![](./res/illustration/山阁.webp){style="float:right;max-width:40%;margin-left:1em"}
+![](./res/illustration/山阁.webp){.image-right-float style="max-width: 40%;"}
 
 
 “想法不错。”焚书官点点头，“那么，请你告诉我，你的公司，你的金融帝国是怎样运作的呢，他又该垄断什么呢？这是一个复杂的问题，复杂到如今它还在困扰世界上那些如你愿望般的人。想想。”

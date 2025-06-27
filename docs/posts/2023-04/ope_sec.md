@@ -116,7 +116,7 @@ C. 《老萨卡兹》中，送葬人之所以反复问到“他怎么出来了�
 
 D. 老萨卡兹曾经和战友们追随殿下、为民族而战斗的那段历史已经被时代逐渐遗忘，在美好的新时代里再也没有人能真正理解他、了解他的过去。这也提醒我们不要忘记历史。
 
-![](./res/ope_sec/answer.webp){style="float:left;max-width:20%;margin-right:1em"}
+![](./res/ope_sec/answer.webp){.image-left-float style="max-width: 20%;"}
 
 *扫一扫二维码查看本期答案*
 

@@ -21,7 +21,7 @@ order: 3
 
 <div>
 
-![](./res/illustration/书.webp){style="float:right; width:25%"}
+![](./res/illustration/书.webp){.image-right-float style="width: 25%;"}
 
 真理没有像往常那样坐在窗边的椅子上看书，而是半跪在她房间里的保险箱旁，从里面翻找着什么。保险箱边的地板上什么都有，有垒起来的初版签名书，罐头，一瓶蜂蜜威士忌，以及……一把黝黑的源石手铳。
 

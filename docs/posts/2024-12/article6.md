@@ -387,7 +387,7 @@ You imaginEd it waS.
 
 你想：我真是个不负责任的混蛋。我诱引你走上黑暗、崎岖且分岔的道路，最后却总是停在断桥前，让你望着对面似有似无的她，这很有趣吗？
 
-![](./res/illustration/SWPYB配图%20（MAaaaaaackia）.webp) {style="float:right;max-width:40%;margin-left:1em"}
+![](./res/illustration/SWPYB配图%20（MAaaaaaackia）.webp){.image-right-float style="max-width: 40%;"}
 
 但不要贪心。你只有一个故事。你拥有一个故事。你心中有了一个K，一个我并不知道，但实实在在的常数。你幻想这个人你曾知晓，你幻想这件事有个结局，你幻想你能梦见这个梦的延续。
 

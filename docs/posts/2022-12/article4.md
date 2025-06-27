@@ -501,7 +501,7 @@ order: 5
 
 ---
 
-![](./res/illustration/絮雨（召木）.webp){style="float:right;max-width:45%;margin-left:1em"}
+![](./res/illustration/絮雨（召木）.webp) {.image-right-float style="max-width: 45%;"}
 
 絮雨睁开了眼睛，看着眼前的废墟与湿润的泥土，不知所措。
 

@@ -106,7 +106,7 @@ D. 我回来啦，这些是带给你们的礼物，我等下拿去送给凯尔�
 | :---: | :---: | :---: | :---: |
 | A | B | C | D |
 
-![](./res/ope_sec/answer.webp){style="float:left;max-width:20%;margin-right:1em"}
+![](./res/ope_sec/answer.webp){.image-left-float style="max-width: 20%;"}
 
 *扫一扫二维码查看本期答案*
 

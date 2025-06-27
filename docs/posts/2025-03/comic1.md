@@ -9,7 +9,7 @@ tag:
   - LOFTER@小母鸡
   - 条漫
 
-order: -1
+order: -2
 ---
 
 ![](./res/comic/漫画（LOFTER@小母鸡）.webp) {.centering}
