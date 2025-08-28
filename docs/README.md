@@ -6,10 +6,10 @@ title: 主页
 heroText: 回归线
 heroFullScreen: false
 # 在这里修改抬头画师
-tagline: © 嵬名未然 2025·06
+tagline: © 31蛾午港翻车 2025·08
 # 在这里修改版头主题色
 # 同时修改 config.ts 和 .vuepress/public/mainfest.json 中的 themeColor
-heroAlt: '#92b2e5'
+heroAlt: '#2b386a'
 projects:
   - icon: read
     name: 期刊一览
@@ -18,8 +18,8 @@ projects:
 
   - icon: article
     name: 最新一期
-    desc: Vol.26 2025-06
-    link: posts/2025-06/
+    desc: Vol.27 2025-08
+    link: posts/2025-08/
 
   - icon: cache
     name: 下载

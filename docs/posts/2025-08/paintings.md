@@ -40,7 +40,7 @@ Artist: 千里叁羽
 
 ![](./res/illustration/封面（31蛾午港翻车）.webp)
 
-Artist: 31 蛾午港翻车
+Artist: 31蛾午港翻车
 
 ---
 
