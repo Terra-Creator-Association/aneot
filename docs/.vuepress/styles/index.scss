@@ -168,14 +168,24 @@
     justify-content: right;
 }
 
+.image-left-float {
+    float: left;
+    margin-right: 1em;
+    text-indent: 0 !important;
+}
+
 .image-right-float {
     float: right;
     margin-left: 1em;
     text-indent: 0 !important;
 }
 
-.image-left-float {
+.text-left-float {
     float: left;
-    margin-right: 1em;
+    text-indent: 0 !important;
+}
+
+.text-right-float {
+    float: right;
     text-indent: 0 !important;
 }
