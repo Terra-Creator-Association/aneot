@@ -17,6 +17,9 @@ title: Vol. 27 - 2025 年 08 月号
   - [坟场祝祷](article4.html)
 - **见字如面 · 此地之外**
   - [胎膜](article5.html)
+- **画中秘境**
+  - [画中秘境](paintings.html)
+  - [漫画一则](comic1.html)
 - **创作者访谈**
   - [特别专访：渡空](interview.html)
 
