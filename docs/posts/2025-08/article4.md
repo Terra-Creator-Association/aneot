@@ -69,6 +69,8 @@ order: 5
 
 奥罗拉还是觉得恶心，她们刚刚把尸体放在一片空地，她想说你的愚蠢没有限度吗，然后她注意到努艾达手上不知道什么时候多了一柄斧头。
 
+![](./res/illustration/坟场图（美食家攻略）.webp){.image-right-float style="max-width: 40%;"}
+
 努艾达开始唱：
 
 *“拉乌尼达东边的东边，”*
@@ -78,8 +80,6 @@ order: 5
 *“白色的圣城，拉特兰”*
 
 砍出一道深红的伤口
-
-![](./res/illustration/坟场图（美食家攻略）.webp){.image-right-float style="max-width: 40%;"}
 
 *“那里的铳炮放出烟花，那里的靶子都是苹果”*
 

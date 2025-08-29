@@ -25,7 +25,7 @@ but ah! forget my fate.{.textkai}
 
 *“When I’m laid in earth —*
 
-*&emsp;&emsp;To sing an elegy for you. ”*
+&emsp;&emsp;*To sing an elegy for you. ”*
 
 “我等在此共同迎接战胜的硕果，与一位如影随形的来宾。它是一位不受欢迎的客人，无人能预知它的降临，但在它真正到来的时刻，你要像拥抱胜利那样拥抱它。”
 
