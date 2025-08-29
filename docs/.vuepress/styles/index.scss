@@ -58,16 +58,15 @@
 
 .sp-qa {
     text-indent: 0 !important;
-    font-family: 'crimson', 'LXGW WenKai Screen R', serif;
-    font-size: 15pt;
-    font-weight: bold;
     margin-bottom: 0.5em;
-    line-height: 1;
 }
 
 // 问答用
 .ques {
+    font-size: 15pt;
     margin-top: 2em;
+    font-weight: bold;
+    font-family: 'crimson', 'LXGW WenKai Screen R', serif;
 }
 
 .answ {
