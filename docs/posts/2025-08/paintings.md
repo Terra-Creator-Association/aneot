@@ -26,12 +26,6 @@ Artist: ：D
 
 ---
 
-![](./res/illustration/独立插（目不轉睛）.webp)
-
-Artist: 目不轉睛
-
----
-
 ![](./res/illustration/独立插（千里叁羽）.webp)
 
 Artist: 千里叁羽
