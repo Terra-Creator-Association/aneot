@@ -11,7 +11,7 @@ tag:
 order: 5
 ---
 
-<div style="overflow: auto">
+<div style="overflow: auto; zoom: 1;">
   <p class="textkai text-left-float">
     “拉乌尼达东边的东边，”
     <br />
