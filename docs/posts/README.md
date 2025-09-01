@@ -12,15 +12,15 @@ dir:
 
 <big>
 
-**2025-06: Vol. 26 - 2025 年 06 月号：被联系的** {.centering}
+**2025-08: Vol. 27 - 2025 年 08 月号** {.centering}
 
 </big>
 
 <div style="display: flex; justify-content: center;">
-  <img src="./2025-06/res/cover.webp" alt="Cover Image" style="max-width: 60%;">
+  <img src="./2025-08/res/cover.webp" alt="Cover Image" style="max-width: 60%;">
 </div>
 
-### [**在线阅读**](./2025-06/README.md) {.centering}
+### [**在线阅读**](./2025-08/README.md) {.centering}
 
 ### [**前往下载页面**](https://pan.arktca.com) {.centering}
 
@@ -45,5 +45,7 @@ dir:
 |[2024-04: Vol. 21 <br>2024 年 04 月号](2024-04/)| [2024-07: Vol. 22 <br>2024 年 07 月号：一起走过的，和将要同行的](2024-07/) | [2024-09: Vol. 23 <br>2024 年 09 月号](2024-09/) |
 |![](./2024-12/res/cover.webp)| ![](./2025-03/res/cover.webp) | ![](./2025-06/res/cover.webp) |
 |[2024-12: Vol. 24 <br>2024 年 12 月号：从前有座巴别塔](2024-12/)| [2025-03: Vol. 25 <br>2025 年 03 月号](2025-03/) | [2025-06: Vol. 26 <br>2025 年 06 月号：被联系的](2025-06/) |
+|![](./2025-08/res/cover.webp)| NO INFO | NO INFO |
+|[2025-08: Vol. 27<br>2025 年 08 月号](2025-08/)| 敬请期待 | 敬请期待 |
 
 <FakeAds />
