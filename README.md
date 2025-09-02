@@ -1,8 +1,8 @@
 # Version
 
-Project version: 1.4.0 Health
+Project version: 1.4.1 Health
 
-Data version: 25.03.4
+Data version: 25.09.1
 
 ## Another End of Terra (AnEot)
 
@@ -28,9 +28,9 @@ We only grant you the right to save and share as is. At the same time you must c
 
 **Attribution** — You must give appropriate credit, and indicate if changes were made. You may do so in any reasonable manner, but not in any way that suggests the licensor endorses you or your use.
 
-**NonCommercial** — You may not use the material for commercial purposes.
+**Non-Commercial** — You may not use the material for commercial purposes.
 
-**NoDerivatives** — If you remix, transform, or build upon the material, you may not distribute the modified material.
+**No Derivatives** — If you remix, transform, or build upon the material, you may not distribute the modified material.
 
 **Refuse to train the model** — It shall not be used for any purpose artificial intelligence generation model training, including but not limited to personal, scientific research, teaching and commercial applications.
 
