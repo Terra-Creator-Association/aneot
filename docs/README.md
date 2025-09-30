@@ -6,7 +6,7 @@ title: 主页
 heroText: 回归线
 heroFullScreen: false
 # 在这里修改抬头画师
-tagline: 《回归线》X 雾雨咖啡店 联动
+tagline: 《回归线》× 雾雨咖啡店联动
 # 在这里修改版头主题色 © 
 # 同时修改 config.ts 和 .vuepress/public/mainfest.json 中的 themeColor
 heroAlt: '#ffdf20'
