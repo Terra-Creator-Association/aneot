@@ -1,0 +1,18 @@
+{
+  "sanxing": {
+    "probability": 0.5,
+    "files": ["yh1", "yh2"]
+  },
+  "sixing": {
+    "probability": 0.4,
+    "files": ["yh1", "yh2"]
+  },
+  "wuxing": {
+    "probability": 0.08,
+    "files": ["ym1", "ym2", "ld1", "ld2"]
+  },
+  "liuxing": {
+    "probability": 0.02,
+    "files": ["fl1", "rn1"]
+  }
+}
