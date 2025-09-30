@@ -1,5 +1,5 @@
 ---
-title: 《回归线》X 雾雨咖啡店
+title: 《回归线》× 雾雨咖啡店
 order: 1
 sticky: 1
 ---
