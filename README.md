@@ -2,7 +2,7 @@
 
 Project version: 1.4.0 Health
 
-Data version: 25.09.2 sp
+Data version: 25.10.1 sp
 
 ## Another End of Terra (AnEot)
 
