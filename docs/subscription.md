@@ -18,9 +18,8 @@ index: false
 
 ## 社交平台关注
 
-目前在以下四个平台有入驻
+目前在以下三个平台有入驻
 
 - [哔哩哔哩](https://space.bilibili.com/1317574696)
-- [泰拉通讯枢纽](https://terrach.net/author/14519)
 - [微博](https://weibo.com/u/7414874331)
 - 森空岛（泰拉创作者联合会）
