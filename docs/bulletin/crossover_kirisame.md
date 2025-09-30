@@ -1,7 +1,7 @@
 ---
 title: 《回归线》X 雾雨咖啡店
 order: 1
-star: 1
+sticky: 1
 ---
 
 <!-- more -->
