@@ -19,4 +19,4 @@ sticky: 1
 
 欢迎大家在国庆假期及更多未来的时间与我们一同来到雾雨咖啡店，体验独一无二的咖啡与来自另一个世界的乐趣！
 
-![ ](./res/kirisame/image1.webp) {.centering}
+![ ](./res/kirisame/kirisame.webp) {.centering}
