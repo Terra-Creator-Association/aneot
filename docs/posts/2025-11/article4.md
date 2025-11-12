@@ -2,7 +2,7 @@
 icon: article
 title: 大荒遗梦
 author: BerryTart
-date: 2025-10-28
+date: 2025-11-12
 category:
   - 此地之外
 tag:

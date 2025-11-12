@@ -2,7 +2,7 @@
 icon: article
 title: 在原初之海，浮沉
 author: Norah
-date: 2025-10-28
+date: 2025-11-12
 category:
   - 此地之外
 tag:

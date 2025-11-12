@@ -2,7 +2,7 @@
 icon: article
 title: 东国酱油，姜齐煎饼，御机浩然气，乘龙快哉风
 author: 苻旻
-date: 2025-10-28
+date: 2025-11-12
 category:
   - 午间逸话
 tag:

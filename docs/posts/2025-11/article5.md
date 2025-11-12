@@ -2,7 +2,7 @@
 icon: article
 title: Behind the curtains
 author: BerryTart
-date: 2025-10-28
+date: 2025-11-12
 category:
   - 罗德岛日志
 tag:

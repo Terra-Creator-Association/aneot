@@ -2,7 +2,7 @@
 icon: palette
 title: 漫画一则
 author: LOF@猫机
-date: 2025-10-28
+date: 2025-11-12
 category:
   - 画中秘境
 tag:

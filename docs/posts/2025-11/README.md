@@ -1,7 +1,7 @@
 ---
 icon: repo
 article: false
-title: Vol. 28 - 2025 年 10 月号：让追忆结果的日子
+title: Vol. 28 - 2025 年 11 月号：让追忆结果的日子
 ---
 
 ![](./res/cover.webp) {.centering}

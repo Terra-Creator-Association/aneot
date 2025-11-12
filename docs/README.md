@@ -6,10 +6,10 @@ title: 主页
 heroText: 回归线
 heroFullScreen: false
 # 在这里修改抬头画师
-tagline: © 喵夫斯基 2025·10
+tagline: © 喵夫斯基 2025·11
 # 在这里修改版头主题色 © 
 # 同时修改 config.ts 和 .vuepress/public/mainfest.json 中的 themeColor
-heroAlt: '#ffdf20'
+heroAlt: '#eb9307'
 projects:
   - icon: read
     name: 期刊一览
@@ -18,8 +18,8 @@ projects:
 
   - icon: article
     name: 最新一期
-    desc: Vol.28 2025-10
-    link: posts/2025-10/
+    desc: Vol.28 2025-11
+    link: posts/2025-11/
 
   - icon: cache
     name: 下载
