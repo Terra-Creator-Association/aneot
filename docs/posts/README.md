@@ -18,7 +18,7 @@ dir:
 
 ### [**在线阅读**](./2025-11/README.md) {.centering}
 
-### [**前往下载页面**](https://pan.arktca.com) {.centering}
+### [**前往下载页面**](https://icloud.wuyilingwei.com/arktca) {.centering}
 
 ## **往期回顾** {.centering}
 

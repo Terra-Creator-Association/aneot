@@ -31,6 +31,6 @@ export default navbar([
   {
     text: "下载",
     icon: "storage",
-    link: "https://pan.arktca.com"
+    link: "https://icloud.wuyilingwei.com/arktca"
   }
 ]);
