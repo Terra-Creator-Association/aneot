@@ -31,6 +31,12 @@ Artist: 卡匣
 
 ---
 
+![](./res/illustration/独立插（清淡的小鸭）.webp)
+
+Artist: 清淡的小鸭
+
+---
+
 ![](./res/illustration/内页（喵夫斯基）.webp)
 
 Artist: 喵夫斯基
