@@ -6,10 +6,10 @@ title: 主页
 heroText: 回归线
 heroFullScreen: false
 # 在这里修改抬头画师
-tagline: 《回归线》× 雾雨咖啡店联动
+tagline: © 喵夫斯基 2025·11
 # 在这里修改版头主题色 © 
 # 同时修改 config.ts 和 .vuepress/public/mainfest.json 中的 themeColor
-heroAlt: '#ffdf20'
+heroAlt: '#eb9307'
 projects:
   - icon: read
     name: 期刊一览
@@ -18,13 +18,13 @@ projects:
 
   - icon: article
     name: 最新一期
-    desc: Vol.27 2025-08
-    link: posts/2025-08/
+    desc: Vol.28 2025-11
+    link: posts/2025-11/
 
   - icon: cache
     name: 下载
     desc: Download
-    link: https://pan.arktca.com
+    link: https://icloud.wuyilingwei.com/arktca
 
   - icon: proposal
     name: 征稿启事

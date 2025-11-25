@@ -8,12 +8,12 @@ export default navbar([
     prefix: "/posts/",
     children: [
       "",
-      "2024-07/",
       "2024-09/",
       "2024-12/",
       "2025-03/",
       "2025-06/",
       "2025-08/",
+      "2025-11/",
     ],
   },
   {
@@ -31,6 +31,6 @@ export default navbar([
   {
     text: "下载",
     icon: "storage",
-    link: "https://pan.arktca.com"
+    link: "https://icloud.wuyilingwei.com/arktca"
   }
 ]);

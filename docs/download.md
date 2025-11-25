@@ -14,6 +14,6 @@ sidebar: false
 
 我们的下载服务现已转移到新的地址，旧的API已经弃用，蓝奏云也已停止更新，请点击下面的链接前往新下载站。
 
-## [https://pan.arktca.com](https://pan.arktca.com)
+## [https://icloud.wuyilingwei.com/arktca](https://icloud.wuyilingwei.com/arktca)
 
 谢谢您的理解与支持！
