@@ -22,4 +22,4 @@ index: false
 
 - [哔哩哔哩](https://space.bilibili.com/1317574696)
 - [微博](https://weibo.com/u/7414874331)
-- 森空岛（泰拉创作者联合会）
+- [森空岛](https://www.skland.com/profile?id=9077510708323)
