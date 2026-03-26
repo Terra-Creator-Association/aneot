@@ -9,6 +9,9 @@
     th {
         border: none !important;
     }
+
+    // 为中日韩（CJK）字符和非中日韩字符之间添加间距（所谓“盘古之白”）。
+    text-autospace: normal;
 }
 
 

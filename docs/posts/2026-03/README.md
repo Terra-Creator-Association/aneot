@@ -14,7 +14,7 @@ title: Vol. 29 - 2026 年 03 月号
 - **见字如面 · 罗德岛日志**
   - [苹果热汤速速飞来](article2.html)
   - [红线](article3.html)
-  - [作为迷迭香的100则记录](article4.html)
+  - [何为迷斓眼中](article4.html)
 - **画中秘境**
   - [漫画一则](comic1.html)
   - [画中秘境](paintings.html)
