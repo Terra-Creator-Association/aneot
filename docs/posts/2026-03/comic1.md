@@ -12,12 +12,12 @@ tag:
 order: -2
 ---
 
-![](./res/comic/漫画 左刀行 1.webp) {.centering}
+![](./res/comic/漫画-左刀行-1.webp) {.centering}
 
-![](./res/comic/漫画 左刀行 2.webp) {.centering}
+![](./res/comic/漫画-左刀行-2.webp) {.centering}
 
-![](./res/comic/漫画 左刀行 3.webp) {.centering}
+![](./res/comic/漫画-左刀行-3.webp) {.centering}
 
-![](./res/comic/漫画 左刀行 4.webp) {.centering}
+![](./res/comic/漫画-左刀行-4.webp) {.centering}
 
 <FakeAds />
