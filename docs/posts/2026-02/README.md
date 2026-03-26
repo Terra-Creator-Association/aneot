@@ -1,7 +1,7 @@
 ---
 icon: repo
 article: false
-title: Vol. 29 - 2026 年 03 月号
+title: Vol. 29 - 2026 年 02 月号
 ---
 
 ![](./res/cover.webp) {.centering}
