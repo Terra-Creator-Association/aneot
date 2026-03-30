@@ -21,29 +21,29 @@ order: -1
 
 《回归线》编辑部隶属于泰拉创作者联合会。
 
-### －　《 回 归 线 》 编 辑 部　－
+### 《回归线》编辑部
 
-主　　编　广英
+主　　编：广英
 
-执行主编　伪学霸马克
+执行主编：伪学霸马克
 
-责任编辑　黒子
+责任编辑：黒子
 
-美术总监　Relvr　霜弦
+美术总监：Relvr　霜弦
 
-编　　辑　霜弦　黒子　瑶濯
+编　　辑：霜弦　黒子　瑶濯
 
-美术编辑　黑泥型芙芙
+美术编辑：黑泥型芙芙
 
-排　　版　陈祚　粥铺　R3tr0　Mirror
+排　　版：陈祚　粥铺　R3tr0　Mirror　故帷
 
-网站维护　武乙凌薇　Baka632　伪学霸马克　R3tr0
+网站维护：武乙凌薇　Baka632　伪学霸马克　R3tr0
 
-外部支持　伪学霸马克　黑骑土　萬能De小黑
+外部支持：伪学霸马克　黑骑土　萬能De小黑
 
 ## 关于 TCA
 
-[![](https://img.shields.io/badge/bilibili-%E6%B3%B0%E6%8B%89%E5%88%9B%E4%BD%9C%E8%80%85%E8%81%94%E5%90%88%E4%BC%9A-00a1d6?style=for-the-badge&logo=bilibili)](https://space.bilibili.com/1317574696/)
+[![TCA的哔哩哔哩](https://img.shields.io/badge/bilibili-%E6%B3%B0%E6%8B%89%E5%88%9B%E4%BD%9C%E8%80%85%E8%81%94%E5%90%88%E4%BC%9A-00a1d6?style=for-the-badge&logo=bilibili)](https://space.bilibili.com/1317574696/)
 
 三羧酸循环 (Tricarboxylic acid cycle, TCA cycle)[^1] 是需氧生物体内普遍存在的代谢途径。原核生物中分布于细胞质，真核生物中分布在线粒体。因为在这个循环中几个主要的中间代谢物是含有三个羧基的有机酸，例如柠檬酸 (C6)，所以叫做三羧酸循环，又称为柠檬酸循环 (citric acid cycle) 或者是 TCA 循环。三羧酸循环是三大营养素（糖类、脂类、氨基酸）的最终代谢通路，又是糖类、脂类、氨基酸代谢联系的枢纽。
 
