@@ -44,7 +44,6 @@ export function getVolumeInfoGroup(): Array<Array<{ folderName: string, title: s
     return volumeInfoList;
 }
 
-
 export function getLatestVolumeCover(): string {
     const latestFolder = getLatestFolderName();
     const tuple = postReadmeList.get(latestFolder);
