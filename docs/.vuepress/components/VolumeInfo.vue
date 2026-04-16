@@ -25,8 +25,7 @@
                     </tr>
                     <tr>
                         <td v-for="item in group" :key="item.folderName" style="text-align:center;">
-                            <a style="white-space: pre-wrap;" class="route-link" :href="`/posts/${item.folderName}/`">{{
-                                item.title }}</a>
+                            <a class="route-link" :href="`/posts/${item.folderName}/`" v-html="item.title"></a>
                         </td>
                     </tr>
                 </template>

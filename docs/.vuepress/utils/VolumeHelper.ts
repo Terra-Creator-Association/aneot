@@ -25,9 +25,9 @@ export function getVolumeInfoGroup(): Array<Array<{ folderName: string, title: s
 
     let volumeInfoItem = new Array<{ folderName: string, title: string, coverUri: string }>();
     for (const [volumeFolderName, tuple] of postReadmeList) {
-        const titleRaw: string = matter(tuple.markdown).data.title;
+        const titleRaw: string = getTitleFromMarkdown(tuple.markdown);
 
-        const title = `${volumeFolderName}: ${titleRaw.replace("-", "\n")}`;
+        const title = `${volumeFolderName}: ${titleRaw.replace("-", "<br/>")}`;
 
         if (volumeInfoItem.length === 3) {
             volumeInfoList.push(volumeInfoItem);
@@ -60,9 +60,7 @@ export function getLatestVolumeLink(): string {
 
 export function getLatestVolumeTitle(): string {
     const md = getVolumeReadMe(getLatestFolderName());
-
-    const frontmatter = matter(md).data;
-    return frontmatter.title;
+    return getTitleFromMarkdown(md);
 }
 
 export function getLatestFolderName(): string {
@@ -78,6 +76,12 @@ export function getLatestFolderName(): string {
     if (!latestFolder) throw new Error("No valid folders found in /posts");
 
     return latestFolder;
+}
+
+function getTitleFromMarkdown(md: string): string {
+    // 转义？防止 XSS 攻击是否有措施？
+    const frontmatter = matter(md).data;
+    return frontmatter.title;
 }
 
 function getVolumeReadMe(vol: string): string {
