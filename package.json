@@ -25,6 +25,8 @@
     "@vuepress/plugin-feed": "2.0.0-rc.74",
     "@vuepress/plugin-pwa": "2.0.0-rc.74",
     "@waline/client": "3.3.0",
+    "buffer": "^6.0.3",
+    "gray-matter": "^4.0.3",
     "markdown-it": "^14.1.0",
     "vue-scriptx": "^0.2.7",
     "vuepress-plugin-alert": "0.0.5"

@@ -1,4 +1,5 @@
 import { navbar } from "vuepress-theme-hope";
+import { getNavBarSource } from "./utils/NavBarHelper";
 
 export default navbar([
   "/",
@@ -6,15 +7,7 @@ export default navbar([
     text: "期刊",
     icon: "repo",
     prefix: "/posts/",
-    children: [
-      "",
-      "2024-12/",
-      "2025-03/",
-      "2025-06/",
-      "2025-08/",
-      "2025-11/",
-      "2026-02/",
-    ],
+    children: getNavBarSource()
   },
   {
     text: "关于我们",
