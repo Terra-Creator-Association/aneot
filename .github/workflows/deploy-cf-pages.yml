@@ -44,7 +44,9 @@ jobs:
           restore-keys: pnpm-store-
 
       - name: Install dependencies
-        run: pnpm install
+        run: |
+          pnpm approve-builds --yes
+          pnpm install
 
       - name: Build site
         run: pnpm run docs:build
