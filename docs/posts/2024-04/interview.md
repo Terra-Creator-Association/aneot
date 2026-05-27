@@ -1,6 +1,7 @@
 ---
 icon: note
 title: 特别专访：泡菜
+author: 广英
 date: 2024-04-30
 category:
   - 创作者访谈

@@ -2,6 +2,7 @@
 icon: note
 title: 特别专访：B站UP主 杨颜同学
 shortTitle: 特别专访：杨颜同学
+author: 马克
 date: 2022-08-22
 category:
   - 创作者访谈

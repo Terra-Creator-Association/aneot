@@ -1,6 +1,7 @@
 ---
 icon: note
 title: 特别专访：东方
+author: 伊洛，爱德文
 date: 2022-12-13
 category:
   - 创作者访谈

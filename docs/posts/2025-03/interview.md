@@ -1,6 +1,7 @@
 ---
 icon: note
 title: 特别专访：星野派克
+author: 广英和荣耀
 date: 2025-03-18
 category:
   - 创作者访谈

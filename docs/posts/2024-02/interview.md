@@ -1,6 +1,7 @@
 ---
 icon: note
 title: 特别专访：粽子淞
+author: 黒子
 date: 2024-02-21
 category:
   - 创作者访谈
