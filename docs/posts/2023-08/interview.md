@@ -1,6 +1,7 @@
 ---
 icon: note
 title: 特别专访：柞木不朽
+author: 黒子
 date: 2023-08-12
 category:
   - 创作者访谈

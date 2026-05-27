@@ -1,6 +1,7 @@
 ---
 icon: note
 title: 特别专访：今天鸽子球咕咕了吗
+author: 马克
 date: 2024-09-22
 category:
   - 创作者访谈
