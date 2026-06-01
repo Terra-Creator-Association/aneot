@@ -58,12 +58,34 @@ jobs:
           accountId: ${{ secrets.CLOUDFLARE_ACCOUNT_ID }}
           command: pages deploy docs/.vuepress/dist --project-name=aneot --branch=${{ github.event_name == 'pull_request' && format('pr-{0}', github.event.pull_request.number) || 'main' }}
 
+      - name: Get commit metadata
+        id: commit-info
+        if: github.event_name == 'pull_request' && github.event.pull_request.head.repo.full_name == github.repository
+        env:
+          HEAD_SHA: ${{ github.event.pull_request.head.sha }}
+        run: |
+          echo "COMMIT_SHA=${HEAD_SHA}" >> $GITHUB_ENV
+          echo "COMMIT_SHA_SHORT=${HEAD_SHA::7}" >> $GITHUB_ENV
+          echo "COMMIT_AUTHOR=$(git log -1 --format='%an <%ae>' "${HEAD_SHA}")" >> $GITHUB_ENV
+          echo "COMMIT_TIME=$(git log -1 --format='%aI' "${HEAD_SHA}")" >> $GITHUB_ENV
+          echo "COMMIT_MESSAGE=$(git log -1 --format='%s' "${HEAD_SHA}")" >> $GITHUB_ENV
+
       - name: Comment preview URL on PR
         if: github.event_name == 'pull_request' && github.event.pull_request.head.repo.full_name == github.repository
         uses: actions/github-script@v7
         with:
           script: |
-            const body = `🚀 Preview deployment ready!\n\nURL: ${process.env.DEPLOYMENT_URL}`;
+            const body = [
+              `🚀 Preview deployment ready!`,
+              ``,
+              `| 项目 | 详情 |`,
+              `| :--- | :--- |`,
+              `| Preview URL | ${process.env.DEPLOYMENT_URL} |`,
+              `| Commit | [\`${process.env.COMMIT_SHA_SHORT}\`](https://github.com/${context.repo.owner}/${context.repo.repo}/commit/${process.env.COMMIT_SHA}) |`,
+              `| 提交时间 | ${process.env.COMMIT_TIME} |`,
+              `| 提交者 | ${process.env.COMMIT_AUTHOR} |`,
+              `| 提交信息 | ${process.env.COMMIT_MESSAGE} |`,
+            ].join('\n');
             const { data: comments } = await github.rest.issues.listComments({
               owner: context.repo.owner,
               repo: context.repo.repo,
