@@ -24,7 +24,7 @@ projects:
   - icon: cache
     name: 下载
     desc: Download
-    link: https://icloud.wuyilingwei.com/arktca
+    link: https://studio.arktca.com
 
   - icon: proposal
     name: 征稿启事
