@@ -8,15 +8,17 @@
   "sixing": {
     "probability": 0.4,
     "files": [
-      "yh1",
-      "yh2",
-      "yh1",
-      "yh2"
+      "zf1",
+      "zf2"
     ]
   },
   "wuxing": {
     "probability": 0.08,
     "files": [
+      "yh1",
+      "yh2",
+      "yh1",
+      "yh2",
       "ym1",
       "ym2",
       "ld1",
