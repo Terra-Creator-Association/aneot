@@ -6,10 +6,10 @@ title: 主页
 heroText: 回归线
 heroFullScreen: false
 # 在这里修改抬头画师
-tagline: © 推土车 2026·02
+tagline: © 脆片变体 2026·06
 # 在这里修改版头主题色 © 
 # 同时修改 config.ts 和 .vuepress/public/mainfest.json 中的 themeColor
-heroAlt: '#6c67ae'
+heroAlt: '#579cb2'
 projects:
   - icon: read
     name: 期刊一览
@@ -18,13 +18,13 @@ projects:
 
   - icon: article
     name: 最新一期
-    desc: Vol.29 2026-02
-    link: posts/2026-02/
+    desc: Vol.30 2026-06
+    link: posts/2026-06/
 
   - icon: cache
     name: 下载
     desc: Download
-    link: https://icloud.wuyilingwei.com/arktca
+    link: https://studio.arktca.com
 
   - icon: proposal
     name: 征稿启事

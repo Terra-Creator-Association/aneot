@@ -16,7 +16,7 @@ dir:
 
 ### <VolumeInfo type="latest-link" /> {.centering}
 
-### [**前往下载页面**](https://icloud.wuyilingwei.com/arktca) {.centering}
+### [**前往下载页面**](https://studio.arktca.com) {.centering}
 
 ## **往期回顾** {.centering}
 
