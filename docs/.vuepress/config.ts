@@ -3,6 +3,9 @@ import theme from "./theme";
 import { path } from 'vuepress/utils';
 import { viteBundler } from '@vuepress/bundler-vite';
 import { registerComponentsPlugin } from '@vuepress/plugin-register-components'
+import { generateShortLinkRedirects } from "./utils/ShortLinkHelper";
+
+generateShortLinkRedirects();
 
 export default defineUserConfig({
   lang: "zh-CN",
