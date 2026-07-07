@@ -2,3 +2,4 @@ node_modules/
 docs/.vuepress/.cache/
 docs/.vuepress/.temp/
 docs/.vuepress/dist/
+docs/.vuepress/public/_redirects
